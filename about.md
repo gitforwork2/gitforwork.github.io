@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Modhal Investments
+title: About
 ---
 
 Modhal Investments manages the founders and friends personal money. Investments follow value investing approaches to stock picking in the US Stock markets.

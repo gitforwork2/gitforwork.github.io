@@ -13,7 +13,7 @@ tagline:          ""
 description:      'Stock analysis and investment notes'
 url:              http://gitlook.github.io/
 baseurl:          '/'
-paginate:         1
+paginate:         3
 excerpt_separator: "<br>"
 gems:
 - jekyll-mentions
