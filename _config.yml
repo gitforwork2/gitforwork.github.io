@@ -5,15 +5,15 @@ redcarpet:
 highlighter:         pygments
 
 # Permalinks
-permalink:        /platform/posts/:title/
+permalink:        /posts/:title/
 
 # Setup
-title:            Rajasekar Elango's Blog
+title:            Modhal Investment Management
 tagline:          ""
-description:      'Reflections on programming, technology, books.'
-url:              http://erajasekar.com
+description:      'Stock analysis and investment notes.'
+url:              http://gitlook.github.io/
 baseurl:          '/'
-paginate:         3
+paginate:         1
 excerpt_separator: "<br>"
 gems:
 - jekyll-mentions
@@ -22,17 +22,17 @@ gems:
 - jekyll-sitemap
 
 author:
-  name:           'Rajasekar Elango'
-  url:            http://erajasekar.com
+  name:           'Andhuvan'
+  url:            http://gitlook.github.io/
 
 # Custom vars
 version:          1.3.0
 
 github:
-  repo:           https://github.com/gitlook/platform.github.io
+  repo:           https://github.com/gitlook/gitlook.github.io
 
 
-disqusShortName:     erajasekarblog
-twitterAccountName:   erajasekar
-facebookDevAppId:   1599301546964793
-googleAnalyticsSuperProxyQuery:   http://favorable-mix-751.appspot.com/query?id=ahNzfmZhdm9yYWJsZS1taXgtNzUxchULEghBcGlRdWVyeRiAgICAgICACgw&format=json
+disqusShortName:
+twitterAccountName:
+facebookDevAppId:
+googleAnalyticsSuperProxyQuery:
