@@ -10,7 +10,7 @@ permalink:        /posts/:title/
 # Setup
 title:            Modhal Investments
 tagline:          ""
-description:      'Stock analysis and investment notes.'
+description:      'Stock analysis and investment notes'
 url:              http://gitlook.github.io/
 baseurl:          '/'
 paginate:         1
@@ -22,7 +22,7 @@ gems:
 - jekyll-sitemap
 
 author:
-  name:           'Andhuvan'
+  name:           'Karthick AK'
   url:            http://gitlook.github.io/
 
 # Custom vars
