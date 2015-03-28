@@ -27,6 +27,7 @@ author:
 
 # Custom vars
 version:          1.0
+me:               AK
 
 github:
   repo:           https://github.com/gitlook/gitlook.github.io
