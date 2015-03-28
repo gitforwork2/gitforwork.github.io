@@ -41,21 +41,3 @@ I came looking to the oil rubble to find a few cheap companies. Need less to say
   Shale revolution appears to be an ally and not an enemy to CBI.
 
   Opened a position at 41.63$ on Feb 17 2015 for a time horizon of 5 years.
-
-
-
-US with a small % of world population is a voracious consumer of world's oil. And it goes about touting
-  its lifestyle to other parts of the world, that other countries aspire to match US including India and China. This is driving mankind to go deep
-  into forests, poles, and ocean causing ecological damage to quench this oil thirst. This is the long term trend. The shale revolution induced 1% over supply
-  is nothing compared to the long term trend. So I believe oil and oil industry will recover
-
-Around that time, Berkshire started a position in CBI at around 80$.
-In Spring on 2014, a little known firm published a short thesis, which revolved around accounting irregularities in Shaw acquisition.
-That story estimated the stocks real value to be around 37$. The stock cratered to around 60$ in the subsequent months.
-However, in the following quarterly disclosure it became public that Berkshire bought even more after  the short thesis was published.
-Clearly Berkshire is not concerned about claims of accounting irregularities by the short seller. In fact Berkshire owns about 10% of outstanding stocks. Though a Berkshire position, some people guess this may not be Buffett’s position but one of his money managers.
-
-The second part of the stock slide is tied to energy. As oil price slid in late 2014, it brought down everything remotely related to energy. Since CBI has some energy exposure, it went all the way down to 32$ at one point. 90$ to 32$ in a matter of 8 months because of short thesis and oil price. When I became aware of the stock in Feb 2015, it was trading around 39$. A quick glance led me to believe that the company is not directly ties to oil as much as market thinks. In fact it occurred to me it’s a beneficiary of north American shale revolution as it benefits from many power stations converting to gas from coal. And other construction opportunities involved in exporting cheap natural gas and refinery constructions in the gulf coast. Continuing my research, I noticed David Einhorn, a well-known hedge fund manager has started a small position as of December 2014 at about average price of 50$.  That’s was a turning point as he is known for his in depth analysis of a company’s accounting.
-
-With my general belief that low oil price may not be bad for the company, the only concern is the short thesis. With Berkshire voting against the short thesis with their money for the last 2 years, and David einhorn doing the same at 50$, accounting was no more a concern for me. On top of it, the short thesis estimated the stock’s worth to be at 37$ and read in the internet that fund has closed its short position. With current price slightly at 39$ its close to the fair price estimate of the short thesis even if it turns out to be true.
-So this appeared to be a no brainer to me, so I opened a position in the stock
