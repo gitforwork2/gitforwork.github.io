@@ -39,13 +39,13 @@ I came looking to the oil rubble to find bargains. Need less to say I am bullish
  And subsequently after the release of short thesis, they loaded up more. People speculate that this is not a direct Warren Buffet buy, but one of his managers.
  Nevertheless its a strong vote of confidence (9.9% of the company as of Q4 2014).
 
-  Then, importantly I also noticed that David Einhorn, known for this due diligence on record books, too has taken a position in Q4 2014.
+  At the same time, David Einhorn, known for his due diligence on accounting has also taken a position in Q4 2014.
   You don't need any more endorsements against accounting concerns. But as an icing on the cake, the current stock price of 39$ is almost close to the
    short thesis fair value estimate of 37$.
 
   At this point, it appeared CBI is a no-brainer to me. I did not even feel the need to look at the income statements or balance sheets.
-  With the shale boom, US coal plants are getting converted to NatGas. Nuclear plants are decommissioned. The abundance of US NatGas has triggered export
-  facilities construction along the US Gulf coast. Refineries along the Gulf coast are getting equipped to handle the North American light crude.
+  With the shale boom, US coal plants are getting converted to NatGas. Nuclear plants are decommissioned. NatGas export
+  facilities are being constructed along the US Gulf coast. Gulf coast refineries are upgraded to handle the North American light crude.
   All these are  potential new opportunities to CBI. Shale revolution appears to be an ally and not an enemy to CBI.
 
  Promptly opened a position at 41.63$ on Feb 17 2015 for a time horizon of 5 years or longer.
