@@ -6,7 +6,7 @@ description: 'Why did I buy Chicago Bridge & Iron (CBI)'
 comments: false
 ---
 
-Spoiler alert: This is a very lazy buy! Not much of analysis went into buying and you will see why.
+Spoiler alert: This is a very lazy buy! You will see why.
 
 Chicago Bridge and Iron (CBI) is over a 100 year old engineering construction company. It undertakes complex engineering projects like thermal,
 nuclear power plants, refineries etc.
@@ -41,7 +41,7 @@ I came looking to the oil rubble to find bargains. Need less to say I am bullish
 
   At the same time, David Einhorn, known for his due diligence on accounting has also taken a position in Q4 2014.
   You don't need any more endorsements against accounting concerns. But as an icing on the cake, the current stock price of 39$ is almost close to the
-   short thesis fair value estimate of 37$.
+   short thesis fair value estimate of 37$. 39$ is also much lesser that the avg price paid by Berkshire and Einhorn.
 
   At this point, it appeared CBI is a no-brainer to me. I did not even feel the need to look at the income statements or balance sheets.
   With the shale boom, US coal plants are getting converted to NatGas. Nuclear plants are decommissioned. NatGas export
