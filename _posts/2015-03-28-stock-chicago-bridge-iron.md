@@ -6,7 +6,7 @@ description: 'Why did I buy Chicago Bridge & Iron (CBI)'
 comments: false
 ---
 
-Spoiler alert: No number crunching, A very lazy buy! You will see why.
+Spoiler alert: Coat tail investing!
 
 Chicago Bridge and Iron (CBI) is over a 100 year old engineering construction company. It undertakes complex engineering projects like thermal,
 nuclear power plants, refineries etc.
