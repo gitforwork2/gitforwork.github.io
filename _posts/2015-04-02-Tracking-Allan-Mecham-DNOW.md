@@ -1,3 +1,10 @@
+---
+layout: post
+title: Tracking Allan Mecham DNOW
+tags: Allan Mecham DNOW NOV
+description: 'Tracking Allan Mecham DNOW'
+---
+
 Why Allen Mecham bought DNOW
 
 DNOW is the low margin distribution service spin off from National Oil Varco (NOV). NOV is a popular stock.
