@@ -1,36 +1,53 @@
 ---
 layout: post
 title: Tracking Allan Mecham DNOW
-tags: Mecham dnow nov
+tags: Mecham study dnow nov  mrc
 description: 'Tracking Allan Mecham DNOW'
 ---
 
-Why Allen Mecham bought DNOW
+Allen Mecham recently bought DNOW in q3 and q4 of 2014 for an avg price of x and y respectively. Notable, this was even before the oil plunge.
+While we may never know his investment thesis, I am trying to reconstruct the possibilities.
 
-DNOW is the low margin distribution service spin off from National Oil Varco (NOV). NOV is a popular stock.
-So many people own DNOW as part of the spin off. However, Allen Mecham has bought DNOW from open market in q3 and q4 2014 for a avg price of x and y respectively even before the oil plunge.
+National Oil Varco (NYSE: NOV) over the last decade has been very successful growing through acquisitions, a strategy shaped by its CEO Pete Miller.
+NOV spun off its low margin distribution business as Distribution Now (NYSE:DNOW) in the summer of 2014.
+Interestingly, post spin off Pete Miller moved on to the much smaller DNOW as an **Executive** Chairman.
 
-What did he see in DNOW?
-NOV's success in the last couple of decades has been through acquisitions helmed by Peter Miller. He is a well regarded ceo credited with the superior performance of NOV's acquisitive growth.
-Interestingly post spin off he decided to move to DNOW which is much smaller than NOV. He also decided to become Executive chairman for DNOW participating actively in DNOW's strategy.
+In a fragmented oil distribution industry, MRC Global and DNOW control 24% and 18% market share respectively. Rest by others.
+ MRC itself was put together by Goldman Sachs by acquiring a couple of smaller companies in 2007.  So its clear that both MRC and DNOW aim to grow by consolidation.
+ MRC with debt, has already been acquiring companies. DNOW has same plans.
 
-Oil distribution sector has been vastly fragmented. 24% controlled by MRC Global and 18% controlled by DNOW, rest by others. MRC itself was formed Goldman Sachs after acquiring a couple of distributes.  MRC has been expanding by acquiring companies in the space by adding on debt. For all intents and purposes DNOW is going to follow the same strategy.
+DNOW's EBITDA margin is a lowly 4%, and has stated its aiming for 8%. MRC is already in that range.
 
-Mecham might have seen this as a classic special situation investing with an active chairman known for acquisitive growth in a fragmented industry.
-DNOW doesn't have large plants etc, its generally asset light.
-DNOW also is counter cyclical, as down cycle hits it can easily shrink inventory and save on working capital.
-North American shale revolution is creating lots of midstream and downstream investments, potentially benefiting DNOW.
-Until Q4 results, DNOW's results were cluttered because of spin off and a major SAP software implementation expenses. Mecham might have noticed value through the clutter.
+Possible thesis by Mecham,
 
-He might have chosen because of one or all of above reason or totally something else.
+1.  Special Situation:
+May be a quality spin off which the market is yet to notice and hence undervalued.
 
-Besides his buy, I came across the following during Q4 calls,
-Its more or less clear, that MRC and DNOW are competing to consolidate the fragmented energy distribution space. If that is the case the best time to buy is now when you can fold smaller players for cheap. But MRC because has lots of debt and because of it it has shut shop on the acquisition front. The ceo said their focus is to manage pay back the debt and manage the company conservatively until the downturn is over. On the other hand, DNOW was lucky to become a stand alone company right at the beginning of the oil downturn especially with no debt. DNOW mentioned in its Q4 call that smaller players who mocked at acquisition offers before the oil downturn are calling back to see if the offer still holds.
-So DNOW is disciplined in acquisition like NOV and happens to be lucky.
+2.  Company economics:
+DNOW doesn't have large plants, generally leases warehouses and has asset light operations. Its also counter cyclical, in a downturn it shrinks its inventories and hence working capital.
+ This was confirmed from MRC's q4 call, where it stated that during the down turn its going to pay down more debt. DNOW also has no debt.
 
+3.  Expanding industry:
+Shale revolution is driving higher investment in distribution and gathering systems.
 
+4.  Expanding margin
+DNOW's intent of margin expansion. However, because of industry down turn, the CEO stated that the expansion might be delayed.
 
+5. Management
+DNOW seems to have right management for the industry. They have NOV like compensation structure where bonuses are tied to ROIC and TSR (Total stock holder return).
 
+6. Valuation
+DNOW's income statement is cluttered so far because of spin off and also because of large scale SAP software roll out. May be Mecham was able to look through to locate value.
 
+In my opinion most of the above is applicable to MRC as well. Note that the famous Sequioa fund has a small position in MRC.
 
+#Looking ahead
+In 2014 q4 conf call, the CEO Robert Workman stated that margin expansion might be delayed because of industry down turn. He also shared that companies who literally mocked at their acquisition offers 6 months
+    ago are calling back to re negotiate. DNOW is looking to make disciplined acquisitions. I feel DNOW is lucky to be hunting when valuations are cheap.
 
+On the other hand, during q4 call MRC's made clear that it is freezing acquisitions, hiring, laying off and focused on managing the debt and company through the downturn.
+Instead of being greedy, it is shutting shop.
+
+Overall, While DNOW's seems to be in an advantageous position, its stock has fallen from 35$ to 21$ along with the industry.
+If Mecham sees the same way he could have averaged down, if not he might have decided to sell cutting down the losses.
+Awaiting 2015 Q1 disclosure.
