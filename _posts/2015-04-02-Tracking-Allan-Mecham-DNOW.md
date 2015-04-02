@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tracking Allan Mecham DNOW
-tags: 'Allan Mecham' DNOW NOV
+tags: Mecham DNOW NOV
 description: 'Tracking Allan Mecham DNOW'
 ---
 
