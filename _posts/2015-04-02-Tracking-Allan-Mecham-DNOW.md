@@ -5,14 +5,14 @@ tags: Mecham study dnow nov  mrc
 description: 'Tracking Allan Mecham DNOW'
 ---
 
-Allen Mecham recently bought DNOW in q3 and q4 of 2014 for an avg price of 30$ and 25$ respectively. Notable, this was even before the oil plunge.
+Allen Mecham recently bought DNOW in q3 and q4 of 2014 for a reported price of 30$ and 25$ respectively. Notable, this was even before the oil plunge.
 While we may never know his investment thesis, I am trying to reverse engineer
 
 National Oil Varco (NYSE: NOV) over the last decade has been very successful growing through acquisitions, a strategy adopted by its CEO Pete Miller.
 NOV spun off its low margin distribution business as Distribution Now (NYSE:DNOW) in the summer of 2014.
 Interestingly, post spin off Pete Miller moved on to the much smaller DNOW as its **Executive** Chairman.
 
-In a fragmented oil distribution industry, MRC Global and DNOW control 24% and 18% market share respectively. Rest by others.
+In a fragmented oil distribution industry, MRC Global and DNOW control 24% and 18% market share respectively. Rest by other smaller companies.
  MRC itself was put together by Goldman Sachs by acquiring a couple of smaller companies in 2007.  Both MRC and DNOW seem to aim growth by consolidation.
  MRC with debt, has already been acquiring companies.
 
@@ -39,13 +39,14 @@ DNOW seems to have right management for the industry. They also have NOV like co
 6. Valuation:
 DNOW's income statement is cluttered so far because of spin off and also because of large scale SAP software roll out. May be Mecham was able to look through to locate value.
 
-In my opinion most of the above is applicable to MRC as well. And note that the famous Sequioa fund has a small position in MRC.
+Many of the above is applicable to MRC as well. And note that the famous Sequioa fund has a small position in MRC.
 
 #Looking ahead
-In 2014 q4 conf call, the CEO Robert Workman stated that margin expansion might be delayed because of industry down turn. He also shared that companies who mocked at their acquisition offers 6 months
-    ago are calling back to re negotiate. DNOW is looking to make disciplined acquisitions. I feel DNOW is lucky to be hunting when valuations are cheap.
+In 2014 q4 conf call, the CEO Robert Workman stated that margin expansion might be delayed because of industry down turn.
+He also added that whoever mocked at their offer 6 months ago are now calling back to renegotiate.
+DNOW is lucky to be hunting when valuations are cheap.
 
-On the other hand, during q4 call MRC's made clear that it is freezing acquisitions, hiring, laying off and focused on managing the debt and company through the downturn.
+On the other hand, during q4 call MRC's made it clear that it is laying off employees, freezing acquisitions etc., through the downturn.
 Instead of being greedy, it is shutting shop.
 
 Overall, While DNOW's seems to be in an advantageous position, its stock has fallen from 35$ to 21$ along with the industry.
