@@ -39,7 +39,7 @@ DNOW's income statement is cluttered so far because of spin off and also because
 
 Many of the above is applicable to MRC as well. And note that the famous Sequioa fund has a small position in MRC.
 
-Except price to book all other conventional metrics indicate an expensive stock.
+Except price to book all other conventional metrics indicate an expensive stock (data from gurufocus.com).
 Mecham bought the stock at a higher valuation than the data below.
 <iframe width='700' height='150' src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
