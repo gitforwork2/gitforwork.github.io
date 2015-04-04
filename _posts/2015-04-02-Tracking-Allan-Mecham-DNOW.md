@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tracking Allan Mecham DNOW
-tags: Mecham study dnow nov  mrc
+tags: Mecham study dnow mrc
 description: 'Tracking Allan Mecham DNOW'
 ---
 
