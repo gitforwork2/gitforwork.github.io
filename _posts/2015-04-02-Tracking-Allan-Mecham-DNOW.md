@@ -41,7 +41,7 @@ DNOW's income statement is cluttered so far because of spin off and also because
 
 Many of the above is applicable to MRC as well. And note that the famous Sequioa fund has a small position in MRC.
 
-<iframe width='700' height='250' src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='700' height='150' src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 #Looking ahead
