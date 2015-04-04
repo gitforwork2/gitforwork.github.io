@@ -16,8 +16,6 @@ In a fragmented oil distribution industry, MRC Global and DNOW control 24% and 1
  MRC itself was put together by Goldman Sachs by acquiring a couple of smaller companies in 2007.  Both MRC and DNOW seem to aim growth by consolidation.
  MRC with debt, has already been acquiring companies.
 
-DNOW's EBITDA margin is a lowly 4%, and has stated long term goal of 8%. MRC is already in that range.
-
 Possible thesis by Mecham,
 
 1. Classic Special Situation:
@@ -41,8 +39,11 @@ DNOW's income statement is cluttered so far because of spin off and also because
 
 Many of the above is applicable to MRC as well. And note that the famous Sequioa fund has a small position in MRC.
 
+Except price to book all other conventional metrics indicate an expensive stock.
+Mecham bought the stock at a higher valuation than the data below.
 <iframe width='700' height='150' src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+Not sure what attracted Mecham to DNOW. It's a bit disappointing that I couldn't glean anything on valuation.
 
 #Looking ahead
 In 2014 q4 conf call, the CEO Robert Workman stated that margin expansion might be delayed because of industry down turn.
@@ -53,5 +54,5 @@ On the other hand, during q4 call MRC's made it clear that it is laying off empl
 Instead of being greedy, it is shutting shop.
 
 Overall, While DNOW's seems to be in an advantageous position, its stock has fallen from 35$ to 21$ along with the industry.
-If Mecham sees the same way he could have averaged down, if not he might have decided to sell cutting down the losses.
+If Mecham has seen value at 30$, at 21$ he should have loaded more, if not he might have decided to sell cutting down the losses.
 Awaiting 2015 Q1 disclosure.
