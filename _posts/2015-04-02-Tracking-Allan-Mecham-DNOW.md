@@ -41,6 +41,9 @@ DNOW's income statement is cluttered so far because of spin off and also because
 
 Many of the above is applicable to MRC as well. And note that the famous Sequioa fund has a small position in MRC.
 
+<iframe src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
 #Looking ahead
 In 2014 q4 conf call, the CEO Robert Workman stated that margin expansion might be delayed because of industry down turn.
 He also added that whoever mocked at their offer 6 months ago are now calling back to renegotiate.
