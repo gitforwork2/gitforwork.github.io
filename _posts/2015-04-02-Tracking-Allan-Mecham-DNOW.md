@@ -47,7 +47,7 @@ src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT6
 
 
 <iframe width='700' height='150'
-src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/gviz/tq?tq=select%20AsOf">
+src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/gviz/tq?tq=select%20EV">
 </iframe>
 
 Looking at 2013 that is before the one time spin off and SAP software expenses, per share EBIT is 2.09$. So at 30$ price, Mecham
