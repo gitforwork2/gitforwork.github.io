@@ -41,11 +41,19 @@ Many of the above is applicable to MRC as well. And note that the famous Sequioa
 
 Except price to book all other conventional metrics indicate an expensive stock (data from gurufocus.com).
 Mecham bought the stock at a higher valuation than the data below.
-<iframe width='700' height='150' src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='700' height='150'
+src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
+</iframe>
+
+
+<iframe width='700' height='150'
+src="https://docs.google.com/spreadsheets/d/1sO7G3Sf47B06pEZStdJ3_Vy2-UXXv5pSNT63LstmTdk/gviz/tq?tq=select%20A%2C%20B%20">
+</iframe>
 
 Looking at 2013 that is before the one time spin off and SAP software expenses, per share EBIT is 2.09$. So at 30$ price, Mecham
-seems to have approximately paid 15 times pre-tax income.
-Not sure what attracted Mecham to DNOW. It's a bit disappointing that I couldn't glean anything on valuation.
+seems to have approximately paid 15 times pre-tax income which seems to be a bit expensive to me.
+Overall, positive business traits of DNOW may have attracted him to the stock.
+But unsure of his valuation techniques.
 
 #Looking ahead
 In 2014 q4 conf call, the CEO Robert Workman stated that margin expansion might be delayed because of industry down turn.
