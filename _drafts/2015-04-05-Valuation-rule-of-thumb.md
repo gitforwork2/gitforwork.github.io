@@ -1,3 +1,12 @@
+---
+layout: post
+title: Sample post
+date: 2015-03-21
+tags: blogging
+comments: false
+description: This is a sample post
+---
+
 On an average US stock market has returned 10% over a long arc of time.
 We also know on a similar long arc of time, a stock's return track the underlying business returns.
 At 15% returns, it takes 6.66 years to get back the original invested money.
@@ -23,7 +32,7 @@ p*n*(r/100) = p; if r is 30% and n=10
 0.3*10
 
 You want to pay upto 10 times ebit for a business that earns atleast 10% roic. So worst case you expect to make the
-money back in 10 years. 
+money back in 10 years.
 
 
 
