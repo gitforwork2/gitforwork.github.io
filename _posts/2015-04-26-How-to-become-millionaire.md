@@ -37,7 +37,7 @@ In summary, 400,000$ is what it takes to get to be a millionaire in 15 years at 
 That seems doable to many! Probably many are already doing it.
 I wish I had known this 15 years ago!
 
-Reference:
-  [Chuck Akre's compounding video](https://www.youtube.com/watch?v=XRCjdAPIlZg)
+##Reference:
+  +[Chuck Akre's compounding video](https://www.youtube.com/watch?v=XRCjdAPIlZg)
 
 
