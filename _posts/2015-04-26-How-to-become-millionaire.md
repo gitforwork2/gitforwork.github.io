@@ -38,6 +38,6 @@ That seems doable to many! Probably many are already doing it.
 I wish I had known this 15 years ago!
 
 ##Reference:
-  +[Chuck Akre's compounding video](https://www.youtube.com/watch?v=XRCjdAPIlZg)
+  + [Chuck Akre's compounding video](https://www.youtube.com/watch?v=XRCjdAPIlZg)
 
 
