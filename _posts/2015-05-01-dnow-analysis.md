@@ -5,44 +5,43 @@ tags: dnow
 description: 'Valuation DNOW'
 comments: false
 ---
-DNOW's 2014 EBITDA is cloudy because of lots of one time expenses connected to the company's separation from NOV.
-2013 EBITDA 241
-2014 EBITDA 202
-Avg:221.5, Here after referred to as just EBITDA
+DNOW's 2014 EBITDA is significantly less than 2013. 2014 revenue seems to have come in slightly less than 2013.
+Annual report alludes to extra one time investments needed to function as a standalone company and also
+one time major resource planning IT implementation investment. Since the management indicates these are one time investments,
+I decided to take the mean of 2013 and 2014 EBITDA for rest of the valuation.
+That average of $221m here after simply referred to just as EBITDA.
 
-DNOW has $1b revolver. Let's assume they are able to deploy 3 times EBITDA of 664m in acquisitions in the next 2 years.
-Its not unreasonable to assume acquisitions are made by paying 8 times EBITDA. This will fetch $83m add on EBITDA.
-After 2 years, new EBITDA would be at $304m. That's a 17% CAGR. This assumes no margin improvements.
-No organic growth/shrink.
-No share dilution.
+Lets change tracks a bit and look at some private value transactions in the past in this space.
+Here is a [link](http://www.stockspinoffs.com/2013/10/25/national-oilwell-varco-distribute-distribution-business/)
+about CE Franklin acquisition by NOV,
 
+    May 2012 – the company acquired CE Franklin from Schlumberger (SLB) at a reported ~8.1x EBITDA and .4x Revenue.
+    April 2012 – the company acquired Wilson International at .4x revenue
+
+Another quick search lead me to DNOW's competitor, MRC's [10K](http://www.sec.gov/Archives/edgar/data/1439095/000119312513466793/d640547d8k.htm)
+about an acquisition of privately held Norwegian company,
+
+    Stream’s 2014 EBITDA is expected to be approximately $30 million, and the acquisition purchase price reflects a
+    multiple of 8.7 times estimated 2014 EBITDA.
+
+This seemed to indicate that 8x EBITDA seems to be a common valuation multiple. This seems to be inline with multiples
+used by rollups. DNOW has $1b revolver. Let's assume they are able to deploy 3 times EBITDA of 664m in
+acquisitions in the next 2 years. At 8 times EBITDA, it will add $83m EBITDA by 2017. So, after 2 years, new EBITDA
+would be at $304m. That's a 17% CAGR of EBITDA. This calculation assumes no margin improvements.
+No organic growth/shrink either. And no share dilution considering the capital deployed is well below the revolver.
+
+After 2 years,
 If the market values at the same multiple as of today that would also fetch us a return of 17%.
 However, at $24.4 market values dnow at approx 12 times EBITDA. This rather seems high compared to private transaction
-multiples. Assuming multiple comes down to 10, market cap comes to just over $3b.
-To aim for atleast 15% CAGR over the next 2 years, today's market cap should be $2.3b. With 102m outstanding shares that's
- about 22.5$ per share.
-How about at a more reasonable 9 times EBITDA multiple?
-2 year mkt cap will be $2.7b. So today it has to be at $2.04b translating to 20$ per share.
+multiples we have seen.
 
+Assuming multiple comes down to 10, market cap would be just over $3b.
+To aim for a 15% investment CAGR over the next 2 years, today's market cap should be $2.3b.
+With 102m outstanding shares that's about 22.5$ per share.
 
-will add 83m to the EBITDA of the whole company in the next 2 years.
-New EBITDA is $304m.
-So at 10 times the new EBITDA of 311 make the company worth $3.11 billions.
-With current market cap at 2.64, that's close to 12% CAGR.
-
-MRC:
-http://www.sec.gov/Archives/edgar/data/1439095/000119312513466793/d640547d8k.htm
-It has paid 8.7 times EBITDA for acquiring a Stream AS a Norway company in 2013
-
-http://www.stockspinoffs.com/2013/10/25/national-oilwell-varco-distribute-distribution-business/
-
-241 to 331 EBITDA in 2 years gives 17% CAGR.
-Current EBITDA per share 2.25; Apply 17% CAGR for 2 years gives 3.08$.
-Multiple  Value
-11        33.88
-9         27.72
-
-At 20$ per share, potential 2 year compounded return will be a attractive 16%.
+Assuming multiple comes down to 9, market cap would be $2.7b.
+To aim for the same 15% investment CAGR over the next 2 years, today's market cap should be $2.04b.
+That translates to roughly 20$ per share.
 
 
 
