@@ -22,22 +22,26 @@ India based IT companies have a advantage. Because they have access to talent at
 The growth of many Indian IT service companies like TCS, Wipro, HCL prove that fact. Cognizant even though is based out of US,
 it has its vast majority of operations in India.
 
-Though the industry has no barriers to entry, most companies seem to not engage in destructive price wars. The industry as a
-whole seem to be value creating for the investors.
+Mostly companies seem to not engage in destructive price wars. The industry as a whole seem to be value creating for the investors.
 Why should it be that way?
-The biggest operational expense is employee salary. Free market ensures similar costs to all the players.
-No company can expect to have sustainable cost savings by salary reduction.
-Hence, probably each firm seem to be content maintaining their target margin.
+The biggest operational expense is the employee salary. Free market ensures similar costs to all the players.
+No company can expect to have sustainable cost savings by salary reduction and hope to have access to talent.
+Hence, probably each firm seem to be content maintaining their target margins and not engage in price wars.
+This may be a manifestation of cooperative oligopolies. In the long run, I feel India based operators have advantage
+of offering value to customers by offering to partner in quality IT work for low cost.
 
-Now on to cognizant (CTSH). It has compounded book value at 30% for the past 10 years and 20% in the past 5 years.
-Growth seems to have slowed a bit. But I think it may have stabilized around 15-20%.
-This 15-20% can come from gaining more market share, gaining higher value work in US. It still has potential market share
-opportunities outside Europe. Furthermore, it can do acquisitions as it has done in recent past.
-Finally, its business consulting side seems to be small but with traction.
+Now on to cognizant (CTSH). Cognizant though is based out of New Jersey, vast majority of its operations are in India.
+It has an American face with Indian body.
+It has compounded book value at 30% for the past 10 years and 20% in the past 5 years.
+Growth seems to have slowed a bit. But I think it may be able to sustain around 15-20%.
+This 15-20% can come from gaining more market share, gaining higher value work in the US. Its revenues are still US heavy,
+hence it still has potential market share opportunities outside the US. This can be organic or through acquisitions as it has been
+doing recently. Finally, its business consulting side seems to be small but with legs.
 
 Valuation,
 Current trailing PE of 22 seems to be in within the range the company has traded in last few years.
-And it seems to be fair price.
+If the company grows in the 15-20% range with a low cost advantage in a coop oligopoly, there is a good
+chance the multiple will remain that way in the next 2-3 years. Hence the current price is not cheap but seems fair.
 
 Bought CTSH @54.04 on 12/05/2014.
 
