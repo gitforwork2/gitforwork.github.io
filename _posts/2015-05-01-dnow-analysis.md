@@ -19,7 +19,7 @@ about CE Franklin acquisition by NOV,
     April 2012 – the company acquired Wilson International at .4x revenue
 
 Another quick search lead me to DNOW's competitor, MRC's [10K](http://www.sec.gov/Archives/edgar/data/1439095/000119312513466793/d640547d8k.htm)
-about an acquisition of privately held Norwegian company,
+about an acquisition of a privately held Norwegian company,
 
     Stream’s 2014 EBITDA is expected to be approximately $30 million, and the acquisition purchase price reflects a
     multiple of 8.7 times estimated 2014 EBITDA.
@@ -46,7 +46,7 @@ That translates to roughly 20$ per share.
 
 Can all this happen? There seems to be possibilities. The industry is undergoing a depression, dnow happens to enter it with
 a strong balance sheet and an executive chairman known for running a acquisitive strategy. Management incentives are also aligned to
-share holder interest(same as NOV), tied to total stock holder return and return on equity compared to their service peers.
+share holder interest (same as NOV), tied to total stock holder return and return on equity compared to their peers.
 Also consider the vast amount of investments that have to made in upstream and mid stream to bring the shale oil to
 the gulf coast refineries. With more scale, EBITDA margins will also improve.
 There seems to be a reasonable chance of DNOW doing well.
