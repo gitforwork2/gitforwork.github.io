@@ -47,7 +47,7 @@ That translates to roughly 20$ per share.
 In summary,
 
   EBITDA Multiple | Return | Purchase price
-  --------------- |:------:| --------------
+  :---------------: |:------:| :--------------:
         10        |   15%  | $22.5
          9        |   15%  | $20
 
