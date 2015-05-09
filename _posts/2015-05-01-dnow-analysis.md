@@ -44,8 +44,10 @@ Assuming multiple comes down to 9, market cap would be $2.7b.
 To aim for the same 15% investment CAGR over the next 2 years, today's market cap should be $2.04b.
 That translates to roughly 20$ per share.
 
+In summary,
+
 EBITDA Multiple | Return | Purchase price
---------------- | ------ | --------------
+--------------- |:------:| --------------
   10            | 15%    | $22.5
    9            | 15%    | $20
 
