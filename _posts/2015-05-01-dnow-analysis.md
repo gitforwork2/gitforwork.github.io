@@ -48,8 +48,8 @@ In summary,
 
   EBITDA Multiple | Return | Purchase price
   --------------- |:------:| --------------
-    10            | 15%    | $22.5
-     9            | 15%    | $20
+        10        |   15%  | $22.5
+         9        |   15%  | $20
 
 Can all this happen? There seems to be possibilities. The industry is undergoing a depression, dnow happens to enter it with
 a strong balance sheet and an executive chairman known for running a acquisitive strategy. Management incentives are also aligned to
