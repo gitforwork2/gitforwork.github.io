@@ -34,7 +34,7 @@ No organic growth(loss) either. And no share dilution considering the capital de
 After 2 years,
 If the market values at the same multiple as of today that would also fetch us a return of 17%.
 However, at $24.4 market values dnow at approx 12 times EBITDA. This rather seems high compared to private transaction
-multiples we have seen.
+multiples we have seen earlier.
 
 Assuming multiple comes down to 10, market cap would be just over $3b.
 To aim for a 15% investment CAGR over the next 2 years, today's market cap should be $2.3b.
@@ -43,6 +43,11 @@ With 102m outstanding shares that's about 22.5$ per share.
 Assuming multiple comes down to 9, market cap would be $2.7b.
 To aim for the same 15% investment CAGR over the next 2 years, today's market cap should be $2.04b.
 That translates to roughly 20$ per share.
+
+EBITDA Multiple | Return| Purchase price
+----------------|-------|---------------
+  10            | 15%   | $22.5
+   9            | 15%   | $20
 
 Can all this happen? There seems to be possibilities. The industry is undergoing a depression, dnow happens to enter it with
 a strong balance sheet and an executive chairman known for running a acquisitive strategy. Management incentives are also aligned to
