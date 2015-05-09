@@ -14,7 +14,7 @@ downturn, nothing specific to NOV. NOV should be able to weather the storm for n
 and ready for upturn once the industry rebounds.
 
 #Valuation
-Since this is a cyclical industry I am taking the average of the last 10 years pretax earnings which include 2
+Since this is a cyclical company, I am taking the average of the last 10 years pretax earnings which include 2
 downturns. That 10 year pretax earnings average: $2383
 
 At current market cap of $20650, it sells for a pretax multiple of 8.66.
@@ -26,6 +26,6 @@ As mentioned in the earlier post on DNOW, NOV's management incentives are aligne
 Also, NOV is one of the top 10 oil service provider in terms of return on capital.
 NOV is a strong company and could come out much stronger.
 
-Might give satisfactory returns if planning to hold this for 3-5 years or more.
+Should give satisfactory returns, over a holding period of 3-5 years or more. Current dividend yield is 3.3%
 
 
