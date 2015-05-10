@@ -27,7 +27,7 @@ about an acquisition of a privately held Norwegian company,
 These indicate that 8x EBITDA as a commonly used valuation multiple. This also seems to be inline with multiples
 used by other rollup type companies I have noticed.
 
-Now, DNOW has about $1b revolver. Let's assume they are able to deploy 3 times EBITDA of 664m in acquisitions in the next 2 years.
+Now, DNOW has about $750m revolver. Let's assume they are able to deploy 3 times EBITDA of 664m in acquisitions in the next 2 years.
 At 8 times EBITDA, it will add $83m EBITDA by 2017. So, after 2 years, new EBITDA would be at $304m. That's a 17% CAGR of EBITDA. This calculation assumes no margin improvements.
 No organic growth(loss) either. And no share dilution considering the capital deployed is well below the revolver.
 
