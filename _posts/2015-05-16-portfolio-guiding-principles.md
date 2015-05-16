@@ -16,7 +16,7 @@ comments: false
 
 ##Sustain
 
-###Market
+#####Market
   The famous, Mr.Market as a manic depressive guy, is a very helpful mental construct to navigate market fluctuations.
   But this mental construct can also terribly mislead you. Its very important to remember that Mr.Market is mostly
   a sane guy. Only rarely does he become irrational, typically in the extreme positive or negative situations.
@@ -30,7 +30,7 @@ comments: false
       understand that's going to happen, then you're not ready,
       you won't do well in the markets."
 
-###Volatality
+#####Volatality
   Buying a stock below its intrinsic value doesn't mean the stock goes straight up after purchase. The stock might
   deteriorate sharply, unconnected to the underlying business. Roger Loweinstein's book about Buffett mentions an incident.
   Somewhere in the 70s/80s, the stocks he bought after a large market decline, declined further 50% in the next 2 years.
@@ -43,7 +43,7 @@ comments: false
         gonna be cold. You don't panic when the thermometer falls
         below zero."
 
-###Timing
+#####Timing
   Stock prices zig and zag and it may be tempting to indulge in swing trades. But that's hardly a sustainably way to profit
   in the long run. It means only 2 abilities; impeccable prediction and timing, which by the way no human has mastered.
   Buffett explained that he invested in Goldman Sachs during the 2008 financial crises immediately when he found a
