@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use FOIA to request an approved I140
+title: How to use FOIA to request an approved I140 application document
 date: 2015-12-10
 tags: I140 FOIA Immigration
 comments: false
@@ -21,6 +21,14 @@ description: Overview of the process to apply FOIA for getting approved I140 app
 ###Does USCIS charge for the service?
 * * *
 ###OK I am ready. What are the steps to request the I140 information?
+* * *
+###What is an A-number?
+* * *
+###Is it the same as PERM reference number which looks like A-xxx-xxx-xxxx?
+* * *
+###I studied in the US, My OPT EAD card has an A-number. Is it the same?
+* * *
+###People state that ones A-number can be obtained by calling USCIS Support/Infopass? Do I need to do that?
 * * *
 ###Where do I send the documents?
 * * *
