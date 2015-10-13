@@ -10,7 +10,8 @@ description: Overview of the process to apply FOIA for getting approved I140 app
 #####Will my employer come to know of my I140 FOIA request to USCIS?
 #####My employer didn't share either the I140 case number or approval number. Is it still possible to apply?
 #####How long does USCIS take to respond?
-#####How do I request the I140 documents?
+#####Does USCIS charge for the service?
+#####What are the steps to request the I140 information?
 #####What forms do I fill?
 #####Where do I send the documents?
 #####What are the steps after sending the FOIA forms?
