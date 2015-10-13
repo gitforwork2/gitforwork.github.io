@@ -22,9 +22,17 @@ description: Overview of the process to apply FOIA for getting approved I140 app
 * * *
 ###OK I am ready. What are the steps to request the I140 information?
 * * *
-###What is an A-number?
+###The form asks about "Description of Record Requested" -- which one should I check complete alien file (A-file) or other?
 * * *
-###Is it the same as PERM reference number which looks like A-xxx-xxx-xxxx?
+###Do I need to give the purpose?
+* * *
+###In the section 3 (subject of record consent to release info). What should I request all of my records or portion of records
+* * *
+###Is it mandatory to get the FOIA application notarized?
+* * *
+###What is an A-#?
+* * *
+###I have a A-xxxxx-xxxxx when my labour/PERM was filed. Is it the same number?
 * * *
 ###I studied in the US, My OPT EAD card has an A-number. Is it the same?
 * * *
