@@ -6,7 +6,7 @@ tags: I140 FOIA Immigration
 comments: false
 description: Overview of the process to apply FOIA for getting approved I140 application.
 ---
-###Will my employer come to know of my I140 FOIA request to USCIS?
+###What is FOIA application? Will my employer come to know of my I140 FOIA request to USCIS?
 * * *
 ###My employer didn't share either the I140 case number or approval number. Is it still possible to apply?
 * * *
