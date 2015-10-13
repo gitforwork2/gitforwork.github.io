@@ -8,20 +8,18 @@ description: Overview of the process to apply FOIA for getting approved I140 app
 ---
 ###What is FOIA application? Will my employer come to know of my I140 FOIA request to USCIS?
 * * *
-###My employer didn't share either the I140 case number or approval number. Is it still possible to apply?
+###My employer didn't share either my I140 case number or approval number. Is it still possible to apply?
+* * *
+###What documents does USCIS provide us? Are they sufficient to port the priority date through another employer or apply for H1b extension?
 * * *
 ###How long does USCIS take to respond?
-* * *
-###What documents does USCIS provide us? Is the documents sufficient to port the priority date or apply for H1b extension?
 * * *
 ###Does USCIS charge for the service?
 * * *
 ###What are the steps to request the I140 information?
 * * *
-###What forms do I fill?
-* * *
 ###Where do I send the documents?
 * * *
-###What are the steps after sending the FOIA forms?
+###What happens after making the FOIA request?
 
 
