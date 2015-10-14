@@ -10,7 +10,7 @@ permalink:        /posts/:title/
 # Setup
 title:            MinMini
 tagline:          ""
-description:      'Stock analysis & Investment notes'
+description:      'Green card tracking'
 url:              http://gitforwork.github.io/
 baseurl:          '/'
 paginate:         3
@@ -27,7 +27,7 @@ author:
 
 # Custom vars
 version:          1.0
-me:               Karthick AK
+me:               MinMini Staff
 
 github:
   repo:           https://github.com/gitforwork/gitforwork.github.io
