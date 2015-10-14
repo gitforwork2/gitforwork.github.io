@@ -1,6 +1,6 @@
 ---
 layout: post
-title: v2 How to use FOIA to request an approved I140 application document
+title: How to use FOIA to request an approved I140 application document
 date: 2015-12-10
 tags: I140 FOIA Immigration
 comments: false
