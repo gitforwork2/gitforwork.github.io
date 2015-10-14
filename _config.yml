@@ -11,7 +11,7 @@ permalink:        /posts/:title/
 title:            Modhal Investments
 tagline:          ""
 description:      'Stock analysis & Investment notes'
-url:              http://gitlook.github.io/
+url:              http://gitforwork.github.io/
 baseurl:          '/'
 paginate:         3
 excerpt_separator: "<br>"
@@ -23,14 +23,14 @@ gems:
 
 author:
   name:           'Modhal Investments'
-  url:            http://gitlook.github.io/
+  url:            http://gitforwork.github.io/
 
 # Custom vars
 version:          1.0
 me:               Karthick AK
 
 github:
-  repo:           https://github.com/gitlook/gitlook.github.io
+  repo:           https://github.com/gitforwork/gitforwork.github.io
 
 
 disqusShortName:
