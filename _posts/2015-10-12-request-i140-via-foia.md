@@ -29,16 +29,6 @@ No. USCIS generally doesn't charge for the service.
 * * *
 ###OK I am ready. What are the steps to request the I140 information?
 * * *
-###The form asks about "Description of Record Requested" -- which one should I check complete alien file (A-file) or other?
-* * *
-###Do I need to give the purpose?
-No. you can leave this field empty
-* * *
-###In the section 3 (subject of record consent to release info). What should I request all of my records or portion of records
-* * *
-###Is it mandatory to get the FOIA application notarized?
-No. You can also "Sign under perjury". Its upto you to decide.
-* * *
 ###What is an A-#?
 This is a number USCIS uniquely assigns to you after your I140 is approved. This number is carried all the way through to your green card. If you have obtained a visa extension with approved I140, your I797 should have the A-number.
 * * *
