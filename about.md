@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About/Disclaimer
+title: About
 ---
 
 {{site.author.name}} This site contains information collected from the internet.
@@ -16,7 +16,6 @@ independent research.
 
 In no event we will be liable for any loss or damage including without limitation, indirect or consequential loss or
 damage, whatsoever in connection with, the use of this website.
-Through this website you are able to link to other websites which are not under the control of [Website Name].
 
 </div>
 <br/>
