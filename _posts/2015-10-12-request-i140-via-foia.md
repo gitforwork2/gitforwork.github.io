@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to use FOIA to request an approved I140 application document
-date: 2015-12-10
+title: Request an approved I140 through FOIA - Overview
+date: 2015-10-16
 tags: I140 FOIA Immigration
 comments: false
 description: Overview of the process to apply FOIA for getting approved I140 application.
@@ -18,8 +18,8 @@ Yes. It is possible to request FOIA with just basic information like your DOB, p
 Yes. USCIS sends a copy of I140 application with approval stamp which should be sufficient.
 * * *
 ###How long does USCIS take to respond?
-Typically, 3-4 months. USCIS follows 3 track system. If your request is simple enough to locate they may respond quicker. If the documents requested in complex they put you in the complex stream. For each tracks the turnover time can be 
-verfiied here. 
+Typically, 3-4 months. USCIS follows 3 track system. If your request is simple enough to locate they may respond quicker. If the documents requested in complex they put you in the complex stream. For each tracks the turnover time can be
+verfiied here.
 * * *
 ###I am in a hurry, Can I expedite the process with USCIS?
 Unfortunately no. It's better to plan ahead.
@@ -49,7 +49,7 @@ No. That is a different number. Refer to the above question.
 No. That is a different number too. Refer to the above question.
 * * *
 ###People state that ones A-number can be obtained by calling USCIS Support/Infopass? Do I need to do that?
-No. It's not mandatory. While getting your A-number is beneficial, many people have indicated they were sucessful without one. USCIS is able to locate your documents with imple information like your passport #, date of birth, latest I-94 # etc. 
+No. It's not mandatory. While getting your A-number is beneficial, many people have indicated they were sucessful without one. USCIS is able to locate your documents with imple information like your passport #, date of birth, latest I-94 # etc.
 * * *
 ###Where do I send the documents?
 You can do one of fax/email/physical post. People have generally indicated success with email or physical mail.
