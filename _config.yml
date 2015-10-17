@@ -8,7 +8,7 @@ highlighter:         pygments
 permalink:        /posts/:title/
 
 # Setup
-title:            WhenGreen
+title:            WhenMyGreen
 tagline:          ""
 description:      'Green card tracking'
 url:              http://gitforwork.github.io/
@@ -22,12 +22,12 @@ gems:
 - jekyll-sitemap
 
 author:
-  name:           'WhenGreen'
+  name:           'WhenMyGreen'
   url:            http://gitforwork.github.io/
 
 # Custom vars
 version:          1.0
-me:               WhenGreen Staff
+me:               WhenMyGreen Staff
 
 github:
   repo:           https://github.com/gitforwork/gitforwork.github.io
