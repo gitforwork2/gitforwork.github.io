@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Request an approved I140 through FOIA - Overview
+title: Request an approved I140 through FOIA
 date: 2015-10-12
 tags: I140 FOIA Immigration
 comments: false
-description: Overview of the process to apply FOIA for getting approved I140 application.
+description: Overview of FOIA process to request approved I140 application.
 ---
 ###What is a FOIA application?
 * * *

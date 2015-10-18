@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to fill FOIA form for requesting I140
+title: FOIA Form g-639 instructions to request I140
 date: 2015-10-10
-tags: I140 FOIA
+tags: I140 FOIA g-639
 comments: false
-description: Detailed steps for filling the FOIA form
+description: Instruction to fill form g-639 to request approved I140
 ---
 ###The form asks about "Description of Record Requested" -- which one should I check complete alien file (A-file) or other?
 * * *
