@@ -5,7 +5,7 @@ title: About
 Scouring the internet to collect correct information to request form I140 was a time consuming process.
 Information collected by such means was valuable to us and we present the same in this blog for the benefit of others
 and also for our own future reference.
-Contact us: greenmirage.one@@outlook..com
+Contact us: greenmiracle.one@outlook.com
 
 Checkout the disclaimer page as well.
 </div>
