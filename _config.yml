@@ -11,7 +11,7 @@ permalink:        /posts/:title/
 title:            GreenMirage
 tagline:          ""
 description:      'Green card tracking'
-url:              http://gitforwork.github.io/
+url:              http://greenmirage.com/
 baseurl:          '/'
 paginate:         3
 excerpt_separator: "<br>"
@@ -23,7 +23,7 @@ gems:
 
 author:
   name:           'GreenMirage'
-  url:            http://gitforwork.github.io/
+  url:            http://greenmirage.com/
 
 # Custom vars
 version:          1.0
