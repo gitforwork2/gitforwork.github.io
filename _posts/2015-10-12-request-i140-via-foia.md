@@ -31,5 +31,5 @@ Unfortunately no. It's better to plan ahead.
 It's free! USCIS doesn't charge for the service.
 * * *
 ###OK I am ready. What are the steps to request the I140 information?
-You will have to fill form [G639](http://greenmirage.com/posts/i140-foia-form-g-639-instruction/). [Part 2](http://greenmirage.com/posts/i140-foia-form-g-639-instruction/) of this blog has more information.
+You will have to fill form [G639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf). [Part 2](http://greenmirage.com/posts/i140-foia-form-g-639-instruction/) of this blog has more information.
 * * *
