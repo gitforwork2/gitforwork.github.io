@@ -27,9 +27,10 @@ For current wait times, check [here](http://www.uscis.gov/about-us/freedom-infor
 ###I am in a hurry, Can I expedite the process with USCIS?
 Unfortunately no. It's better to plan ahead.
 * * *
-###How much does USCIS charge for this service?
-It's free! USCIS doesn't charge for the service.
+###Is there a filing fee?
+No.
 * * *
 ###OK I am ready. What are the steps to request the I140 information?
-You will have to fill form [G639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf). [Part 2](http://greenmirage.com/posts/i140-foia-form-g-639-instruction/) of this blog has more information.
+You will have to fill the latest [G639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf) form.
+[Part 2](http://greenmirage.com/posts/i140-foia-form-g-639-instruction/) of this blog has more information.
 * * *

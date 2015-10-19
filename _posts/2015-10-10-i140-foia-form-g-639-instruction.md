@@ -6,7 +6,9 @@ tags: I140 FOIA g-639
 comments: false
 description: Instruction to fill form g-639 to request approved I140
 ---
-This post contains information about how to fill the form G-639. Get a sample form [here].
+[Part 1](http://greenmirage.com/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
+This post contains information about how to fill the form [G-639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf).
+ Get a sample form [here].
 
 ###The form asks about "Description of Record Requested" -- which one should I check complete alien file (A-file) or other?
 * * *
@@ -16,22 +18,27 @@ No. you can leave this field empty
 ###In the section 3 (subject of record consent to release info). What should I request all of my records or portion of records
 * * *
 ###Is it mandatory to get the FOIA application notarized?
-No. You can also "Sign under perjury". Its upto you to decide.
+No. You can also "Sign under perjury". Its up to you to decide.
 * * *
 ###What is an A-#?
-This is a number USCIS uniquely assigns to you after your I140 is approved. This number is carried all the way through to your green card. If you have obtained a visa extension with approved I140, your I797 should have the A-number.
-* * *
-###I have a A-xxxxx-xxxxx when my labour/PERM was filed. Is it the same number?
-No. That is a different number. Refer to the above question.
-* * *
-###I studied in the US, My OPT EAD card has an A-number. Is it the same?
-No. That is a different number too. Refer to the above question.
-* * *
-###People state that ones A-number can be obtained by calling USCIS Support/Infopass? Do I need to do that?
-No. It's not mandatory. While getting your A-number is beneficial, many people have indicated they were sucessful without one. USCIS is able to locate your documents with imple information like your passport #, date of birth, latest I-94 # etc.
+Alien number (A#) is a number USCIS uniquely assigns to you after your I140 is approved. This number is carried all the way through
+ to your green card. If you have obtained a visa extension with approved I140, your I797 should have the A-number.
+ This is not the same as labour/PERM number (example: A-xxxxx-xxxxx).
+
+ People have indicated this is also not the same A# printed on the OPT EAD cards for people who studied in the US.
+ However, A-# is not a mandatory item. Doesn't hurt to have though.
 * * *
 ###Where do I send the documents?
-You can do one of fax/email/physical post. People have generally indicated success with email or physical mail.
+You can either send using an email or a normal mail.
+
+Email:
+uscis.foia@uscis.dhs.gov
+
+Physical address:
+National Records Center (NRC)
+FOIA/PA Office
+P.O. Box 648010
+Lee's Summit, MO 64064-8010
 * * *
 ###What happens after making the FOIA request?
 USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case online
