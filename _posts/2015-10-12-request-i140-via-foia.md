@@ -2,34 +2,34 @@
 layout: post
 title: Request an approved I140 through FOIA
 date: 2015-10-12
-tags: I140 FOIA Immigration
+tags: I140 FOIA
 comments: false
 description: Overview of FOIA process to request approved I140 application.
 ---
-###What is a FOIA application?
+###What is FOIA?
 The Freedom of Information Act (FOIA) is a law that gives you the right to access information from the federal government.
-So people have been using FOIA to request their I140 documents. More information in [wiki](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
+So, people have been using FOIA to request their I140 documents. More information in [wiki](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
 * * *
-###Will my employer come to know of my I140 FOIA request to USCIS?
+###Will my employer know about my I140 FOIA request to USCIS?
 No. FOIA request is a private transaction between you and USCIS.
 * * *
 ###My employer didn't share either my I140 case number or approval number. Is it still possible to apply?
 Yes. It is possible to request I140 with just basic information like your passport number, latest I94 number etc.
 * * *
-###Will the document provided by USCIS sufficient to port the priority date or apply for H1b extensions?
+###Will the document provided by USCIS sufficient to port my green card priority date or apply for H1b extensions?
 Yes. USCIS sends a copy of I140 application with approval stamp which should be sufficient.
 * * *
 ###How long does USCIS take to respond?
 USCIS follows a three-track system. Time varies depending on the complexity of the document requested .
-People have been sucessfull in getting the I140 in the simple track.
+People have been successful in obtaining the I140 in the simple track.
 For current wait times, check [here](http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
 * * *
 ###I am in a hurry, Can I expedite the process with USCIS?
 Unfortunately no. It's better to plan ahead.
 * * *
-###How much USCIS charge for this service?
+###How much does USCIS charge for this service?
 It's free! USCIS doesn't charge for the service.
 * * *
 ###OK I am ready. What are the steps to request the I140 information?
-You will have to fill form G639. Instructions are documented in the next [post](http://greenmirage.com/posts/i140-foia-form-g-639-instruction/).
+You will have to fill form G639. [Part 2](http://greenmirage.com/posts/i140-foia-form-g-639-instruction/) of this blog has more information. Instructions are documented in the next [post].
 * * *
