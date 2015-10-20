@@ -2,10 +2,9 @@
 layout: page
 title: About
 ---
-Scouring the internet to collect correct information to request form I140 was a time consuming process.
-Information collected by such means was valuable to us and we present the same in this blog for the benefit of others
-and also for our own future reference.
-Contact us: panai.onnu@outlook.com
+Immigrant in the US means spending some time in forums, looking for some information.
+This blog records some useful information gathered from such forums and the internet, for future reference
+Contact: panai.onnu@outlook.com
 
 Checkout the disclaimer page as well.
 </div>
