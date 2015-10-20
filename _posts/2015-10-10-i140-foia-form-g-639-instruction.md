@@ -9,13 +9,8 @@ description: Instruction to fill form g-639 to request approved I140
 [Part 1](http://greenmirage.com/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
 This post contains information about how to fill the form [G-639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf).
  Get a sample form [here].
-
-###The form asks about "Description of Record Requested" -- which one should I check complete alien file (A-file) or other?
-* * *
 ###Do I need to give the purpose?
-No. you can leave this field empty
-* * *
-###In the section 3 (subject of record consent to release info). What should I request all of my records or portion of records
+No. You can leave this field empty
 * * *
 ###Is it mandatory to get the FOIA application notarized?
 No. You can also "Sign under perjury". Its up to you to decide.
@@ -41,4 +36,5 @@ P.O. Box 648010
 Lee's Summit, MO 64064-8010
 * * *
 ###What happens after making the FOIA request?
-USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case online
+USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case [online]
+(http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
