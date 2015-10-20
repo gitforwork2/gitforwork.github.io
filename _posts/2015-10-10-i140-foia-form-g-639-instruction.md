@@ -9,19 +9,19 @@ description: Instruction to fill form g-639 to request approved I140
 [Part 1](http://greenmirage.com/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
 This post contains information about how to fill the form [G-639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf).
  Get a sample form [here].
-###Do I need to give the purpose?
-No. You can leave this field empty
+###The form asks to give the purpose? Can i skip it?
+Yes. It's not required
 * * *
-###Is it mandatory to get the FOIA application notarized?
-No. You can also "Sign under perjury". Its up to you to decide.
-* * *
-###What is an A-#?
+###The form asks for a A-number? What is it?
 Alien number (A#) is a number USCIS uniquely assigns to you after your I140 is approved. This number is carried all the way through
  to your green card. If you have obtained a visa extension with approved I140, your I797 should have the A-number.
  This is not the same as labour/PERM number (example: A-xxxxx-xxxxx).
 
  People have indicated this is also not the same A# printed on the OPT EAD cards for people who studied in the US.
  However, A-# is not a mandatory item. Doesn't hurt to have though.
+* * *
+###Is it mandatory to get the FOIA application notarized?
+No. You can also choose "Sign under perjury". It's up to you to decide.
 * * *
 ###Where do I send the documents?
 You can either send using an email or a normal mail.
