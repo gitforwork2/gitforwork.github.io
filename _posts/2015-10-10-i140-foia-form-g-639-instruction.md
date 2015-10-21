@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOIA Form g-639 instructions to request I140
+title: Fill Form G-639 to request I140
 date: 2015-10-10
 tags: I140 FOIA g-639
 comments: false
