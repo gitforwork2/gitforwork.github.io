@@ -9,7 +9,6 @@ description: Instruction to fill form g-639 to request approved I140
 [Part 1](http://greenmirage.com/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
 This post contains information about how to fill the form [G-639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf).
  Get a sample completed form [here]({{ site.url }}/assets/pdf/g-639.pdf).
- <iframe width="420" height="315" src="{{ site.url }}/assets/pdf/g-639.pdf" frameborder="0" allowfullscreen></iframe>
 ###The form asks to give the purpose? Can i skip it?
 Yes. It's not required
 * * *
