@@ -2,7 +2,7 @@
 layout: post
 title: Request an approved I140 through FOIA
 date: 2015-10-12
-tags: I140 FOIA
+tags: I140 FOIA USCIS
 comments: false
 description: Overview of FOIA process to request approved I140 application.
 ---

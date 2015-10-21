@@ -4,7 +4,7 @@ title: About
 ---
 Immigrant in the US means spending some time in forums, looking for some information.
 This blog records some useful information gathered from such forums and the internet, for future reference
-Contact: panai.onnu@outlook.com
+Contact: pattam.onnu@outlook.com
 
 Checkout the disclaimer page as well.
 </div>
