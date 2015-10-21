@@ -8,7 +8,6 @@ description: Instruction to fill form g-639 to request approved I140
 ---
 [Part 1](http://greenmirage.com/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
 This post contains information about how to fill the form [G-639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf).
- Get the form G-639 [here]({{ site.url }}/assets/pdf/g-639.pdf).
 ###The form asks to give the purpose? Can i skip it?
 Yes. It's not required
 * * *
@@ -39,4 +38,4 @@ Lee's Summit, MO 64064-8010</br>
 USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case [online]
 (http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
 
-**If you want a sample completed form email me : pattam.onnu at outlook dot com.**
+**If you want a sample completed form email me : pattam.onnu@outlook.com**
