@@ -7,7 +7,7 @@ comments: false
 description: Overview of FOIA process to request approved I140 application.
 ---
 **If you want a sample completed form email me : pattam.onnu@outlook.com**
-
+* * *
 ###What is FOIA?
 The Freedom of Information Act (FOIA) is a law that gives you the right to access information from the federal government.
 So, people have been using FOIA to request their I140 documents. More information in [wiki](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
