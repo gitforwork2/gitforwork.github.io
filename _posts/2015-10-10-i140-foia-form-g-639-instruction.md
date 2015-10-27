@@ -37,6 +37,7 @@ Lee's Summit, MO 64064-8010</br>
 ###What happens after making the FOIA request?
 USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case [online]
 (http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
+
 * * *
 
 **If you want a sample completed form email me : pattam.onnu@outlook.com**
