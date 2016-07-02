@@ -2,8 +2,7 @@
 layout: page
 title: About
 ---
-Immigrant in the US means spending some time in forums, looking for some information.
-This blog records some useful information gathered from such forums and the internet, for future reference
+A personal blog to record useful information gathered from forums and the internet for future reference.
 Contact: pattam.onnu@outlook.com
 
 Checkout the disclaimer page as well.
