@@ -11,5 +11,5 @@ Once I obtained my certification (Yay), I prepared a mock exam to help my collea
 People appearing for the exam found this very useful and wanted to share with other friends.
 So, I decided to post it online to make it easy for anyone preparing for the certification.
 * * *
-<iframe src="https://docs.google.com/forms/d/1ymhZB6blUC42Sn2XAPgYrC88Ak_4u4Hm4GX0GTzfHzE/viewform?embedded=true" width="900" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1ymhZB6blUC42Sn2XAPgYrC88Ak_4u4Hm4GX0GTzfHzE/viewform?embedded=true" width="900" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 * * *
