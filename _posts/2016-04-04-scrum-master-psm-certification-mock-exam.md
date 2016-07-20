@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: ScrumMaster sample exam
 date: 2016-04-04
 tags: Agile Scrum PSM
