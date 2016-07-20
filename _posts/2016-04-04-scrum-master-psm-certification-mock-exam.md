@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ScrumMaster exam preparation
 date: 2016-04-04
 tags: Agile Scrum PSM
 comments: false
