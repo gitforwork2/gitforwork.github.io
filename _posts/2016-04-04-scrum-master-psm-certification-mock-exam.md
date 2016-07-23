@@ -3,7 +3,7 @@ layout: page
 title: PSM 1 ScrumMaster exam preparation
 date: 2016-04-04
 tags: Agile Scrum PSM
-comments: false
+comments: true
 description: Scrum Master PSM I certification mock exam
 ---
 Any issues, contact me: pattam.onnu@outlook.com
