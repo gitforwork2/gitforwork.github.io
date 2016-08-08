@@ -10,7 +10,7 @@ While we endeavour to keep the information up to date and correct, we make no re
  Users of this site are advised to conduct their own independent research.
 
 In no event we will be liable for any loss or damage including without limitation, indirect or consequential loss or
- damage, whatsoever in connection with, the use of this website. Through this website you are able to link to other
- websites. We have no control over the nature, content and availability of those sites.
+ damage, whatsoever in connection with, the use of this website. If you are sharing your email, you agree to be contacted by us.
+ Through this website you are able to link to other websites. We have no control over the nature, content and availability of those sites.
  The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
