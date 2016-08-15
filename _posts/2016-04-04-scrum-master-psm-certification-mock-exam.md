@@ -9,7 +9,7 @@ description: Scrum Master PSM I certification mock exam
 ***
 Score of the day!
 ***
-<iframe src="https://docs.google.com/spreadsheets/d/1rFyJVUCvf6AXhEaqo0vmd7H2pkm7CY2elRItgX5Kqwk/gviz/tq?tqx=out:html&tq&gid=0" height="100" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1rFyJVUCvf6AXhEaqo0vmd7H2pkm7CY2elRItgX5Kqwk/gviz/tq?tqx=out:html&tq&gid=0" height="70" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 ***
 [Check out all the latest top scores](http://greenmirage.com/posts/scrum-master-psm-certification-mock-exam-scores/)
 ***
