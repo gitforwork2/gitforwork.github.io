@@ -10,7 +10,7 @@ permalink:        /posts/:title/
 # Setup
 title:            GreenMirage
 tagline:          ""
-description:      'Green card tracking'
+description:      'Personal blog'
 url:              http://greenmirage.com/
 baseurl:          '/'
 paginate:         3
