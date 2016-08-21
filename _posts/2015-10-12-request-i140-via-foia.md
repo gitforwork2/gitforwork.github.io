@@ -6,7 +6,7 @@ tags: I140 FOIA USCIS
 comments: true
 description: Overview of FOIA process to request approved I140 application.
 ---
-**If you want a sample completed form email me : pattam.onnu@outlook.com**
+**If you want a sample completed form, leave a comment below
 * * *
 ###What is FOIA?
 The Freedom of Information Act (FOIA) is a law that gives you the right to access information from the federal government.
