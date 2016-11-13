@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Fill Form G-639 to request I140
+title: Fill Form G-639 to request Immigration records
 date: 2015-10-10
-tags: I140 FOIA g-639
+tags: I140 FOIA g-639 I130
 comments: false
 description: Instruction to fill form g-639 to request approved I140
 ---
@@ -39,5 +39,3 @@ USCIS sends a physical letter to your address with a control # within 2-3 weeks.
 (http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
 
 * * *
-
-**If you want a sample completed form email me : pattam.onnu@outlook.com**

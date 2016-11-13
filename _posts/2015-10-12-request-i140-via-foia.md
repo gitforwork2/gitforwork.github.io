@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Request an approved I140 through FOIA
+title: Request Immigration records through FOIA
 date: 2015-10-12
-tags: I140 FOIA USCIS
+tags: I140 I130 FOIA USCIS
 comments: true
-description: Overview of FOIA process to request approved I140 application.
+description: Overview of FOIA process to request Immigration records like I140 petition.
 ---
-**If you want a sample completed form, leave a comment below**
 * * *
 ###What is FOIA?
 The Freedom of Information Act (FOIA) is a law that gives you the right to access information from the federal government.
@@ -30,7 +29,7 @@ For current wait times, check [here](http://www.uscis.gov/about-us/freedom-infor
 Unfortunately no. It's better to plan ahead.
 * * *
 ###Is there a filing fee?
-No.
+Generally No. But sometimes there may be a fee upto $25. USCIS will contact you in that case
 * * *
 ###OK I am ready. What are the steps to request the I140 information?
 You will have to fill the latest [G639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf) form.
