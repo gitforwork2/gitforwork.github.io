@@ -2,9 +2,7 @@
 layout: page
 title: About
 ---
-A personal blog to record useful information gathered from forums and the internet for future reference.
-Contact: pattam.onnu@outlook.com
-
+File FOIA with confidence!
 Checkout the disclaimer page as well.
 </div>
 <br/>
