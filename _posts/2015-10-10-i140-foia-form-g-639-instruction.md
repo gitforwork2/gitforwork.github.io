@@ -6,7 +6,7 @@ tags: I140 FOIA g-639 I130
 comments: false
 description: Instruction to fill form g-639 to request approved I140
 ---
-[Part 1](http://greenmirage.com/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
+[Part 1](/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
 This post contains information about how to fill the form [G-639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf).
 ###The form asks to give the purpose? Can I skip it?
 Yes. It's not required
