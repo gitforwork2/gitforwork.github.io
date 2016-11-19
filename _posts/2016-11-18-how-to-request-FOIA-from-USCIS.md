@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to request FOIA with USCIS
+title: How to request FOIA from USCIS
 date: 2016-11-18
 tags: USCIS FOIA g639
 comments: true
@@ -8,12 +8,12 @@ description: 3 Steps to request FOIA with USCIS using form G 639 to request immi
 ---
 You want to request some records from the USCIS, start here,
 
-
 **Step 1: Collect the information needed**
 
 Besides the basic information, What would you need for filling the form?
-	a) Recent I-94 #
-		https://i94.cbp.dhs.gov/I94/#/recent-search
+
+	a) Recent I-94
+		[lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search)
 	b) Alien Registration Number (A-Number) (this is optional)
 	c) Application, Petition, or Request Receipt Number (this is optional)
 		This could be any of you receipt number of your petitions like H1b I-129, I-140, I-130. etc

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Request Immigration records through FOIA
+title: USCIS FOIA FAQ
 date: 2015-10-12
-tags: I140 I130 FOIA USCIS
+tags: I130 FOIA USCIS
 comments: true
 description: Overview of FOIA process to request Immigration records like I140 petition.
 ---
