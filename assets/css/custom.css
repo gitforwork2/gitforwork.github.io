@@ -83,13 +83,13 @@
 }
 
 .tag:hover {
-  background-color: #6a9fb5;
+  background-color: #268bd2;
 	text-decoration: none !important;
   color: white !important;
 }
 
 .tag:hover::after {
-   border-left-color: #6a9fb5;
+   border-left-color: #268bd2;
 }
 /* [END] POST TAGS STYLING*/
 
