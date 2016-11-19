@@ -8,7 +8,7 @@ description: 3 Steps to request FOIA with USCIS using form G 639 to request immi
 ---
 You want to request some records from the USCIS, start here,
 
-##Step 1: Collect the information needed
+### Step 1: Collect the information needed
 Besides the basic information, What would you need for filling the form?
 	+ Recent I-94
 		[lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search)
@@ -18,13 +18,11 @@ Besides the basic information, What would you need for filling the form?
 	+ Id proof: For example, Copy of your license or state id
 
 
-##Step 2: Fill Form G 639
+### Step 2: Fill Form G 639
+  [Get an overview of the form](/posts/g-639-form-basics)
 
-	[Get an overview of the form](/posts/g-639-form-basics)
-
-
-##Step 3: Send the form
-	Sign the form under perjury (Summary: You agree to face consequences under US laws, if the application contains wrong information. [Formal explanation](https://www.uscis.gov/tools/glossary/declaration-under-penalty-perjury))
+### Step 3: Send the form
+  Sign the form under perjury (Summary: You agree to face consequences under US laws, if the application contains wrong information. [Formal explanation](https://www.uscis.gov/tools/glossary/declaration-under-penalty-perjury))
 	or Sign before a Notary, with necessary documents.
 	Email to form to uscis.foia@uscis.dhs.gov. Attach any additional documents that you want to send
 
