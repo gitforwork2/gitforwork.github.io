@@ -26,7 +26,7 @@ Sign the form under perjury (Summary: You agree to face consequences under US la
 or Sign before a Notary, with necessary documents.  
 Email to form to uscis.foia@uscis.dhs.gov. Attach any additional documents that you want to send
 
-What next?
+What next?  
 You will receive a control number with-in 2 weeks with which you can track your status <here>  
 You will receive a CD with documents to your address...
 
