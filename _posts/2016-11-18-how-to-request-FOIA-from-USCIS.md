@@ -8,7 +8,7 @@ description: 3 Steps to request FOIA with USCIS using form G 639 to request immi
 ---
 You want to request some records from the USCIS, start here,
 
-**Step 1: Collect the information needed**
+##Step 1: Collect the information needed
 
 Besides the basic information, What would you need for filling the form?
 	+ Recent I-94
@@ -19,6 +19,7 @@ Besides the basic information, What would you need for filling the form?
 	+ Id proof: For example, Copy of your license or state id
 
 **Step 2: Fill Form G 639**
+
 	[Get an overview of the form](/posts/g-639-form-basics)
 
 **Step 3: Send the form**
