@@ -10,6 +10,7 @@ You want to request some records from the USCIS, start here,
 
 ### Step 1: Collect the information needed
 Besides the basic information, What would you need for filling the form?
+
 * Recent I-94
 [lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search)
 * Alien Registration Number (A-Number) (this is optional)
