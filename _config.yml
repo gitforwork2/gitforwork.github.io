@@ -1,8 +1,8 @@
 # Dependencies
 markdown:         kramdown
-redcarpet:
-  extensions: ["strikethrough","smart","tables","with_toc_data"]
-highlighter:         pygments
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Permalinks
 permalink:        /posts/:title/
