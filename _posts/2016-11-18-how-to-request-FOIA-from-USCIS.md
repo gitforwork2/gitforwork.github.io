@@ -28,6 +28,8 @@ Email to form to uscis.foia@uscis.dhs.gov. Attach any additional documents that 
 
 
 What next?
+
+
 You will receive a control number with-in 2 weeks with which you can track your status <here>.
 You will receive a CD with documents to your address.
 
