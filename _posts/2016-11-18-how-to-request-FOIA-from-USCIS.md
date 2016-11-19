@@ -11,12 +11,12 @@ You want to request some records from the USCIS, start here,
 **Step 1: Collect the information needed**
 
 Besides the basic information, What would you need for filling the form?
-	*   Recent I-94
+	+ Recent I-94
 		[lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search)
-	*   Alien Registration Number (A-Number) (this is optional)
-	*   Application, Petition, or Request Receipt Number (this is optional)
+	+ Alien Registration Number (A-Number) (this is optional)
+	+ Application, Petition, or Request Receipt Number (this is optional)
 		This could be any of you receipt number of your petitions like H1b I-129, I-140, I-130. etc
-	*   Id proof: For example, Copy of your license or state id
+	+ Id proof: For example, Copy of your license or state id
 
 **Step 2: Fill Form G 639**
 	[Get an overview of the form](/posts/g-639-form-basics)
