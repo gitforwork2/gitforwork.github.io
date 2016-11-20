@@ -10,13 +10,13 @@ You want to request some records from the USCIS, start here,
 
 ### Step 1: Prepare for the application
 Besides the basic information, What would you typically need for filling the form?
-  While most of the information is optional, it's better to give useful information to USCIS to identify the
-  records quickly
+  While all of the following information listed is optional, it's better to give useful information to USCIS to identify the
+  records quickly.
 
 * Recent I-94
 [lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search)
-* Alien Registration Number (A-Number) (this is optional)
-* Application, Petition, or Request Receipt Number (this is optional)
+* Alien Registration Number (A-Number) (optional)
+* Application, Petition, or Request Receipt Number (optional)
 This could be any of you receipt number of your petitions like H1b I-129, I-140, I-130. etc
 * Id proof: For example, Copy of your license or state id
 
