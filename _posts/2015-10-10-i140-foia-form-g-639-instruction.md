@@ -30,13 +30,13 @@ However, A-# is not a mandatory item. Doesn't hurt to have though.
  You can either send using an email or a normal mail.
 
 Email:
- uscis.foia@uscis.dhs.gov
+ uscis.foia@uscis.dhs.gov  
 
 Physical address:
- National Records Center (NRC)
- FOIA/PA Office
- P.O. Box 648010
- Lee's Summit, MO 64064-8010
+ National Records Center (NRC)  
+ FOIA/PA Office  
+ P.O. Box 648010  
+ Lee's Summit, MO 64064-8010  
 * * *
 ### What happens after making the FOIA request?
  USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case [online]
