@@ -18,9 +18,9 @@ This post contains information about how to fill the form [G-639](http://www.usc
  to your green card. If you have obtained a visa extension with approved I140, your I797 should have the A-number.
  This is not the same as labour/PERM number (example: A-xxxxx-xxxxx).
 
- People have indicated this is also not the same A# printed on the OPT EAD cards for people who studied in the US.
- However, A-# is not a mandatory item. Doesn't hurt to have though.
-* * *
+People have indicated this is also not the same A# printed on the OPT EAD cards for people who studied in the US.
+However, A-# is not a mandatory item. Doesn't hurt to have though.
+ * * *
 
 ### Is it mandatory to get the FOIA application notarized?
  No. You can also choose "Sign under perjury". It's up to you to decide.
