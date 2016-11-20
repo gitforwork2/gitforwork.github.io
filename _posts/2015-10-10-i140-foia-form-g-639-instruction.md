@@ -11,7 +11,6 @@ This post contains information about how to fill the form [G-639](http://www.usc
 
 ### The form asks to give the purpose? Can I skip it?
  Yes. It's not required
-* * *
 
 ### The form asks for a A-number? What is it?
  Alien number (A#) is a number USCIS uniquely assigns to you after your I140 is approved. This number is carried all the way through
@@ -20,26 +19,22 @@ This post contains information about how to fill the form [G-639](http://www.usc
 
 People have indicated this is also not the same A# printed on the OPT EAD cards for people who studied in the US.
 However, A-# is not a mandatory item. Doesn't hurt to have though.
- * * *
 
 ### Is it mandatory to get the FOIA application notarized?
  No. You can also choose "Sign under perjury". It's up to you to decide.
-* * *
 
 ### Where do I send the documents?
  You can either send using an email or a normal mail.
 
 Email:
- uscis.foia@uscis.dhs.gov  
+ uscis.foia@uscis.dhs.gov
 
 Physical address:
- National Records Center (NRC)  
- FOIA/PA Office  
- P.O. Box 648010  
- Lee's Summit, MO 64064-8010  
-* * *
+ National Records Center (NRC)
+ FOIA/PA Office
+ P.O. Box 648010
+ Lee's Summit, MO 64064-8010
+
 ### What happens after making the FOIA request?
  USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case [online]
  (http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-    status-request)
-
-* * *
