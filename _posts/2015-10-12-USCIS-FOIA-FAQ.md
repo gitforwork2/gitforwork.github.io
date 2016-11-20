@@ -6,7 +6,6 @@ tags: I130 FOIA USCIS
 comments: true
 description: Overview of FOIA process to request Immigration records like I140 petition.
 ---
-
 ### What is FOIA?
 The Freedom of Information Act (FOIA) is a law that gives you the right to access information from the federal government.
 So, people have been using FOIA to request their I140 documents. More information in [wiki](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
