@@ -3,10 +3,10 @@ layout: post
 title: Fill Form G-639 to request Immigration records
 date: 2015-10-10
 tags: I140 FOIA g-639 I130
-comments: false
+comments: true
 description: Instruction to fill form g-639 to request approved I140
 ---
-[Part 1](/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
+[Check FAQ](/posts/request-i140-via-foia/) of this blog gives an overview of FOIA.
 This post contains information about how to fill the form [G-639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf).
 ###The form asks to give the purpose? Can I skip it?
 Yes. It's not required

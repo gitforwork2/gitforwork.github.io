@@ -26,12 +26,12 @@ People have been successful in obtaining the I140 in the simple track.
 For current wait times, check [here](http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
 * * *
 ###I am in a hurry, Can I expedite the process with USCIS?
-Unfortunately no. It's better to plan ahead.
+USCIS may accept to expedite on a case by case basis for valid reasons. But, It's better to plan ahead.
 * * *
 ###Is there a filing fee?
 Generally No. But sometimes there may be a fee upto $25. USCIS will contact you in that case
 * * *
 ###OK I am ready. What are the steps to request the I140 information?
 You will have to fill the latest [G639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf) form.
-[Part 2](/posts/i140-foia-form-g-639-instruction/) of this blog has more information.
+[Check g 639 instructions](/posts/i140-foia-form-g-639-instruction/) of this blog has more information.
 * * *

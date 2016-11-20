@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 File FOIA with confidence!
-Checkout the disclaimer page as well.
 </div>
 <br/>
 {% comment %}
