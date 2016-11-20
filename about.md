@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-We help people submit their FOIA requests to USCIS correctly and quickly.
+We help people submit their FOIA requests to USCIS correctly and quickly!
 
 <br/>
 {% comment %}
