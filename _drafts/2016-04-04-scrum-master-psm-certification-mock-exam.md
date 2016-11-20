@@ -11,7 +11,7 @@ description: Scrum Master PSM I certification mock exam
 *Since most people repeat the test, those scores are averaged before determining the topper of the day.
 
 
-[Check here for all the latest top scores](http://greenmirage.com/posts/scrum-master-psm-certification-mock-exam-scores/)
+[Check here for all the latest top scores](http://frontsimple.com/posts/scrum-master-psm-certification-mock-exam-scores/)
 ***
 <iframe src="https://docs.google.com/forms/d/1ymhZB6blUC42Sn2XAPgYrC88Ak_4u4Hm4GX0GTzfHzE/viewform?embedded=true" width="870" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 ***

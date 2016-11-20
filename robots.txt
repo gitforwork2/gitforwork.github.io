@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://greenmirage/sitemap.xml
+Sitemap: http://frontsimple/sitemap.xml

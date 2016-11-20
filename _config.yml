@@ -8,10 +8,10 @@ kramdown:
 permalink:        /posts/:title/
 
 # Setup
-title:            GreenMirage
+title:            FrontSimple
 tagline:          ""
 description:      'Personal blog'
-url:              http://greenmirage.com/
+url:              http://frontsimple.com/
 baseurl:          '/'
 paginate:         3
 excerpt_separator: "<br>"
@@ -22,8 +22,8 @@ gems:
 - jekyll-sitemap
 
 author:
-  name:           'GreenMirage'
-  url:            http://greenmirage.com/
+  name:           'FrontSimple'
+  url:            http://frontsimple.com/
 
 # Custom vars
 version:          1.0

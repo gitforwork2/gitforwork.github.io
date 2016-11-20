@@ -21,7 +21,7 @@ Here are my steps that helped my get my PSM I certification.
   1. It took me about 2-3 weeks to get the certification
   2. You should go through the Scrumguide. It's just a 16 page document, but you really have to digest the essence of Scrum
   3. Take the scrum open assessments. There are 4, focus on PSPO. PSD is not needed. eloborate
-  4. Learn about the basics of scaling scrum (Nexus guide).    
+  4. Learn about the basics of scaling scrum (Nexus guide).
   5. Finally, I have created a full length practise test <<here>>. Hopefully that helps you
   6.
 
@@ -40,7 +40,7 @@ Even though the scrumguide is short, each sentence has to be understood and reme
 
 4) Sample tests
 I took the green mirage test,
-http://greenmirage.com/posts/scrum-...mock-exam/
+http://frontsimple.com/posts/scrum-...mock-exam/
 
 and the mlapshin one
 http://mlapshin.com/index.php/psm-q...ning-mode/
