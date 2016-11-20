@@ -30,11 +30,11 @@ Email:
  uscis.foia@uscis.dhs.gov
 
 Physical address:
- National Records Center (NRC)
- FOIA/PA Office
- P.O. Box 648010
- Lee's Summit, MO 64064-8010
+ National Records Center (NRC)  
+ FOIA/PA Office  
+ P.O. Box 648010  
+ Lee's Summit, MO 64064-8010  
 
 ### What happens after making the FOIA request?
- USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case [online]
- (http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-    status-request)
+  USCIS sends a physical letter to your address with a control # within 2-3 weeks. This number can be used to track your case  
+ [online](http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
