@@ -2,8 +2,8 @@
 layout: page
 title: About
 ---
-File FOIA with confidence!
-</div>
+We help people submit their FOIA requests to USCIS correctly and quickly.
+
 <br/>
 {% comment %}
 If you like reading these articles, you can subscribe to this blog via [RSS](http://feeds.feedburner.com/frontsimple).
