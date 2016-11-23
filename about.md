@@ -9,7 +9,7 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
  ---
 
  "First of all thank you for a detailed information on how to file G-639 form. I am in the same situation where most of us are,
-  where employer is not going to give the I-140 copy and I am planning to change my employer from being a consultant to Full Time and   The Full time company asked for I-140 copy. Appreciate the service of your site, it helps a lot of people like me."
+  where employer is not going to give the I-140 copy and I am planning to change my employer from being a consultant to Full Time and The Full time company asked for I-140 copy. Appreciate the service of your site, it helps a lot of people like me."
  - Prakash
 
  ---
