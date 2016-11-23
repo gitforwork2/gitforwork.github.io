@@ -46,7 +46,7 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
 
  ---
 
- "I came across your blog on how to request I-140 petition through FOIA. Appreciate your help and thanks for your time."
+ "I came across your service on how to request I-140 petition through FOIA. Appreciate your help and thanks for your time."
  - Mraghuram
 
  ---
@@ -61,7 +61,7 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
 
  ---
 
- "I have read your blog. Thanks for helping for FOIA request to get my I140 approval copy from USCIS.
+ "I have read your service. Thanks for helping for FOIA request to get my I140 approval copy from USCIS.
  Thanks for supporting the community."
  - Ravi
 
