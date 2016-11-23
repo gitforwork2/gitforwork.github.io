@@ -4,13 +4,13 @@ title: About
 ---
 We help people submit their FOIA requests to USCIS correctly and quickly!
 
-Testimonials from our users
+### Testimonials from our users. Thanks guys!
 
  ---
 
  "First of all thank you for a detailed information on how to file G-639 form. I am in the same situation where most of us are,
   where employer is not going to give the I-140 copy and I am planning to change my employer from being a consultant to Full Time and   The Full time company asked for I-140 copy. Appreciate the service of your site, it helps a lot of people like me."
-- Prakash
+ - Prakash
 
  ---
 
@@ -73,7 +73,7 @@ Testimonials from our users
  ---
 
  "While searching for requesting I-140 copy from USCIS, I came across your informative site on filling G-639 with instructions.Thank you"
-- Khadhiry
+ - Khadhiry
 
  ---
 
@@ -86,4 +86,3 @@ If you like reading these articles, you can subscribe to this blog via [RSS](htt
 <br/>
 <div class="post-date" id="ga-pageviews"></div>
 
----
