@@ -4,7 +4,7 @@ title: About
 ---
 We help people submit their FOIA requests to USCIS correctly and quickly!
 
-### Testimonials from our users. Thanks guys!
+### Testimonials from our users!
 
  ---
 
@@ -14,24 +14,29 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
 
  ---
 
+   "I want to file form G-639 to get my I-140 application/approval copy. I found your service very useful. Thanks!"
+   - Rosetti
+
+  ---
+
+   "Thanks a lot"
+      - ozhkan
+
+   ---
+
  "My employer is not sharing any detail regarding i140, not even receipt number, I want to change employer and also to port my priority date. Thanks for the help!"
  - Anand
 
  ---
 
-  "I want to file form G-639 to get my I-140 application/approval copy. I found your service very useful. Thanks!"
-  - Rosetti
+ "While searching for requesting I-140 copy from USCIS, I came across your informative site on filling G-639 with instructions.Thank you"
+  - Khadhiry
 
- ---
+  ---
 
  "I was just going through your site and saw your page. The information was very helpful and thanks for the effort.
  Keep rocking..."
  - Ashok
-
- ---
-
- "Thanks a lot"
-    - ozhkan
 
  ---
 
@@ -55,12 +60,6 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
 
  ---
 
- "I was just going through your site and saw your page. The information was very helpful and thanks for the effort.
- Keep rocking..."
- - Ashok
-
- ---
-
  "I have read your blog. Thanks for helping for FOIA request to get my I140 approval copy from USCIS.
  Thanks for supporting the community."
  - Ravi
@@ -69,11 +68,6 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
 
  "My name is Kunal and I want to thank you for helping out with FOIA requests."
  - Kunal
-
- ---
-
- "While searching for requesting I-140 copy from USCIS, I came across your informative site on filling G-639 with instructions.Thank you"
- - Khadhiry
 
  ---
 
