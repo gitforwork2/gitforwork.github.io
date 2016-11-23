@@ -24,6 +24,12 @@ Testimonials from our users
 
  ---
 
+ "I was just going through your site and saw your page. The information was very helpful and thanks for the effort.
+ Keep rocking..."
+ - Ashok
+
+ ---
+
  "Thanks a lot"
     - ozhkan
 
@@ -38,12 +44,13 @@ Testimonials from our users
  - Mraghuram
 
  ---
+
  "I do not have to worry about filling incorrect information. Thanks."
  - Satish
 
  ---
- "Sir, Firstly thanks for the detailed site on applying FOIA to get i140.
- I'm trying to file FOIA to get my copies as well. Thanks for the help."
+
+ "Sir, Firstly thanks for the detailed site on applying FOIA to get i140. I'm trying to file FOIA to get my copies as well. Thanks for the help."
  - Manik
 
  ---
@@ -61,12 +68,12 @@ Testimonials from our users
  ---
 
  "My name is Kunal and I want to thank you for helping out with FOIA requests."
- -Kunal
+ - Kunal
 
  ---
 
  "While searching for requesting I-140 copy from USCIS, I came across your informative site on filling G-639 with instructions.Thank you"
---Khadhiry
+- Khadhiry
 
  ---
 
