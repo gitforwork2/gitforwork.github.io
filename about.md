@@ -8,7 +8,7 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
 
  ---
 
- "First of all thank you for a detailed information on how to file G-639 form. I am in the same situation where most of us are,
+ "First of all thank you for a detailed information on how to file G 639 form. I am in the same situation where most of us are,
   where employer is not going to give the I-140 copy and I am planning to change my employer from being a consultant to Full Time and The Full time company asked for I-140 copy. Appreciate the service of your site, it helps a lot of people like me."
  - Prakash
 
@@ -24,7 +24,7 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
 
    ---
 
- "My employer is not sharing any detail regarding i140, not even receipt number, I want to change employer and also to port my priority date.
+ "My employer is not sharing any detail regarding I 140, not even receipt number, I want to change employer and also to port my priority date.
  Thanks for the help!"
  - Anand
 
@@ -46,7 +46,7 @@ We help people submit their FOIA requests to USCIS correctly and quickly!
 
  ---
 
- "I came across your service on how to request I-140 petition through FOIA. Appreciate your help and thanks for your time."
+ "I came across your service on how to request I 140 petition through FOIA. Appreciate your help and thanks for your time."
  - Mraghuram
 
  ---
