@@ -24,7 +24,7 @@ description: 7 Alternative job search options for h4 ead applicants
 	 Even if not right away, they may be open to let you work remote after some time like 3 months.
 	 Even otherwise, remember it's easy to get a job when you are already employed. So, you are better off looking for
 	 a job in your city of preference when you are already employed elsewhere. 
-   Even if you didn't get a job that was flexible, it will atleast help with brushing up your interview skills. You can use these interviews to smoothen the rough edges, so you are in top form when you land an interview for that dream job. So, don't confine yourself to your geographic preferences. Look beyond!
+   Even if you didn't get a job that was flexible, it will atleast help with brushing up your interview skills. You can use these interviews to [smoothen the rough edges](/posts/5-ways-to-answer-career-gaps-questions-for-H4-EAD-applicants/), so you are in top form when you land an interview for that dream job. So, don't confine yourself to your geographic preferences. Look beyond!
    
  * Similarly, don't be too fixated on the salary or experience level. For all of the reasons described earlier, consider going for jobs with slightly lower roles or lesser salary. Chances are that once you prove your performance, you could negotiate for a higher role or more salary or both, down the line.
 
