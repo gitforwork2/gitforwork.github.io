@@ -11,7 +11,7 @@ description: 7 Alternative job search options for h4 ead applicants
  But if you haven't landed on that job yet, it is a good idea to complement your job hunt through the following less common avenues
  
 ### 0) Friend referrals, Indeed, Dice, Monster, Linkedin, Linkup
- OK, While this post is all about alternate avenues for job hunting, lets's make sure you fully explore the usual options.
+ OK, While this post is all about alternate avenues for job hunting, lets's make sure you extracted full value out of the usual options.
  
  * Friend referrals are the most effective way to land an interview call and in many cases that job. Are you sure that you have already explored all your friends and contacts who can refer a job? Make sure you follow up in a nice way if it has been a while since you last asked them. Try to expand the circle by asking for friends of friends. And if you have already worked before the break, contact your old managers to see if they have any open positions. 
  
@@ -47,20 +47,23 @@ description: 7 Alternative job search options for h4 ead applicants
 ### 3) Career Fair
  Most cities have career fairs all around the year. Search online, to see if you have anything coming up. In addition, most big universities also have their own department specific career fairs. And many of them allow external candidates for a small fee. If you are early in your career or looking to restart after a long gap, this may be worth exploring this option.
 
-### 4) AngelJobs.co
+### 4) Non commercial jobs
+Most non-commercial sector like universities, state agencies, city administrattion jobs are not indexed by the job sites. And yes they do hire immigrants. So, it may be a good idea to look in their own sites, especially the universities. The jobs may be more steady and relaxed. In addition check [https://www.governmentjobs.com/](https://www.governmentjobs.com/) for government jobs.
+
+### 5) AngelJobs.co
  Startups and early stage companies use this site to hire people. While the pay may be less or
  even non-existent, you may be offered equity in the company. On top of that, you get to be in a fast paced and
  dynamic environment. While not everyone can work in a startup environment, it's still a good opportunity to learn and quick growth. 
  [https://angel.co/jobs](https://angel.co/jobs)
 
-### 5) redditt/forhire
+### 6) redditt/forhire
  Reddit is a popular social book marking site. And lots of people hang out around their topics of interests.
  And reddit happens to have an active "for hire" thread.
  [https://www.reddit.com/r/forhire/](https://www.reddit.com/r/forhire/)
 
  [https://www.reddit.com/r/hiring/](https://www.reddit.com/r/hiring/)
 
-### 6) Freelancing
+### 7) Freelancing
  Beyond the conventional job market, there is a big parallel free lancing job market. With freelancing, you can look for
  jobs all around the world. Most of the freelancing jobs also come with greater job flexibility. While landing your
  initial gig may be challenging, once you get going things will become easy.
