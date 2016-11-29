@@ -6,7 +6,7 @@ tags: H4 EAD Job
 comments: true
 description: Address questions about career gaps for H4 EAD applicants
 ---
-If you are on H4 visa, you must be excited to go back to work after obtaining you EAD. [While looking for jobs](/7-alternative-job-search-options-for-h4-ead-applicants/), you may be nervous about addressing a career gap question. 
+If you are on H4 visa, you must be excited to go back to work after obtaining you EAD. [While looking for jobs](/posts/7-alternative-job-search-options-for-h4-ead-applicants/), you may be nervous about addressing a career gap question. 
 First, the most common issue to address is your own fear about the gap. Many people are so focussed on the gap that they make it front and centre of their conversation, there by ignoring the  conversations about their skill set.So get your focus off of the gap, because it's not a unique problem to you and each year lots of people overcome it. It's just one aspect of your other qualifications for the job. Remember, hiring good people is a hard and time consuming process. So, if you had good background and performed well at the interview, gap is not going to be an issue. So, focus on those aspects and don't fret too much over the career breaks. If it helps, consider creating a skill based resume instead of a time line based resume. 
 Besides that, how do you convert your perceived liability into a strength? Well, you have some options. 
 Before looking at those, imagine for a second when a recruiter asks about your career break, instead of saying 
