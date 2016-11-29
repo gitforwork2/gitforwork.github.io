@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Alternative job search options for H4 EAD applicants
+title: 7 Alternative job search options for H4 EAD applicants
 date: 2016-11-28
 tags: H4 EAD Job
 comments: true
@@ -47,7 +47,7 @@ description: 7 Alternative job search options for h4 ead applicants
 ### 3) Career Fair
  Most cities have career fairs all around the year. Search online, to see if you have anything coming up. In addition, most big universities also have their own department specific career fairs. And many of them allow external candidates for a small fee. If you are early in your career or looking to restart after a long gap, this may be worth exploring this option.
 
-### 4) Non commercial jobs
+### 4) Non commercial employers
 Most non-commercial sector like universities, state agencies, city administrattion jobs are not indexed by the job sites. And yes they do hire immigrants. So, it may be a good idea to look in their own sites, especially the universities. The jobs may be more steady and relaxed. In addition check [https://www.governmentjobs.com/](https://www.governmentjobs.com/) for government jobs.
 
 ### 5) AngelJobs.co
