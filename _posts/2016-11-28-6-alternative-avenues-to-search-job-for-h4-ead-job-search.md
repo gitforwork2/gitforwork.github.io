@@ -7,36 +7,38 @@ comments: true
 description: 7 Alternative job search options for h4 ead applicants
 ---
  OK, So you are an immigrant spouse and have finally obtained the H4 EAD card and ready to work. Congrats!
- And you have started applying for jobs through the usual channels (aka Indeed, Dice, Monster, Linkedin, Linkup, Friend referrals).
- But, it is a good idea to complement your job hunt through the following lesser known avenues.
-
-### 0) Indeed, Dice, Monster, Linkedin, Linkup, references
- OK, While this post is all about alternate avenues for job hunting, did you fully explore the usual options?
- Let's first get that covered,
-
- * If you are looking for jobs in certain locations, make sure to look for remote jobs as well.
- * Even though you may want to work in a specific location, that doesn't mean you don't have to apply nationwide.
+ And you may have started applying for jobs through the usual channels (aka Indeed, Dice, Monster, Linkedin, Linkup, Friend referrals).
+ But if you haven't landed on that job yet, it is a good idea to complement your job hunt through the following less common avenues
+ 
+### 0) Friend referrals, Indeed, Dice, Monster, Linkedin, Linkup
+ OK, While this post is all about alternate avenues for job hunting, lets's make sure you fully explore the usual options.
+ 
+ * Friend referrals are the most effective way to land an interview call and in many cases that job. Are you sure that you have already explored all your friends and contacts who can refer a job? Make sure you follow up in a nice way if it has been a while since you last asked them. Try to expand the circle by asking for friends of friends. And if you have already worked before the break, contact your old managers to see if they have any open positions. 
+ 
+ * Like most people, if you have location constraints and are looking for jobs in only certain locations, make sure to include positions that allow remote locations as well.
+ 
+ * Even though you may want to work in a specific location, that doesn't mean you don't have to apply nationwide. Read on to find why,
 	 There are several advantages in looking for jobs nationally,
 	 While the companies may not be open to considering offering remote jobs at the beginning of the process,
-	 they may be willing to consider once when they have invested time and closer to hiring you.
+	 they may be willing to consider once they have invested the time and effort and are willing to hiring you. 
 	 Even if not right away, they may be open to let you work remote after some time like 3 months.
 	 Even otherwise, remember it's easy to get a job when you are already employed. So, you are better off looking for
-	 a job in your city of preference when you are already employed. Even if you didn't land a job,
-	 you could still use the interviews as practising opportunities. Because, when you get that interview call from
-	 your desired job, you will not be too rusty. So, don't confine yourself to your geographic preferences. Look beyond.
- * Similarly, don't be fixated on the salary or experience level. For all of the reasons above, consider going for jobs a level lesser than you have already done or for salary slightly lesser.
-	 Chances are that once they realize you perform better than your role, you could negotiate for a higher role or more salary or both down the line.
- * Also, consider going in adjacent fields. For example, if you are looking for a Business Analyst position, consider
-   positions like Technical writer or even Quality Analyst. Or if you were a programmer think about becoming a Scrum Master.
-   You never know, you may like the new roles and they may open up other opportunities. After all, in a long career,
-   people tend to take different roles and this may be an opportunity to do so. And it doesn't have to be always an adjacent career opportunity. If you had a desire to try something else,
-   this may be a good time to try.
- * And finally, Are you sure that you have already explored all your friends and contacts to look for referral jobs? Referral is the easiest way to get a foot on the door. Try to expand the circle by asking for friends of friends. Don't be too shy.
+	 a job in your city of preference when you are already employed elsewhere. 
+   Even if you didn't get a job that was flexible, it will atleast help with brushing up your interview skills. You can use these interviews to smoothen the rough edges, so you are in top form when you land an interview for that dream job. So, don't confine yourself to your geographic preferences. Look beyond!
+   
+ * Similarly, don't be too fixated on the salary or experience level. For all of the reasons described earlier, consider going for jobs with slightly lower roles or lesser salary. Chances are that once you prove your performance, you could negotiate for a higher role or more salary or both, down the line.
+
+* Also, consider going in adjacent fields. For example, if you are looking for a Business Analyst position, consider
+   positions like Technical Writer or even Quality Analyst. Or if you were a programmer think about becoming a Scrum Master.
+   You never know, you may like the new roles and that may open up new opportunities. After all, in a long career,
+   people tend to take different roles and this may be an opportunity to do so. And it doesn't have to be always an adjacent career opportunity. If you had a desire to try totally different career, this may be a good time to try.
+   
+ 
 
 ### 1) Craigslist
  Craigslist is not only used for local commerce, it's also used to advertise job positions as well.
  Companies advertise in Craigslist because the ads are cheaper.
- [For example, you can find plenty of ads for Software Engineer jobs in the bay area](https://sfbay.craigslist.org/search/jjj?query=software&excats=&cat_id=23&cat_id=24&cat_id=48&cat_id=25&cat_id=12&cat_id=100&cat_id=57&cat_id=15&cat_id=129&cat_id=130&cat_id=61&cat_id=26&cat_id=54&cat_id=14&cat_id=47&cat_id=128&cat_id=13&cat_id=28&cat_id=127&cat_id=27&cat_id=49&cat_id=126&cat_id=75&cat_id=131&cat_id=59&cat_id=21&cat_id=50&cat_id=55&cat_id=125&cat_id=52&cat_id=11&cat_id=16&userid=&search_distance=&postal=)
+ [For example, you can find plenty of Software Engineer jobs in the bay area](https://sfbay.craigslist.org/search/jjj?query=software&excats=&cat_id=23&cat_id=24&cat_id=48&cat_id=25&cat_id=12&cat_id=100&cat_id=57&cat_id=15&cat_id=129&cat_id=130&cat_id=61&cat_id=26&cat_id=54&cat_id=14&cat_id=47&cat_id=128&cat_id=13&cat_id=28&cat_id=127&cat_id=27&cat_id=49&cat_id=126&cat_id=75&cat_id=131&cat_id=59&cat_id=21&cat_id=50&cat_id=55&cat_id=125&cat_id=52&cat_id=11&cat_id=16&userid=&search_distance=&postal=)
 
 ### 2) StackOverflow Jobs
  While StackOverflow sites are known for Q & A, they also have a career section. Hence, it is a good idea to keep an eye on their job section
