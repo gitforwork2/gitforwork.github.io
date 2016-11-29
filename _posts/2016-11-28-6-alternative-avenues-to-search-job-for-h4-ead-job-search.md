@@ -49,7 +49,7 @@ description: 7 Alternative job search options for h4 ead applicants
 ### 4) AngelJobs.co
  A lots of startups are looking for people who can do more than a conventional jos. While the pay may be less or
  even non-existent, you may be offered equity in the organization. On top of that you may get to be in a fast paced and
- dynamic environment. While not everyone can work in a startup environment, it's still a good opportunity to learn and perform.
+ dynamic environment. While not everyone can work in a startup environment, it's still a good opportunity to learn and perform. 
  [https://angel.co/jobs](https://angel.co/jobs)
 
 ### 5) redditt/forhire
@@ -63,6 +63,6 @@ description: 7 Alternative job search options for h4 ead applicants
  Beyond the conventional job market, there is a big parallel free lancing job market. With freelancing, you can look for
  jobs all around the world. Most of the freelancing jobs also come with greater job flexibility. While landing your
  initial gig may be challenging, once you get going things will become easy.
- [http://www.guru.com/](http://www.guru.com/) 
+ [http://www.guru.com/](http://www.guru.com/)
 
  [https://www.upwork.com/](https://www.upwork.com/)
