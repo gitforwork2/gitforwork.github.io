@@ -56,6 +56,7 @@ description: 7 Alternative job search options for h4 ead applicants
  Reddit is a popular social book marking site. And lots of people hang out around their topics of interests.
  And reddit happens to have an active for hire thread.
  [https://www.reddit.com/r/forhire/](https://www.reddit.com/r/forhire/)
+
  [https://www.reddit.com/r/hiring/](https://www.reddit.com/r/hiring/)
 
 ### 6) Freelancing
@@ -63,4 +64,5 @@ description: 7 Alternative job search options for h4 ead applicants
  jobs all around the world. Most of the freelancing jobs also come with greater job flexibility. While landing your
  initial gig may be challenging, once you get going things will become easy.
  [http://www.guru.com/](http://www.guru.com/)
+
  [https://www.upwork.com/](https://www.upwork.com/)
