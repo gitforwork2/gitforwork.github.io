@@ -43,19 +43,18 @@ You get the idea.
 You could take the blog one step further, convert that into a presentation. There are lot's of interest based groups out there who are looking for a speaker.
 	Find a local group on sites like meetup.com and volunteer to do a presentation. For example, there are local java groups, business analyst groups etc, where you can
 	present on something simple and interesting. You don't have to be an expert, you might become one in the process of preparing for the presentation. You can present on basic introductions to new techniques, tools, process etc. 
-	For example, one of the recent hire in our team did a presentation on how to do a "hello world" app in ios, android and windows platforms. It was an interesting choice, because instead of doing a deeper presentation, she tool a basic concept and spread it across platforms and talked about the similarities and differences.
-	While that presentation lead to a conversation with a hiring manager, which eventually led her to a job. 
+	For example, one of the recent hire in our team did a presentation on how to do a "hello world" app in ios, android and windows platforms. It was an interesting choice, because instead of doing a deeper presentation, she took a basic concept and spread it across platforms and talked about the similarities and differences.
+	And that presentation lead to a conversation with the hiring manager, which eventually led her to a job. 
 	That's another side affect of attending the interest groups. You get to build a network. And you can even start by attending the group meetings to make yourself comfortable before doing a presentation. 
 	
 ### 3) Youtube
-If you are presenting in the local group, make sure someone records it for you and post it on youtube. Or You can post short tutorials on youtube on the topic of your interests.
-And link them to your blog.
+If you are presenting in a local group, make sure someone makes a vide and you can post that on youtube. Or You can create short tutorials on youtube on the topic of your interests. And link them to your blog!
 
 ### 4) Certifications
-Certifications are another good way to show that you have invested in your career. Explore the popular ones and get yourself certified. But don't spend a fortune on fancy certifications.
-If you are in the software industry, you could consider basic [scrum certifications](www.scrum.org) in addition to a certification in your field of expertise as scrum is more or less becoming the de facto way of building software. While good certifications are an effective tool for learning, not all people are fan of certifications. Hence, it's more effective if you can combine with one ore more of the above items. Moreover, if you are preparing for a certification, you would get more ideas for blog posts and presentations. 
+Certifications are another good way to show that you have invested in your career. Explore the popular ones in your area of interest and get yourself certified. But don't spend a fortune on fancy certifications.
+If you are in the software industry, you could consider basic [scrum certifications](www.scrum.org) in addition to a domain specific certification as scrum is slowly becoming the de facto way of building software. While good certifications are an effective tool for learning, not all people are fan of certifications. Hence, it's more effective if you can combine certifications with one ore more of the above items. Moreover, if you are preparing for a certification, you would fetch you more ideas for blog posts and presentations.
 
 ### 5) Local conferences
 This option is similar to the presentations, but taking it higher. If you find conferences, check if you can get a speaking slot. Most likely, that's going to be difficult. But, conferences typically look for volunteers. See if you can land any interesting roles like organizer of a session or a workshop or something like that. Atleast, just by volunteering you can build your network and also add talking points to your resume. 
 	
-The options presented here are some examples of building your personal brand irrespective of your career gap. So, you can certainly take advantage of these techniques to build a successful career! 
+The options presented here are some examples of building your personal brand irrespective of your career gaps. So, you can certainly take advantage of these techniques to overcome any doubts you or the recuiter has in your ability to perform the job. Good luck and happy hunting! 
