@@ -63,6 +63,6 @@ description: 7 Alternative job search options for h4 ead applicants
  Beyond the conventional job market, there is a big parallel free lancing job market. With freelancing, you can look for
  jobs all around the world. Most of the freelancing jobs also come with greater job flexibility. While landing your
  initial gig may be challenging, once you get going things will become easy.
- [http://www.guru.com/](http://www.guru.com/)
+ [http://www.guru.com/](http://www.guru.com/) 
 
  [https://www.upwork.com/](https://www.upwork.com/)
