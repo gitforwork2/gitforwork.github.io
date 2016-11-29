@@ -58,15 +58,15 @@ Most non-commercial sector like universities, state agencies, city administratio
 
 ### 6) redditt/forhire
  Reddit is a popular social book marking site. And lots of people hang out around their topics of interests.
- And reddit happens to have an active "for hire" thread.
- [https://www.reddit.com/r/forhire/](https://www.reddit.com/r/forhire/) 
+ And reddit happens to have an active "for hire" thread. 
+  [https://www.reddit.com/r/forhire/](https://www.reddit.com/r/forhire/) 
  
- [https://www.reddit.com/r/hiring/](https://www.reddit.com/r/hiring/) 
+  [https://www.reddit.com/r/hiring/](https://www.reddit.com/r/hiring/) 
 
 ### 7) Freelancing
  Beyond the conventional job market, there is a big parallel free lancing job market. With freelancing, you can look for
  jobs all around the world. Most of the freelancing jobs also come with greater job flexibility. While landing your
  initial gig may be challenging, once you get going things will become easy.
- [http://www.guru.com/](http://www.guru.com/) 
+  [http://www.guru.com/](http://www.guru.com/) 
  
- [https://www.upwork.com/](https://www.upwork.com/)
+  [https://www.upwork.com/](https://www.upwork.com/)
