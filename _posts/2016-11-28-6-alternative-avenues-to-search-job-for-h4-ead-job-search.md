@@ -15,7 +15,7 @@ description: 7 Alternative job search options for h4 ead applicants
  
  * Friend referrals are the most effective way to land an interview call and in many cases that job. Are you sure that you have already explored all your friends and contacts who can refer a job? Make sure you follow up in a nice way if it has been a while since you last asked them. Try to expand the circle by asking for friends of friends. And if you have already worked before the break, contact your old managers to see if they have any open positions. 
  
- * Like most people, if you have location constraints and are looking for jobs in only certain locations, make sure to include positions that allow remote locations as well.
+ * Like most people, if you have location constraints and are looking for jobs in only certain locations, make sure to include positions that allow remote work as well. Also, expand to include nearby cities if you can commute over the weekend etc.And it doesn't have to be permanent, you can give it a shot and meanwhile look in your city. It's easier to get another job if you already have one.
  
  * Even though you may want to work in a specific location, that doesn't mean you don't have to apply nationwide. Read on to find why,
 	 There are several advantages in looking for jobs nationally,
@@ -36,8 +36,8 @@ description: 7 Alternative job search options for h4 ead applicants
  
 
 ### 1) Craigslist
- Craigslist is not only used for local commerce, it's also used to advertise job positions as well.
- Companies advertise in Craigslist because the ads are cheaper.
+ Not many people know that Craigslist has a section for job advertisements. 
+ Companies advertise in Craigslist because the ads are cheaper and location speific. 
  [For example, you can find plenty of Software Engineer jobs in the bay area](https://sfbay.craigslist.org/search/jjj?query=software&excats=&cat_id=23&cat_id=24&cat_id=48&cat_id=25&cat_id=12&cat_id=100&cat_id=57&cat_id=15&cat_id=129&cat_id=130&cat_id=61&cat_id=26&cat_id=54&cat_id=14&cat_id=47&cat_id=128&cat_id=13&cat_id=28&cat_id=127&cat_id=27&cat_id=49&cat_id=126&cat_id=75&cat_id=131&cat_id=59&cat_id=21&cat_id=50&cat_id=55&cat_id=125&cat_id=52&cat_id=11&cat_id=16&userid=&search_distance=&postal=)
 
 ### 2) StackOverflow Jobs
@@ -45,18 +45,17 @@ description: 7 Alternative job search options for h4 ead applicants
  [http://stackoverflow.com/jobs](http://stackoverflow.com/jobs)
 
 ### 3) Career Fair
- Most cities have career fairs all around the year. Go out and explore. In addition, many big universities in your locality also have their own department specific
- career fairs. And many of them allow external candidates for a small fee. If you are early in your career or looking to restart after a long gap, this may be worth exploring this option.
+ Most cities have career fairs all around the year. Search online, to see if you have anything coming up. In addition, most big universities also have their own department specific career fairs. And many of them allow external candidates for a small fee. If you are early in your career or looking to restart after a long gap, this may be worth exploring this option.
 
 ### 4) AngelJobs.co
- A lots of startups are looking for people who can do more than a conventional jos. While the pay may be less or
- even non-existent, you may be offered equity in the organization. On top of that you may get to be in a fast paced and
- dynamic environment. While not everyone can work in a startup environment, it's still a good opportunity to learn and perform. 
+ Startups and early stage companies use this site to hire people. While the pay may be less or
+ even non-existent, you may be offered equity in the company. On top of that, you get to be in a fast paced and
+ dynamic environment. While not everyone can work in a startup environment, it's still a good opportunity to learn and quick growth. 
  [https://angel.co/jobs](https://angel.co/jobs)
 
 ### 5) redditt/forhire
  Reddit is a popular social book marking site. And lots of people hang out around their topics of interests.
- And reddit happens to have an active for hire thread.
+ And reddit happens to have an active "for hire" thread.
  [https://www.reddit.com/r/forhire/](https://www.reddit.com/r/forhire/)
 
  [https://www.reddit.com/r/hiring/](https://www.reddit.com/r/hiring/)
