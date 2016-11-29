@@ -36,7 +36,7 @@ description: 7 Alternative job search options for h4 ead applicants
 ### 1) Craigslist
  Craigslist is not only used for local commerce, it's also used to advertise job positions as well.
  Companies advertise in Craigslist because the ads are cheaper.
- [For example, you can find plenty of ads for Software Engineer jobs in the bay area].(https://sfbay.craigslist.org/search/jjj?query=software&excats=&cat_id=23&cat_id=24&cat_id=48&cat_id=25&cat_id=12&cat_id=100&cat_id=57&cat_id=15&cat_id=129&cat_id=130&cat_id=61&cat_id=26&cat_id=54&cat_id=14&cat_id=47&cat_id=128&cat_id=13&cat_id=28&cat_id=127&cat_id=27&cat_id=49&cat_id=126&cat_id=75&cat_id=131&cat_id=59&cat_id=21&cat_id=50&cat_id=55&cat_id=125&cat_id=52&cat_id=11&cat_id=16&userid=&search_distance=&postal=)
+ [For example, you can find plenty of ads for Software Engineer jobs in the bay area](https://sfbay.craigslist.org/search/jjj?query=software&excats=&cat_id=23&cat_id=24&cat_id=48&cat_id=25&cat_id=12&cat_id=100&cat_id=57&cat_id=15&cat_id=129&cat_id=130&cat_id=61&cat_id=26&cat_id=54&cat_id=14&cat_id=47&cat_id=128&cat_id=13&cat_id=28&cat_id=127&cat_id=27&cat_id=49&cat_id=126&cat_id=75&cat_id=131&cat_id=59&cat_id=21&cat_id=50&cat_id=55&cat_id=125&cat_id=52&cat_id=11&cat_id=16&userid=&search_distance=&postal=)
 
 ### 2) StackOverflow Jobs
  While StackOverflow sites are known for Q & A, they also have a career section. Hence, it is a good idea to keep an eye on their job section
