@@ -41,14 +41,14 @@ description: 7 Alternative job search options for h4 ead applicants
  [For example, you can find plenty of Software Engineer jobs in the bay area](https://sfbay.craigslist.org/search/jjj?query=software&excats=&cat_id=23&cat_id=24&cat_id=48&cat_id=25&cat_id=12&cat_id=100&cat_id=57&cat_id=15&cat_id=129&cat_id=130&cat_id=61&cat_id=26&cat_id=54&cat_id=14&cat_id=47&cat_id=128&cat_id=13&cat_id=28&cat_id=127&cat_id=27&cat_id=49&cat_id=126&cat_id=75&cat_id=131&cat_id=59&cat_id=21&cat_id=50&cat_id=55&cat_id=125&cat_id=52&cat_id=11&cat_id=16&userid=&search_distance=&postal=)
 
 ### 2) StackOverflow Jobs
- While StackOverflow sites are known for Q & A, they also have a career section. Hence, it is a good idea to keep an eye on their job section
+ While StackOverflow sites are known for Q & A, they also have a career section. Hence, it is a good idea to keep an eye on their job section 
  [http://stackoverflow.com/jobs](http://stackoverflow.com/jobs)
 
 ### 3) Career Fair
  Most cities have career fairs all around the year. Search online, to see if you have anything coming up. In addition, most big universities also have their own department specific career fairs. And many of them allow external candidates for a small fee. If you are early in your career or looking to restart after a long gap, this may be worth exploring this option.
 
 ### 4) Non commercial employers
-Most non-commercial sector like universities, state agencies, city administrattion jobs are not indexed by the job sites. And yes, many of them hire people on visa. So, it may be a good idea to look in their own sites, especially the universities. The jobs may be more steady and relaxed. In addition check [https://www.governmentjobs.com/](https://www.governmentjobs.com/) for government jobs.
+Most non-commercial sector like universities, state agencies, city administrattion jobs are not indexed by the job sites. And yes, many of them hire people on visa. So, it may be a good idea to look in their own sites, especially the universities. The jobs may be more steady and relaxed. In addition, [https://www.governmentjobs.com/](https://www.governmentjobs.com/) indexes government jobs.
 
 ### 5) AngelJobs.co
  Startups and early stage companies use this site to hire people. While the pay may be less or
@@ -59,14 +59,12 @@ Most non-commercial sector like universities, state agencies, city administratti
 ### 6) redditt/forhire
  Reddit is a popular social book marking site. And lots of people hang out around their topics of interests.
  And reddit happens to have an active "for hire" thread.
- [https://www.reddit.com/r/forhire/](https://www.reddit.com/r/forhire/)
-
- [https://www.reddit.com/r/hiring/](https://www.reddit.com/r/hiring/)
+ [https://www.reddit.com/r/forhire/](https://www.reddit.com/r/forhire/) 
+ [https://www.reddit.com/r/hiring/](https://www.reddit.com/r/hiring/) 
 
 ### 7) Freelancing
  Beyond the conventional job market, there is a big parallel free lancing job market. With freelancing, you can look for
  jobs all around the world. Most of the freelancing jobs also come with greater job flexibility. While landing your
  initial gig may be challenging, once you get going things will become easy.
- [http://www.guru.com/](http://www.guru.com/)
-
+ [http://www.guru.com/](http://www.guru.com/) 
  [https://www.upwork.com/](https://www.upwork.com/)
