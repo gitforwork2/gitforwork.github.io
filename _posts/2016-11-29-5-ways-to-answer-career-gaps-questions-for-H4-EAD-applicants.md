@@ -10,8 +10,11 @@ If you are on H4 visa, you must be excited to go back to work after obtaining yo
 First, the most common issue to address is your own fear about the gap. Many people are so focussed on the gap that they make it front and centre of their conversation, there by ignoring the  conversations about their skill set.So get your focus off of the gap, because it's not a unique problem to you and each year lots of people overcome it. It's just one aspect of your other qualifications for the job. Remember, hiring good people is a hard and time consuming process. So, if you had good background and performed well at the interview, gap is not going to be an issue. So, focus on those aspects and don't fret too much over the career breaks. If it helps, consider creating a skill based resume instead of a time line based resume. 
 Besides that, how do you convert your perceived liability into a strength? Well, you have some options. 
 Before looking at those, imagine for a second when a recruiter asks about your career break, instead of saying 
+
 > "Hmm, I wasn't able to work because I was on a dependent visa and couldn't do much about it"   
-  say something like  
+
+say something like  
+
 > "The gap is because of visa issues. However, after EAD I have been preparing myself to get back to work. I have a blog and actively 
 > write about the latest on Javascript. I also actively speak in local javascript user groups".
    The second answer is likely to catch attention of the hiring manager.
@@ -24,9 +27,13 @@ Start a blog in the area you are looking to work. Fill the blog with 5-10 detail
 	Writing on linkedin is even better because of the credibility it adds to your profile. Or you could seek out and write a guest post for a popular blog. Blog owners always look for good guest contributors. 
 	And you can write about general introductions, how to posts, comparison etc. 
 	For example if you are shooting for a web developer position, you could write posts like 
-* What is the state of web development?  
-* How to create a simple hello world page in angular.js?  
-* What are the advantages of react.js over other similar frameworks?  
+  
+ * What is the state of web development?  
+ 
+ * How to create a simple hello world page in angular.js?  
+ 
+ * What are the advantages of react.js over other similar frameworks?  
+
 You get the idea.
 		
 ### 2) Presentation
