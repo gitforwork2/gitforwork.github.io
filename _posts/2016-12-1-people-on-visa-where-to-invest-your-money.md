@@ -41,4 +41,4 @@ Consider a 401k if you are sure of settling down in the US and also if your empl
 ### Roth IRA vs Normal trading account
 Roth IRA differs from a normal IRA in one aspect. Instead of contributing money before tax, you contribute money after tax. And any growth in the invested money is tax free. However, you still have a 10% penalty for premature withdrawal. And again most considerations for the IRA apply here too. If you think you can make good stock market investments or if you may inherit high income business later in your life consider Roth IRA. If not compare it with a regular trading account. Because in exchange of paying taxes on the investment returns you don't have to pay 10% penalty for premature withdrawal. Also, if you are a passive index fund investor, you can get away with minimal taxes on your returns. 
 
-  -Each person's situation is different. This post is not a legal or a financial planning advice
+ "Each person's situation is different. This post is not a legal or a financial planning advice"
