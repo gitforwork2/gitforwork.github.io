@@ -24,5 +24,6 @@ marketing
 * Email Amit Goel and ask for advice.
 * Find a reddit subedit and participate in the discussions
 * Check if you can post in bogleheads forum with no follow
+* desiopt forums
 
 
