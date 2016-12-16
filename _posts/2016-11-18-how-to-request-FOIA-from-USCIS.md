@@ -6,8 +6,10 @@ tags: USCIS FOIA g639
 comments: true
 description: 3 Steps to request FOIA with USCIS using form G 639 to request immigration records
 ---
-You want to request some records from the USCIS, start here,
 
+###### if you want a sample g-639 filled form, leave a comment below (email will not be displayed)
+
+You want to request some records from the USCIS, start here
 ### Step 1: Prepare for the application
 Besides the basic information, What would you typically need for filling the form?
   While all of the following information listed is optional, it's better to give useful information to USCIS to identify the
