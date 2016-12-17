@@ -33,3 +33,54 @@ marketing
 * Build links for root page frontsimple.com
 
 
+====
+From notepad
+====
+
+follow
+----------
+desiopt - take max advantage
+immihelp
+http://www.splawforum.com/forum.php
+http://www.immigration-information.com/forums/
+bogleheads.com
+
+
+nofollow
+-------------
+pathtousa/forums
+indusladies.com
+visajourney
+immigrate2us
+h1bwiki/comments
+redbus2us/q&a
+
+
+check
+--------
+immigration.com
+http://redbus2us.com/qa/
+http://redbus2us.com/share-your-experience/ -> test with a small experience of mama in abu dhabi; may be create a experience of job search; experience of foia
+
+comments
+
+h1b.io
+
+citizen journalism ireport
+edu sites blog?
+
+immigrationgirl
+================
+120Comments		http://immigrationgirl.com/what-is-the-real-wait-time-for-eb-2-india-82-5-years/
+82C				http://immigrationgirl.com/how-will-a-trump-presidency-impact-high-skilled-immigration/
+101				http://immigrationgirl.com/there-is-no-grace-period-work-location-change-and-filing-an-h-1b-amendment/
+1092C			http://immigrationgirl.com/your-h-1b-was-selected-in-the-fy-2017-lottery-what-happens-next/
+112C			http://immigrationgirl.com/6-common-situations-with-h-1b-amendments-post-simieo-guidance/
+325C			http://immigrationgirl.com/return-of-fy-2017-petitions-begins-for-unlucky-h-1b-visa-applicants/
+101C			http://immigrationgirl.com/my-thoughts-on-immigration/
+396C			http://immigrationgirl.com/h-1b-rfes-regarding-f-1-maintenance-of-status-and-cpt-time/
+1397C			http://immigrationgirl.com/updated-h-1b-lottery-receipt-results-for-fy-2017-2/
+59C				http://immigrationgirl.com/top-six-reasons-for-h-1b-rfes-request-for-evidence/
+
+	
+	
