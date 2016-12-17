@@ -11,12 +11,16 @@ description: 3 Steps to request FOIA with USCIS using form G 639 to request immi
 
 One aspect of the US immigration system is it's complex. And like many areas of law there are many nuances. Occasionally,
  you may run into situation where you don't have access to your own immigration documents or your employer is not
- sharing them. That could be your documents related to your visas or your green card. And luckily, US enacted a law called FOIA which
- gives you access to your documents. And most agencies for government come under this including USCIS.
- USCIS is one of the 3 immigration agencies and it holds number of important information about an immigrant. To help you
- obtain your documents, USCIS has a well defined process on how to make a FOIA request. But, before you prepare your FOIA
- requests, make sure you are using the FOIA for the right purposes and the type of documents you are requesting is maintained by USCIS.
- FOIA cannot be used to ask for status of your pending USCIS immigration applications. And it cannot be used to get original documents.
+ willing to sharing them. That could be your documents related to your visas or your green card or others.
+
+ And luckily, US has a law called Freedom of Information Act (FOIA) which gives you right of access to your documents within the branches of government.
+ And most agencies for government come under this including U.S. Citizenship and Immigration Services (USCIS). USCIS is one of the 3 immigration agencies and it holds number of important information about an immigrant. To help you
+ obtain your documents, USCIS has a well defined process on how to make a FOIA request.
+
+ But, before you prepare your FOIA requests, make sure you are using the FOIA for the right purposes and the
+ type of documents you are requesting is maintained by USCIS. USCIS is generally the records keeper of immigrations
+ applications for visas, green card applications etc. Port of entry details are maintained by Customs and Border Protection (CBP).
+ And FOIA cannot be used to ask for status of your pending USCIS immigration applications. And it cannot be used to get original documents either.
  FOIA also has [exemptions](http://www.dhs.gov/xfoia/gc_1208265747435.shtm). For example, documents pertaining to national security concerns cannot be released.
 
  With the basics of USCIS FOIA out of the way, Let's see how to make the application.
