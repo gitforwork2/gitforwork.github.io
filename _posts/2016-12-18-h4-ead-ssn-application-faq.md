@@ -19,6 +19,9 @@ You don't have to apply again for the same.
 You will need your SSN application form, Passport, ID Proof, EAD card, and a print-out of your I-94 from the CBP website.
 And follow the [procedure described on the SSA site](http://www.ssa.gov/ssnumber/).
 
+### How long does it take to get the SSN?
+It may take anywhere between 1-4 weeks.
+
 ### When filling the form, what do you select for the question 5, Legal Alien allowed to work vs Other?
 If you are in H4 EAD status, choose Legal alien allowed to work
 
@@ -67,74 +70,4 @@ then you would have to wait until the start date.
  website). Alternatively, some people have found success by taking a print out of the SAVE status page and show them.
  Remember to make all information available to the SSA agent and be courteous.
  The whole process might take 4 weeks.
-
-  are still not
- aare not able to
- verify the
-
----------------
-save database
-
-
---------------
-I received my EAD card a month and half ago and I recently went to the SSA office to apply for SSN#.
-The SSA officer told me that the application did not go through and therefore
-he needs to post the documents to DHS for their approval
-(which sounds similar to what happened with several cases shared by others in this forum).
-I have a job offer (which I like) and my employer asked for my SSN#.
-I am concerned that the employer may not wait if getting my SSN is delayed by a long time.
-I checked the "SAVE Case Check" website and could see that my case is currently under review.
-
-I am wondering why my application did not go through at the SSA office given that I waited for one and
-half months after receiving my EAD card. I am also wondering if there is any way to expedite
-the process of getting the DHS approval and SS card. Also, is there a phone number for
-DHS/USCIS for obtaining help/information in this regard?
-
-Any suggestions/help will be greatly appreciated.
---------------
-
-I applied for my SSN today but the officer told me that her system does not show any info about me so
-she has to send it to another agency (USCIS?) to verify my info and that would take
-10 days and after that they will issue SSN. The whole process might take up to 4 weeks.
-Is it normal for such a process to happen?
-I am a bit confused about the purpose of this link -- https://save.uscis.gov/casecheck/
-Is this the link for tracking of my SSN application? Please advise.
-
-using save casecheck you can track enquiry status from ssa to dhs/uscis.
-once case status changes to return to agency i believe then you can call and ask ssa about the ssn.
-----------------
-My suggestions (just based on my personal experience!): After the SAVE check status changes
-to "returned to the agency," you should call the SSA and inform them that the SAVE check status changed.
-If they say they haven't received any update from USCIS, you can mention that you spoke
-with USCIS (http://www.uscis.gov/save/contact-save) and that they will not divulge any information
- to the application and instead wants the agency to call them directly on the toll free number
- (in the contact SAVE website). The USCISC guy that I spoke with actually suggest that I go to the
- SSA and have the agent call their toll free number to find out whats happening.
-  In my case, the agent probably called USCIS because he did receive an
-  update saying the documents could not verified, but I feel there is no harm in asking the agent to call USCIS
-  if a few days have passed from the time SAVE check status changes.
-  The bottom line is that it is only the SSA that can push USCIS.
---------------------
-https://www.irs.gov/Individuals/Additional-ITIN-Information
----------
-Hey all..
-
-I need to thank everyone for posting ur experiences n especially sivakumar for his excellent suggestion.
-
-I got my H4 EAD on Nov 17'2015 after waiting for around 6 months. When I visited SSN office,
-the lady officer has told me that verification was not completed and it would take 4-6 weeks for the process.
-I came back home and searched blogs to find out if anyone faced the same problem.
-I found that many were having the same issue but no one suggested how to proceed further.
-
-Post from sivakumar on nov 30'2015 helped me a lot and I checked my status on SAVE and it indicated that
- DHS verified my case on Nov 17th' 2015 itself. I took the copy of that to SSN office and asked them
- if they have any update about my case. Initially, they told me that I need to wait for another 2-4 weeks.
- When I showed her the copy from the SAVE website, she verified my information again and confirmed me that
- I would get my SSN within a week.
-
-I feel that as soon as DHS updates, SSN database doesn't get updated automatically.
-
-As suggested by sivakumar, it's better to go to SSN office in person with a copy from SAVE website
-(status indicating "RETURNED TO AGENCY") to expedite ur SSN application.
-----------------
 
