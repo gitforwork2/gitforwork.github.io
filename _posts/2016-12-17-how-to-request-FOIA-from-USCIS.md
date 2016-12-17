@@ -52,7 +52,7 @@ USCIS prefers the form G-639 to be used for FOIA.
 ### Step 3: Send the form
 Sign the form under perjury (Summary: You agree to face consequences under US laws, if the application contains wrong information. [Formal explanation](https://www.uscis.gov/tools/glossary/declaration-under-penalty-perjury))
 or Sign before a Notary, with necessary documents.
-Email to form to uscis.foia@uscis.dhs.gov. Attach any additional documents that you want to send.
+ Email to form to uscis.foia@uscis.dhs.gov. Attach any additional documents that you want to send.
 
 What happens after that?
 You will receive a control number with-in 2 weeks with which you can [track your status](http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
@@ -94,8 +94,8 @@ Thus, it may be possible to obtain copies your own records, but not the records 
  USCIS follows a three-track system. How sooner USCIS processes your request depends on the complexity of the document requested.
  USCIS maintains a "A-file" or Alien-file with all information pertaining to your immigration history.
  If you request for the complete A-File it most likely go into track 3 and might take several months to a year or even more.
- But if you are requesting selected documents with the A-file like your green card petition or H1b petition
- documents, most likely those will go into the simple track. At the time of writing this simple track takes about a month to process.
+ But if you are requesting selected documents within the A-file like your green card petition or H1b petitions or
+  labor certification documents, most likely those will go into the simple track. At the time of writing this simple track takes about a month to process.
  Anything between the two is slotted in the middle track.
 
  For current wait times, check [here](http://www.uscis.gov/about-us/freedom-information-and-privacy-act-foia/foia-request-status-check-average-processing-times/check-status-request)
@@ -107,8 +107,8 @@ Thus, it may be possible to obtain copies your own records, but not the records 
  better to plan ahead.
 
 ### Is there a filing fee?
- Generally No for non-commercial uses. But if USCIS determines that the cost of producing the data is expensive they will contact you.
- Typically USCIS can charge a fee upto $25.
+ Generally no for non-commercial uses. But if USCIS determines that the cost of producing the data is expensive
+ they will contact you. Typically USCIS can charge a fee upto $25.
 
 ### OK I am ready to file. What are the steps to request the I140 information?
  You will have to fill the latest [G639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf) form.
