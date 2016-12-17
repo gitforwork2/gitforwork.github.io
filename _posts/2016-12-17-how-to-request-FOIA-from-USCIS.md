@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to request FOIA from USCIS
-date: 2016-11-18
+date: 2016-12-17
 tags: USCIS FOIA g639
 comments: true
 description: 3 Steps to request FOIA with USCIS using form G 639 to request immigration records
@@ -11,16 +11,21 @@ description: 3 Steps to request FOIA with USCIS using form G 639 to request immi
 
 One aspect of the US immigration system is it's complex. And like many areas of law there are many nuances. Occasionally,
  you may run into situation where you don't have access to your own immigration documents or your employer is not
- willing to sharing them. That could be your documents related to your visas or your green card or others.
+ willing to sharing them. Typically, not all employers share with employees their employer sponsored visas and green card
+ records. Or you may not have access to family sponsored green card records. Or you may simply need historical immigration documents for
+ your own record keeping.
 
  And luckily, US has a law called Freedom of Information Act (FOIA) which gives you right of access to your documents within the branches of government.
- And most agencies for government come under this including U.S. Citizenship and Immigration Services (USCIS). USCIS is one of the 3 immigration agencies and it holds number of important information about an immigrant. To help you
- obtain your documents, USCIS has a well defined process on how to make a FOIA request.
+ And most agencies of government come under this including the U.S. Citizenship and Immigration Services (USCIS).
+  USCIS is one of the immigration agencies under the Department of Homeland Security(DHS) and it holds number
+  of important information about an immigrant. To help you obtain your documents, USCIS has a well defined
+  process on how to make a FOIA request.
 
  But, before you prepare your FOIA requests, make sure you are using the FOIA for the right purposes and the
  type of documents you are requesting is maintained by USCIS. USCIS is generally the records keeper of immigrations
- applications for visas, green card applications etc. Port of entry details are maintained by Customs and Border Protection (CBP).
- And FOIA cannot be used to ask for status of your pending USCIS immigration applications. And it cannot be used to get original documents either.
+ applications for visas, green card etc. Port of entry details for example are maintained by
+ Customs and Border Protection (CBP). While in some cases USCIS has access to records from other adjacent agencies,
+ it's better to contact the agency directly. And FOIA cannot be used to ask for status of your pending USCIS immigration applications. And it cannot be used to get original documents either.
  FOIA also has [exemptions](http://www.dhs.gov/xfoia/gc_1208265747435.shtm). For example, documents pertaining to national security concerns cannot be released.
 
  With the basics of USCIS FOIA out of the way, Let's see how to make the application.
