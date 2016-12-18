@@ -12,6 +12,8 @@ Strategy
 - Make google happy by posting long 1000+ words article
 - Make google happy by strategically use the forums identified with follow links
 - Ask for guest posts as much as possible
+- Make a pillar every saturday and a filler every satuday. Don't take more than an hour
+- Spend some time in trying to glean a pillar article
 
 =========
 marketing
