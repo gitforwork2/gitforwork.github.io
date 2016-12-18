@@ -10,17 +10,17 @@ As you already know, last year USCIS started allowing dependents of certain H1b 
  eligibility to work with a EAD. And along with the EAD application, the rule also lets people on other visas to
  apply Change Of Status (COS) to H4 visa. So, many spouses on H1b visa want to take advantage of this COS. Because,
   EAD offers more flexibility than a H1b visa does. For example, EAD doesn't have restriction on the type of jobs
-  that needs to be performed or restriction on number of jobs one can perform. And if one is more enterprising they
-  can also start their own business etc. Also, it doesn't restrict on the continuity of a job, i.e., one can take
-   a break and restart work after a break with no restriction as long as the primary H1b visa is valid.
+  that needs to be performed or restriction on the number of jobs one can perform. And if one is more enterprising they
+  can also start their own business. Also, it doesn't restrict on the continuity of a job, i.e., one can take
+   a break and restart work after a break with no restriction as long as the primary H1b visa is still valid.
 
    However, even with all these advantages, the response to the H4 EAD has been lukewarm as reported by USCIS.
-   The number of applicants has been way lower than initially anticipated. But, still there are lots of people
-   out there who wants to convert from H1b or even F1 visa to H4 EAD. And for most people who are already working
-   want to make this transition as seamless as possible. This post is an introduction on how to apply COS with minimal
+   The number of applicants has been lower than initially anticipated. But, still there are lots of people
+   out there who wants to convert from H1b or even F1 visa to H4 EAD. And for most people who are already working, they
+   want to make this transition as seamless as possible. This post describes how to apply COS with minimal
    disruption to your work.
 
-   First, we need to understand all of the process that's involved
+   First, we need to understand all of the steps involved
    - H1(or another visa) to H4 change of status needs to filed (form I-539)
    - EAD needs to be applied for the new H4 status (form I-765)
 
