@@ -14,7 +14,7 @@ First, we need to understand all of the steps involved
 - H1(or another visa) to H4 change of status needs to filed (form I-539)
 - EAD needs to be applied for the new H4 status (form I-765)
 
-Independently, the above steps are time consuming steps. However, as mentioned earlier the steps can be combined. You can send all the necessary forms and supporting documents to USCIS as one packet and USCIS is able to process them concurrently. Event with concurrent processing, it may take up to 90 days for USCIS to process your application. And currently USCIS doesn't offer premium processing to expedite the process. 
+Independently, the above steps are time consuming steps. However, as mentioned earlier the steps can be combined. You can send all the necessary forms and supporting documents to USCIS as one packet and USCIS is able to process them concurrently. Event with concurrent processing, it may take up to 90 days for USCIS to process your application. And currently USCIS doesn't offer premium processing to expedite the process.
 
 However, if your primary H1b applicant is applying for an extension you may be in luck. Because, you can combine your COS and EAD with the primary H1b's extension application with a premium processing. Even though there is no rule to process all the three concurrently, USCIS in practise processes all the 3 steps within the premium processing window which is 2 weeks.
 
@@ -37,4 +37,5 @@ Here is an time line to give you an idea from such a similar application.
 - 10/27/2016 Received approval notices for the other 2
 - 11/25/2016 EAD Card received
 
-Hope this is helpful for people who are in the same boat.
+Hope this is helpful for people who are in the same boat. And remember, USCIS does all within the premium processing
+window as a courtesy, so your mileage may vary.
