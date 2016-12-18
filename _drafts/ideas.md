@@ -1,23 +1,23 @@
 Theme of the article:
 All thing immigrant, legalresident.com
 niche: job search, visa matters, money matters
-===========
-blog ideas:
-===========
-* Watch highest watched threads and create curated content out of it
-* How to use craigslist effectively for job hunt?
-* Stricter H1b? No problem; OutSourcers have found a workaround
-* How to search for job on a f1 visa
-* How did I land a job during the worst recession.? Link to the above 2
-* To send or not to send money to india?
-* 401k, hsa money matters
-* File for FOIA for uscis data (may not need, give what they want to hear)
-* Find the most commented article and create competing article
+
+=========
+Strategy
+=========
+- Cannot go on creating blog after blog to compete. Have to compete effectively. Go for high value posts
+- Competitors site/forums, check the ones with high views or comments (need to be meaningful comments)
+- Plan such 50 high impact blogs in the 1st year. 
+- Make google happy by posting reasonable posts from the forums (which contribute towards domain authority)
+- Make google happy by posting long 1000+ words article
+- Make google happy by strategically use the forums identified with follow links
+- Ask for guest posts as much as possible
+- Make a pillar every saturday and a filler every satuday. Don't take more than an hour
+- Spend some time in trying to glean a pillar article
 
 =========
 marketing
 =========
-
 * Contact rashi bhatnagar and post h4 job hunt articles on fb
 * Email Amit Goel and ask for advice, may be convert it to a interview
 * Contact happyschools for money matters blog guest post
@@ -31,6 +31,19 @@ marketing
 * desiopt forums- vachu seiyanum
 * Ask for interviews who can backlink
 * Build links for root page frontsimple.com
+
+===========
+blog ideas:
+===========
+* Watch highest watched threads and create curated content out of it
+* How to use craigslist effectively for job hunt?
+* Stricter H1b? No problem; OutSourcers have found a workaround
+* How to search for job on a f1 visa
+* How did I land a job during the worst recession.? Link to the above 2
+* To send or not to send money to india?
+* 401k, hsa money matters
+* File for FOIA for uscis data (may not need, give what they want to hear)
+* Find the most commented article and create competing article
 
 
 ====
