@@ -84,18 +84,28 @@ h1b.io
 citizen journalism ireport
 edu sites blog?
 
-immigrationgirl
+immigirl
 ================
-120Comments		http://immigrationgirl.com/what-is-the-real-wait-time-for-eb-2-india-82-5-years/
-82C				http://immigrationgirl.com/how-will-a-trump-presidency-impact-high-skilled-immigration/
-101				http://immigrationgirl.com/there-is-no-grace-period-work-location-change-and-filing-an-h-1b-amendment/
-1092C			http://immigrationgirl.com/your-h-1b-was-selected-in-the-fy-2017-lottery-what-happens-next/
-112C			http://immigrationgirl.com/6-common-situations-with-h-1b-amendments-post-simieo-guidance/
-325C			http://immigrationgirl.com/return-of-fy-2017-petitions-begins-for-unlucky-h-1b-visa-applicants/
-101C			http://immigrationgirl.com/my-thoughts-on-immigration/
-396C			http://immigrationgirl.com/h-1b-rfes-regarding-f-1-maintenance-of-status-and-cpt-time/
-1397C			http://immigrationgirl.com/updated-h-1b-lottery-receipt-results-for-fy-2017-2/
-59C				http://immigrationgirl.com/top-six-reasons-for-h-1b-rfes-request-for-evidence/
+- 730C  http://immigrationgirl.com/changing-employers-with-an-approved-i-140-petition/
+- 1411C  http://immigrationgirl.com/hday-receipt-notice-stats-fy2016/
+- 1397C http://immigrationgirl.com/updated-h-1b-lottery-receipt-results-for-fy-2017-2/
+- 1097C http://immigrationgirl.com/your-h-1b-was-selected-in-the-fy-2017-lottery-what-happens-next/
+- 823C  http://immigrationgirl.com/your-h-1b-was-selected-in-the-fy-2016-lottery-so-now-what/
+- 545C  http://immigrationgirl.com/eb-2-eligibility-with-a-three-year-indian-bachelors-degree-part-2/
+- 490C  http://immigrationgirl.com/life-after-h-1b-denial/
+- 458C  http://immigrationgirl.com/opt-cap-gap-extension-explained/
+- 368C  http://immigrationgirl.com/the-h-1b-lottery-for-fy-2016-is-done-so-now-what/
+- 120C	http://immigrationgirl.com/what-is-the-real-wait-time-for-eb-2-india-82-5-years/
+- 82C		http://immigrationgirl.com/how-will-a-trump-presidency-impact-high-skilled-immigration/
+- 101		http://immigrationgirl.com/there-is-no-grace-period-work-location-change-and-filing-an-h-1b-amendment/
+- 109C	http://immigrationgirl.com/your-h-1b-was-selected-in-the-fy-2017-lottery-what-happens-next/
+- 112C	http://immigrationgirl.com/6-common-situations-with-h-1b-amendments-post-simieo-guidance/
+- 325C	http://immigrationgirl.com/return-of-fy-2017-petitions-begins-for-unlucky-h-1b-visa-applicants/
+- 101C	http://immigrationgirl.com/my-thoughts-on-immigration/
+- 396C	http://immigrationgirl.com/h-1b-rfes-regarding-f-1-maintenance-of-status-and-cpt-time/
+- 59C		http://immigrationgirl.com/top-six-reasons-for-h-1b-rfes-request-for-evidence/
+
+
 
 	
 	
