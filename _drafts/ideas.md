@@ -16,9 +16,10 @@ Strategy
 - Spend some time in trying to glean a pillar article
 
 =========
-marketing
+marketing - opp
 =========
 * Contact rashi bhatnagar and post h4 job hunt articles on fb
+- driving license woes, do's and don't
 * Email Amit Goel and ask for advice, may be convert it to a interview
 * Contact happyschools for money matters blog guest post
 * Hunt for more forums, including lawers. make couple of simple posts before making the fly
