@@ -7,7 +7,7 @@ comments: true
 description: What are the options one has after H1b extension petition is denied
 ---
 Recently, my friend got into an unfortunate situation where his H1b extension petition was denied after it went to a RFE.
-It was denied because of not able to adequetly establish the project details at the third party client location at which he was placed by his employer. Intially, it went into RFE which was replied to. However, USCIS was not satisfied with the response and denied the extension.
+It was denied because of not able to adequately establish the project details at the third party client location at which he was placed by his employer. Initially, it went into RFE which was replied to. However, USCIS was not satisfied with the response and denied the extension.
 
 Naturally, he had lots of questions like
 - What are the next options available to him in terms of his visa? 
@@ -17,15 +17,15 @@ Naturally, he had lots of questions like
 He eventually found the answers for his questions and this post is a guide to people who get into this unfortunate situation. 
 
 #### Do I need to stop working? 
-You can work until your previous I-94 date or until you recieve the hard notice of denial from USCIS (whichever is earlier). Most likely, the notice might ask you to leave as soon as possible.
+You can work until your previous I-94 date or until you receive the hard notice of denial from USCIS (whichever is earlier). Most likely, the notice might ask you to leave as soon as possible.
 
 #### What are the options available to revive my H1b visa?
 There are few options depending on your circumstances
 
 - Appeal the decision 
 
-Your employer can opt to appeal the decision made by USCIS. But appleaing doesn't give you any legal status to stay and work.
-Also, appeals are not gauranteed to overturn the decisions. On top of if it may take several months to get a response for the appeal. So basically not very employee friendly. 
+Your employer can opt to appeal the decision made by USCIS. But appealing doesn't give you any legal status to stay and work.
+Also, appeals are not guaranteed to overturn the decisions. On top of if it may take several months to get a response for the appeal. So basically not very employee friendly. 
 
 - Same Employer, refile a new petition for the same position
 
@@ -35,8 +35,8 @@ If USCIS accepts this it is the best out come. As USCIS would issue a new I797 w
 
 - Same employer, different position
 
-If your employer has a different position available, then they could file a new H1b extention petition for it. 
-If it's a similiar position and location, they would be able to reuse the LCA and save some time. If it's approved, USCIS may still ask to get a new visa stamping by going out of the country. 
+If your employer has a different position available, then they could file a new H1b extension petition for it. 
+If it's a similar position and location, they would be able to reuse the LCA and save some time. If it's approved, USCIS may still ask to get a new visa stamping by going out of the country. 
 
 - New employer, same position
 
@@ -49,7 +49,7 @@ Basically, you would just start anew with a new employer and position. It may be
 
 - Change of status - become a dependent
 
-If your spouse has a valid non-dependent visa, you can apply for a change of status to become a dependent. For example, if your spouse is on H1b, then you could apply for H4. So, that atleast you have some breathing space. Though you cannot work, you will have time to rework your situation.
+If your spouse has a valid non-dependent visa, you can apply for a change of status to become a dependent. For example, if your spouse is on H1b, then you could apply for H4. So, that at least you have some breathing space. Though you cannot work, you will have time to figure out your situation.
 
 #### What happens to my status? Should I leave the country?
 Your are technically out of status as soon as you or your employer receives the hard copy of the denial notice. 
