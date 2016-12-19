@@ -113,6 +113,9 @@ checked until http://redbus2us.com/page/59/
 - 298C http://redbus2us.com/how-to-apply-for-h1b-visa-petition-for-2011-quota-step-by-step-process/
 - 1234C http://redbus2us.com/h4-visa-to-h1b-visa-transfer-for-2011-impact-of-new-h1b-rules-on-h4-to-h1b-visa-conversion-2011-quota/
 - 205C http://redbus2us.com/f1-visa-defer-admission-in-us-schools-i20-visa-issues-fees-process-how-to-defer/
+-3000C http://redbus2us.com/l1-to-h1b-visa-conversion-advantages-l1-to-h1b-transfer-change-of-status-implications-in-us/
+-1091C http://redbus2us.com/process-and-documents-needed-for-parents-visa-to-visit-usa-b2-visa-tourist-visa-sample-documents/
+
 
 happyschools
 ==============
