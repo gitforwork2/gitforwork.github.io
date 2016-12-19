@@ -94,7 +94,23 @@ trackit - high volume thread
 
 redbus2us
 ==============
-
+- 300C http://redbus2us.com/h1b-sponsoring-comapnies-list-in-us-with-full-details/
+- 652C http://redbus2us.com/websites-for-reviews-of-h1b-sponsoring-consultancies-in-usa-desi-consultancies-it-consultants/
+- 294C http://redbus2us.com/f1-visa-student-working-options-cpt-opt/
+- 100C http://redbus2us.com/1-how-to-choose-your-employer-for-sponsoring-your-h1b-visa/
+- 220C http://redbus2us.com/in-state-vs-out-of-state-tuition-can-you-get-in-state-tution-if-you-work-in-us-for-more-than-year/
+- 217C http://redbus2us.com/apply-for-ms-or-mba-after-engineering-b-tech-difference-fees/
+- 185C http://redbus2us.com/can-i-transfer-to-another-us-university-before-first-semester-what-are-the-conditions-for-transfer-key-considerations-for-transferring-in-first-week/
+- 223C http://redbus2us.com/is-it-mandatory-to-have-work-experience-to-apply-for-h1-visa/
+- 578C http://redbus2us.com/documents-needed-for-applying-for-h1b-visa-how-much-does-it-really-cost-what-should-you-not-give/
+- 159C http://redbus2us.com/h1b-minimum-wage-or-lca-prevailing-wage-for-a-position-in-an-area-in-usa/
+- 210C http://redbus2us.com/what-should-i-carry-to-us-list-of-things-to-pack-costly-usa-baggage-packing-items/
+- 746C http://redbus2us.com/ms-vs-mba-in-usa-fees-funding-how-to-decide/
+- 245C http://redbus2us.com/timelineschedule-to-apply-for-h1b-visa-petition-of-2011-quota-in-2010-when-to-do-what/
+- 123C http://redbus2us.com/new-h1b-visa-petition-filing-guidelines-and-requirements-for-2011-quota-and-new-guidelines-for-h1b-visa-extensions/
+- 298C http://redbus2us.com/how-to-apply-for-h1b-visa-petition-for-2011-quota-step-by-step-process/
+- 1234C http://redbus2us.com/h4-visa-to-h1b-visa-transfer-for-2011-impact-of-new-h1b-rules-on-h4-to-h1b-visa-conversion-2011-quota/
+- 
 
 happyschools
 ==============
