@@ -23,26 +23,32 @@ You can work until your previous I-94 date or until you recieve the hard notice 
 There are few options depending on your circumstances
 
 - Appeal the decision 
+
 Your employer can opt to appeal the decision made by USCIS. But appleaing doesn't give you any legal status to stay and work.
 Also, appeals are not gauranteed to overturn the decisions. On top of if it may take several months to get a response for the appeal. So basically not very employee friendly. 
 
 - Same Employer, refile a new petition for the same position
+
 Your employer could file a new petition in premium processing attaching any additional evidences that would support the 
 case. While doing so, they can save time by using the earlier LCA. They can also explain the previous petition denial and new evidences added to support the petition. In addition they could also request for your stay under extra ordinary circumstances.
 If USCIS accepts this it is the best out come. As USCIS would issue a new I797 with I94 and you wouldn't have to leave the country. On the other hand, USCIS might approve the petition but ask you to re-enter the US with new stamping. Inconvenience, but still a better outcome. However, this whole thing is expensive as the employer has to pay for the new application, premium processing etc. 
 
 - Same employer, different position
+
 If your employer has a different position available, then they could file a new H1b extention petition for it. 
 If it's a similiar position and location, they would be able to reuse the LCA and save some time. If it's approved, USCIS may still ask to get a new visa stamping by going out of the country. 
 
 - New employer, same position
+
 If you happen to work on a third party client project, most likely you would have many other vendors working for the client.
 As soon as you know about your denial, you can start asking if any of those vendors would be interested to hire you for the same position. It's always easier for a new employer to sponsor for a visa when you have a valid job on hand. This will involve new LCA and other processes and expenses.
 
 - New employer, different position
+
 Basically, you would just start anew with a new employer and position. It may be challenging as you would most likely have to leave the US and apply for a visa transfer and extension after you get a job. 
 
 - Change of status - become a dependent
+
 If your spouse has a valid non-dependent visa, you can apply for a change of status to become a dependent. For example, if your spouse is on H1b, then you could apply for H4. So, that atleast you have some breathing space. Though you cannot work, you will have time to rework your situation.
 
 #### What happens to my status? Should I leave the country?
