@@ -6,7 +6,7 @@ tags: H1b visa
 comments: true
 description: New H1b visa petition lottery process milestone timeline
 ---
-Every year the US allocates 80,000 (60,000 + 20,000 US Masters) new H1b visas for employers who want to bring 
+Every year the US allocates 85,000 (65,000 + 20,000 US Masters) new H1b visas for employers who want to bring 
 temporary skilled workers to the US. The visas are in so high demand that, 9 out of last 10 years the the number of 
 seekers far exceed the available visas, and USCIS used random lottery to allocate the visas. This is only for cap-limited H1b visas. There is a similar category of H1b visas available for non-profit organizations which are not subject to the cap and hence not bound to this time line. 
 
