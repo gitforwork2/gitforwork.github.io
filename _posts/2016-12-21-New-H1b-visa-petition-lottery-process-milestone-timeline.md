@@ -27,11 +27,11 @@ Gather necessary documents, File Labor Condition Approvals (LCA)
 Employer prepares and finalize the H1b petition package. Review and make sure your details are accurate
 
 #### April
--(1st week) Completed petitions are delivered to USCIS
--Almost always cap reaches at the end of the first week. Looks for USCIS announcement on cap.
--USCIS conducts computer adided random lottery to pick the petitions
--Selected petitioners start receiving notifications 
--Selected petitions processing begins (starting with premium processing petitions)
+- (1st week) Completed petitions are delivered to USCIS 
+- Almost always cap reaches at the end of the first week. Looks for USCIS announcement on cap 
+- USCIS conducts computer adided random lottery to pick the petitions 
+- Selected petitioners start receiving notifications 
+- Selected petitions processing begins (starting with premium processing petitions)
               
 #### May
 Approval notices and Request for evidence (RFE) start arriving for selected petitions
@@ -40,12 +40,12 @@ Approval notices and Request for evidence (RFE) start arriving for selected peti
 Returned not-selected petitions start arriving
 
 #### September
--(1st week) Returning of not-selected petitions completed
--Processing of selected petition is close to completion with majority of the selected petitions having a decision
+- (1st week) Returning of not-selected petitions completed
+- Processing of selected petition is close to completion with majority of the selected petitions having a decision
               
 #### October
--H1b period begins. Those in the US with approved petitions can start working on H1b
--People outside the country, prepare for Visa stamping
+- H1b period begins. Those in the US with approved petitions can start working on H1b
+- People outside the country, prepare for Visa stamping
               
               
               
