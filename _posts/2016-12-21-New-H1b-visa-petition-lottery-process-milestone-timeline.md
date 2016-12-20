@@ -17,27 +17,35 @@ Fret not, this post is a is a gentle introduction to people like you on what rea
 
 Following are the important milestones (rough timelines) to keep in mind,
 
-**January**   - Employers start preparing for the years H1b season. Details like job positions, titles, sponsorship etc are finalized. Make sure you are in the roaster
+#### January
+Employers start preparing for the years H1b season. Details like job positions, titles, sponsorship etc are finalized. Make sure you are in the roaster
 
-**February**  - Gather necessary documents, File Labor Condition Approvals (LCA)
+#### February
+Gather necessary documents, File Labor Condition Approvals (LCA)
 
-** March **     - Employer prepares and finalize the H1b petition package. Review and make sure your details are accurate
+#### March  
+Employer prepares and finalize the H1b petition package. Review and make sure your details are accurate
 
-** April **     - (1st week) Completed petitions are delivered to USCIS
-                - Almost always cap reaches at the end of the first week. Looks for USCIS announcement on cap.
-                - USCIS conducts computer adided random lottery to pick the petitions
-                - Selected petitioners start receiving notifications 
-                - Selected petitions processing begins (starting with premium processing petitions)
+#### April
+-(1st week) Completed petitions are delivered to USCIS
+-Almost always cap reaches at the end of the first week. Looks for USCIS announcement on cap.
+-USCIS conducts computer adided random lottery to pick the petitions
+-Selected petitioners start receiving notifications 
+-Selected petitions processing begins (starting with premium processing petitions)
               
-** May  **      - Approval notices and Request for evidence (RFE) start arriving for selected petitions
+#### May
+Approval notices and Request for evidence (RFE) start arriving for selected petitions
 
-** June **      - Returned not-selected petitions start arriving
+#### June 
+Returned not-selected petitions start arriving
 
-** September**  - (1st week) Returning of not-selected petitions completed
-                - Processing of selected petition is close to completion with majority of the selected petitions having a decision
+#### September
+-(1st week) Returning of not-selected petitions completed
+-Processing of selected petition is close to completion with majority of the selected petitions having a decision
               
-** October ** - H1b period begins. Those in the US with approved petitions can start working on H1b
-              - People outside the country, prepare for Visa stamping
+#### October
+-H1b period begins. Those in the US with approved petitions can start working on H1b
+-People outside the country, prepare for Visa stamping
               
               
               
