@@ -17,9 +17,9 @@ Fret not, this post is a is a gentle introduction to people like you on what rea
 
 Following are the important milestones (rough timelines) to keep in mind,
 
-** January **   - Employers start preparing for the years H1b season. Details like job positions, titles, sponsorship etc are finalized. Make sure you are in the roaster
+**January**   - Employers start preparing for the years H1b season. Details like job positions, titles, sponsorship etc are finalized. Make sure you are in the roaster
 
-** February **  - Gather necessary documents, File Labor Condition Approvals (LCA)
+**February**  - Gather necessary documents, File Labor Condition Approvals (LCA)
 
 ** March **     - Employer prepares and finalize the H1b petition package. Review and make sure your details are accurate
 
