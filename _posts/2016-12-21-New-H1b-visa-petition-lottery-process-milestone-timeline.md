@@ -18,13 +18,13 @@ Fret not, this post is a is a gentle introduction to people like you on what rea
 Following are the important milestones (rough timelines) to keep in mind,
 
 #### January
-Employers start preparing for the years H1b season. Details like job positions, titles, sponsorship etc are finalized. Make sure you are in the roaster
+- Employers start preparing for the years H1b season. Details like job positions, titles, sponsorship etc are finalized. Make sure you are in the roaster
 
 #### February
-Gather necessary documents, File Labor Condition Approvals (LCA)
+- Gather necessary documents, File Labor Condition Approvals (LCA)
 
 #### March  
-Employer prepares and finalize the H1b petition package. Review and make sure your details are accurate
+- Employer prepares and finalize the H1b petition package. Review and make sure your details are accurate
 
 #### April
 - (1st week) Completed petitions are delivered to USCIS 
@@ -34,10 +34,10 @@ Employer prepares and finalize the H1b petition package. Review and make sure yo
 - Selected petitions processing begins (starting with premium processing petitions)
               
 #### May
-Approval notices and Request for evidence (RFE) start arriving for selected petitions
+- Approval notices and Request for evidence (RFE) start arriving for selected petitions
 
 #### June 
-Returned not-selected petitions start arriving
+- Returned not-selected petitions start arriving
 
 #### September
 - (1st week) Returning of not-selected petitions completed
@@ -45,8 +45,5 @@ Returned not-selected petitions start arriving
               
 #### October
 - H1b period begins. Those in the US with approved petitions can start working on H1b
-- People outside the country, prepare for Visa stamping
-              
-              
-              
-
+- People outside the country, prepare for Visa stamping  
+                    
