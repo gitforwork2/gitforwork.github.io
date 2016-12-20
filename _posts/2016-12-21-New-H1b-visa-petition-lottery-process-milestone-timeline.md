@@ -8,12 +8,9 @@ description: New H1b visa petition lottery process milestone timeline
 ---
 Every year the US allocates 80,000 (60,000 + 20,000 US Masters) new H1b visas for employers who want to bring 
 temporary skilled workers to the US. The visas are in so high demand that, 9 out of last 10 years the the number of 
-seekers far exceed the available visas, and USCIS used random lottery to allocate the visas. This is only for cap-limited H1b visas.
-There is a similiar category of H1b visas available for non-profit organizations which are not subject to the cap and hence not bound 
-to this time line. 
+seekers far exceed the available visas, and USCIS used random lottery to allocate the visas. This is only for cap-limited H1b visas. There is a similar category of H1b visas available for non-profit organizations which are not subject to the cap and hence not bound to this time line. 
 
-If your employer is planning to file a cap-subjected H1b petition on your behalf and you are new to this whole process, it may be an intimidating process. 
-Fret not, this post is a is a gentle introduction to people like you on what really to expect. 
+If your employer is planning to file a cap-subjected H1b petition on your behalf and you are new to this whole process, it may be an intimidating process. Fret not, this post is a is a gentle introduction to people like you on what really to expect. 
 
 Following are the important milestones (rough timelines) to keep in mind,
 
@@ -29,7 +26,7 @@ Following are the important milestones (rough timelines) to keep in mind,
 #### April
 - (1st week) Completed petitions are delivered to USCIS 
 - Almost always cap reaches at the end of the first week. Looks for USCIS announcement on cap 
-- USCIS conducts computer adided random lottery to pick the petitions 
+- USCIS conducts computer aided random lottery to pick the petitions 
 - Selected petitioners start receiving notifications 
 - Selected petitions processing begins (starting with premium processing petitions)
               
