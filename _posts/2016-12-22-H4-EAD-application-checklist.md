@@ -9,7 +9,7 @@ description: H4 EAD application checklist
 USCIS has allowed certain H4 dependents employment authorization cards (EAD) to start their work. It's a fairly straight forward
 process. Here is the checklist of documents required as anyone is preparing for applying their H4 EAD
 
-##### Documents from H4b visa holder
+##### Documents from H4 visa holder
 
 - A payment for $380 (check USCIS site for latest fee) either money order or check (personal checks are ok) payable to U.S. Department of Homeland Security
 
@@ -23,7 +23,7 @@ process. Here is the checklist of documents required as anyone is preparing for 
 
 - Marriage certificate
 
-##### Documents from primary H1b visa holder
+##### Documents from primary H1 visa holder
 
 - Approved I-140 copy
 
