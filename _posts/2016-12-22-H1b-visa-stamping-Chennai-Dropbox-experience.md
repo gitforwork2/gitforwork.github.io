@@ -20,7 +20,7 @@ Here are the steps,
 
 - Copy of I797, DS160 confirmation page, 1 photograph each was asked
 
-- My drop box confirmation letter was stamped and returned back to me
+- Everything was verfied and finally my drop box confirmation letter was stamped and returned back to me
 
 - I was told I will get our passports back in a week
 
