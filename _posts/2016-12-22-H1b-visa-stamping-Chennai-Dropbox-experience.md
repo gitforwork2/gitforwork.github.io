@@ -16,7 +16,7 @@ Here are the steps,
 
 - Security let me in directly without the queue. However, mobile phone was not allowed inside
 
-- Person at the counter were professional. They only asked for Passports (mine and spouse) including expired ones
+- Person at the counter were professional. They asked for Passports (mine and spouse) including expired ones
 
 - Copy of I797, DS160 confirmation page, 1 photograph each was asked
 
@@ -26,8 +26,7 @@ Here are the steps,
 
 - Online status changed to "issued" in a week
 
-- I collected the passports a week later from Blue Dart facility. Needed to show the original photo id of both myself and my spouse. 
-Also, carried the stamped confirmation page
+- I collected the passports a week later from Blue Dart facility. Needed to show the original photo id of both myself and my spouse. Also, carried the stamped confirmation page
 
 
 The whole process was less stressful than actual visa stamping experiences. Hopefully, this process is continued for long time.
