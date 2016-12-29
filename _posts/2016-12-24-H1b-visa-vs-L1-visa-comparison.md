@@ -1,21 +1,19 @@
 ---
 layout: post
-title: H1b vs-L1-visa-comparison.md
+title: H1b vs L1 visa comparison
 date: 2016-12-24
 tags: H1b L1
 comments: true
-description: Comparison of H1b and L1 visa
+description: Comparison of H1b and L1 visa programs
 ---
-Both H1b visa and L1 visa programs are to bring certain skilled temporary workers to the US, though H1b is arguably the popular one in the 
-media. L1 visa may be less popular in the media, but it is definitely popular with the employers. 
-Consider the fact that dependents of a L1 visa can also work from day one. If you make a reasonable assumtion that 1 in 4 L1 
-dependents (L2 visas) enter work force, I would argue L1 visa program enables more immigrants to work in the US  workers than the H1b visa i .
+Both H1b visa and L1 visa programs are to bring certain skilled temporary workers to the US, though H1b is arguably the popular one in the media. L1 visa may be less popular in the media, but it is definitely popular with the employers. Consider the fact that dependents of a L1 visa can also work from day one. If you make a reasonable assumtion that 1 in 4 L1 dependents (L2 visas) enter work force, I would argue that every year, L1 visa program enables more immigrants to work in the US than the H1b visa.
+Here is the plot of L1 vs H1b over the years,
 
+![L1 vs H1b](/assets/images/posts/L1-vs-H1-Years.png)
 
-The above graph plots the data released by USCIS. It assumes 1 in 4 dependents work;combined with the L1 primary visa holder
-it outnumbers even the H1b program in 5 out of the last 7 years. Who would of thought about that?
+The graph is plotted using publicly released USCIS date. Note that, it assumes 1 in 4 dependents work. Combined that with the L1 primary visa holder it outnumbers even the H1b program in 5 out of the last 7 years.
 
-Anyways, moving on to the actual differences,
+Anyways, moving on to the actual differences between the two programs,
 
 attribute  | H1b    | L1
 -------------  ------     ------
