@@ -15,12 +15,12 @@ The graph is plotted using publicly released USCIS date. Note that, it assumes 1
 
 Anyways, moving on to the actual differences between the two programs,
 
-attribute  | H1b    | L1
--------------  ------     ------
+Attribute  | H1b    | L1
+----------  ------   ------
 Yearly Cap | 85000 |No cap
-Minimum wage|Must pay at least the minimum prevailing wage in the market|No minimum
 Duration| 6 years | 5-7 Years
-Education| US bachelors or equivalent matching the area of work|No minimum education required, as long as the worker has certain special skill
+Minimum wage|Must pay at least the minimum prevailing wage in the market|No minimum
+Education| US bachelors or equivalent matching the area of work|No minimum education required, as long as the worker has certain special skills
 Dependents work permit | Not allowed | Spouses are allowed to work from day one
 Blanket petition|Not allowed. Each worker's petition must be individually approved | Companies can get certain number of petitions approved as a blanket and flexible to bring any temporary worker as needed using the blanket category. No need to apply to USCIS for each individual case, saving processing times
 Permanent residency| Employers must conduct a labor market test to hire a US citizen and then the worker has to wait his turn in the queue according to his/her country of birth | L1A workers can apply in Eb1C category, which requires 
