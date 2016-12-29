@@ -16,7 +16,7 @@ The graph is plotted using publicly released USCIS date. Note that, it assumes 1
 Anyways, moving on to the actual differences between the two programs,
 
 Attribute  | H1b    | L1
-----------  ------   ------
+---------- | ------ | ------
 Yearly Cap | 85000 |No cap
 Duration| 6 years | 5-7 Years
 Minimum wage|Must pay at least the minimum prevailing wage in the market|No minimum
