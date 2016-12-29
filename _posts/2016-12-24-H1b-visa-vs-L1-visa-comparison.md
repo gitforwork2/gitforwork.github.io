@@ -11,7 +11,7 @@ Here is the plot of L1 vs H1b over the years,
 
 ![L1 vs H1b](/assets/images/posts/L1-vs-H1-Years.png)
 
-The graph is plotted using publicly released USCIS date. Note that, it assumes 1 in 4 dependents work. Combined that with the L1 primary visa holder it outnumbers even the H1b program in 5 out of the last 7 years.
+The graph is plotted using publicly released USCIS date. Note that, it assumes 1 in 4 dependents work. Combined that with the L1 primary visa holder it outnumbers even the H1b program in 5 out of the last 7 years (except 2009 and 2012). The red straight line is the number of H1b visas issues each year, which is regulated by 85,000 annual cap. Since, each year the cap is reached, it's a straight line.
 
 Anyways, moving on to the actual differences between the two programs,
 
