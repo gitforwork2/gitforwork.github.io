@@ -4,7 +4,7 @@ title: About
 ---
 This site is created to help the larger immigrant community by curating individual immigrant experiences!
 
-This site is created by me Pattam. Few years ago I came to USA as an international student. Currently, I am working in the Software industry. This blog is to document my experiences accumulated through my journey so far! 
+This site is created by me, Pattam Onnu. Few years ago I came to USA as an international student. Currently, I am working in the Software industry. This blog is to document my experiences accumulated through my journey so far! 
 Broadly, I would be writing about the following topics from an immigrant perspective,
 * Visa (H2b, L1, F1 etc) 
 * Green card
