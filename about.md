@@ -10,7 +10,7 @@ This site is created by me, Pattam Onnu. Few years ago I came to USA as an inter
  * Visa (H1b, L1, F1 etc) 
  * Green card (Employment based)
  * Career (mostly in the Software Industry) 
- * Job search 
+ * Job search  
  * Finance, Money, Frugality 
 
  If you have a story to share, I am happy to hear!.  
