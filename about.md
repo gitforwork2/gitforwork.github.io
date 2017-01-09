@@ -6,15 +6,16 @@ This site is created to help the larger immigrant community by curating individu
 
 This site is created by me, Pattam Onnu. Few years ago I came to USA as an international student. Currently, I am working in the Software industry. This blog is to document my experiences accumulated through my journey so far! 
 Broadly, I would be writing about the following topics from an immigrant perspective, 
-* Visa (H2b, L1, F1 etc) 
-* Green card 
-* Carrier (mostly in the Software Industry) 
-* Job search 
-* Finance, Money, Frugality 
 
-If you have a story to share, I am happy to hear!.  
-Drop an email -> pattam [dot] onnu [at] frontsimple.com 
-Also, check our legal disclaimer page.
+ * Visa (H2b, L1, F1 etc) 
+ * Green card 
+ * Carrier (mostly in the Software Industry) 
+ * Job search 
+ * Finance, Money, Frugality 
+
+ If you have a story to share, I am happy to hear!.  
+ Drop an email -> pattam [dot] onnu [at] frontsimple.com 
+ Also, check our legal disclaimer page.
 
 <br/>
 {% comment %}
