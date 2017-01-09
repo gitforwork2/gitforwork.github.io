@@ -12,7 +12,8 @@ Broadly, I would be writing about the following topics from an immigrant perspec
 * Job search
 * Finance, Money, Frugality 
 
-If you have a story to share, I am happy to hear. Drop an email -> pattam [dot] onnu [at] frontsimple.com
+If you have a story to share, I am happy to hear!.  
+Drop an email -> pattam [dot] onnu [at] frontsimple.com 
 Also, check our legal disclaimer page.
 
 <br/>
