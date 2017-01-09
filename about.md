@@ -11,7 +11,7 @@ This site is created by me, Pattam Onnu. Few years ago I came to USA as an inter
  * Green card (Employment based)
  * Career (mostly in the Software Industry) 
  * Job search  
- * Finance, Money, Frugality 
+ * Personal Finance, Frugality 
 
  If you have a story to share, I am happy to hear!.  
  Drop an email -> pattam [dot] onnu [at] frontsimple.com 
