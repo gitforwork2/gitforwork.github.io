@@ -9,7 +9,7 @@ description: Comparison of H1b and L1 visa programs
 Both H1b visa and L1 visa programs are to bring certain skilled temporary workers to the US, though H1b is arguably the popular one in the media. L1 visa may be less popular in the media, but it is definitely popular with the employers. Consider the fact that dependents of a L1 visa can also work from day one. If you make a reasonable assumtion that 1 in 4 L1 dependents (L2 visas) enter work force, I would argue that every year, L1 visa program enables more immigrants to work in the US than the H1b visa.
 Here is the plot of L1 vs H1b over the years,
 
-![L1 vs H1b](/assets/images/posts/L1-vs-H1-Years-v1.1.png)
+![L1 vs H1b](/assets/images/posts/L1-vs-H1-Years-v1.2.png)
 
 The graph is plotted using publicly released [USCIS data](https://travel.state.gov/content/dam/visas/Statistics/AnnualReports/FY2015AnnualReport/FY15AnnualReport-TableXVIB.pdf). Note that, it assumes 1 in 4 dependents work. Combined that with the L1 primary visa holder it outnumbers even the H1b program in 5 out of the last 7 years (except 2009 and 2012). The red straight line is the number of H1b visas issues each year, which is regulated by 85,000 annual cap. Since, each year the cap is reached, it's a straight line.
 
