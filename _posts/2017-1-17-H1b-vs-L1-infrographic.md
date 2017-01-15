@@ -1,6 +1,6 @@
 ---
 layout: page
-title: H1b vs L1 visa
+title: 
 date: 2017-01-17
 tags: H1b L1
 comments: true
