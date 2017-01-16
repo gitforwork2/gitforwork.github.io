@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: H1b vs L1 visa
 date: 2017-01-17
 tags: H1b L1
