@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: Contact
 ---
-### Contact
 For guest post, feedback and other enquiries, drop an email
  pattam.onnu[at]frontsimple.com
 
