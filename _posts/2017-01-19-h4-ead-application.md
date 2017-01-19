@@ -95,6 +95,8 @@ For overnight/courier deliveries (non-USPS):
 > Phoenix, AZ 85034  
 
 ## H4 EAD approval times
+Approval times vary depending on the work load received by USCIS. 
+
 ## H4 EAD status
 ## H4 EAD FAQ
 
