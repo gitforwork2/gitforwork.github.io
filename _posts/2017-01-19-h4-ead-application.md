@@ -74,10 +74,14 @@ Dallas, TX 75266
 For overnight/courier deliveries (non-USPS):
 
 > USCIS 
+
 > Attn: H4 
+
 > 2501 S. State Hwy. 121 Business 
-Suite 400 
-Lewisville, TX 75067 
+
+> Suite 400 
+
+> Lewisville, TX 75067 
 
 
 If the receipt number begins with **WAC**, then you would apply to USCIS Phoenix  lockbox.
