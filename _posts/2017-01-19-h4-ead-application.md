@@ -10,7 +10,7 @@ If you are looking for H4 EAD application process, you have come to the right pl
 = image goes here = 
 
 #### Table of Contents
- - [H4 EAD Eligibility](/)
+ - [H4 EAD Eligibility](#h4-ead-eligibility)
  - [H4 EAD Application fee](/)
  - [H4 EAD Application && Documents checklist](/)
  - [H4 EAD filing address](/)
@@ -19,7 +19,7 @@ If you are looking for H4 EAD application process, you have come to the right pl
  - [H4 EAD FAQ](/)
 
 == use this as an internal link anchor text sample i-765 for h4 ead ==
-### H4 EAD Eligibility
+## H4 EAD Eligibility
 ### H4 EAD Application fee
 ### H4 EAD Application && Documents checklist
 ### H4 EAD filing address
