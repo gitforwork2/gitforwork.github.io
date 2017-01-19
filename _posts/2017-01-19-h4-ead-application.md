@@ -78,7 +78,7 @@ For overnight/courier deliveries (non-USPS):
 > Lewisville, TX 75067  
 
 
-If the receipt number begins with **WAC**, then you would apply to USCIS Phoenix  lockbox.
+If the receipt number begins with **WAC**, then you would apply to USCIS Phoenix  lockbox.  
 For U.S. Postal Service (USPS) First-Class and Priority Mail Express deliveries:
 
 > USCIS  
