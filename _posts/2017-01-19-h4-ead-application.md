@@ -24,20 +24,18 @@ Heads up, keep your immigration documents, checkbooks ready. You may also have t
 
 Principal H1b nonimmigrant should be a primary beneficiary of an approved Form I-140 Immigration petition. H4 dependent spouses of such individuals are eligible to apply for EAD. 
 
-Also note that spouses in other visas like F1/H1b can apply for change of status (COS) to H4 and EAD concurrently.
+Also note that spouses in other visas like F1/H1b can apply for H4 change of status (COS) and EAD concurrently.
 
 ## H4 EAD Application fee
-$410 as of January 2017. Check the latest filing fee https://www.uscis.gov/forms/our-fees
+$410 as of January 2017. Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
 Make a cashier's check or personal check payable to "US Department of Homeland Security". No online payments are available at this point
 
 ## H4 EAD Documents checklist
 
 ##### Documents from H4 visa holder
 
-1. [ ] 1. Check for $410, payable to "US Department of Homeland Security" 
-2. [ ] 2. Completed form I-765 
-          - Question 9:  Fill your SSN, if you don't have it fill "N/A"
-          - Question 16: Enter (c)(26) for question 16
+1.  [ ] 1. Check for $410, payable to "US Department of Homeland Security" 
+2.  [ ] 2. Completed form I-765           
 3.  [ ] 3.  A copy of passport including H4 visa stamped page
 4.  [ ] 4.  H4 I-94 issued at port of entry ([lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search))
 5.  [ ] 5.  *Copy* of H4 approval (I-797)
