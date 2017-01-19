@@ -38,9 +38,8 @@ Make a cashier's check or personal check payable to "US Department of Homeland S
 - [ ] 7. Two identical 2x2-inch color passport-style photo
 - [ ] 2. Completed [Form I-765](http://www.uscis.gov/i-765)           
 - [ ] 3. A copy of passport including H4 visa stamped page
-- [ ] 4. *Copy* of I-94 
-        * sdgsdfg
-        * the one obtained during H-4 extension
+- [ ] 4. *Copy* of I-94
+    - the one obtained during H-4 extension
 - [ ] 5. *Copy* of H4 approval (I-797)
 - [ ] 6. *Copy* of Marriage certificate
 
