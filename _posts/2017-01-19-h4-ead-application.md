@@ -4,27 +4,28 @@ title: H4 EAD application process and documents - Complete guide
 date: 2017-01-19
 tags: H4 EAD
 comments: true
-description: H4 Visa EAD application process and documents. EAD for H4
+description: H4 Visa EAD documents and application. EAD for H4 - Complete guide
 ---
 If you are looking for H4 EAD application process, you have come to the right place.
 = image goes here = 
 
 #### Table of Contents
  - [H4 EAD Eligibility](#h4-ead-eligibility)
- - [H4 EAD Application fee](/)
- - [H4 EAD Application && Documents checklist](/)
- - [H4 EAD filing address](/)
- - [H4 EAD approval times](/)
- - [H4 EAD status](/)
- - [H4 EAD FAQ](/)
+ - [H4 EAD Application fee](#h4-ead-application-fee)
+ - [H4 EAD Documents checklist](#h4-ead-documents-checklist)
+ - [H4 EAD filing address](#h4-ead-filing-address)
+ - [H4 EAD approval times](#h4-ead-approval-times)
+ - [H4 EAD status](#h4-ead-status)
+ - [H4 EAD FAQ](#h4-ead-faq)
 
 == use this as an internal link anchor text sample i-765 for h4 ead ==
 ## H4 EAD Eligibility
-### H4 EAD Application fee
-### H4 EAD Application && Documents checklist
-### H4 EAD filing address
-### H4 EAD approval times
-### H4 EAD status
+## H4 EAD Application fee
+## H4 EAD Documents checklist
+## H4 EAD filing address
+## H4 EAD approval times
+## H4 EAD status
+## H4 EAD FAQ
 
 
 USCIS has allowed certain H4 dependents employment authorization cards (EAD) to start their work. It's a fairly straight forward
