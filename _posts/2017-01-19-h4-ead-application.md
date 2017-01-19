@@ -35,18 +35,18 @@ Make a cashier's check or personal check payable to "US Department of Homeland S
 ##### Documents from H4 visa holder
 
 - [ ] 1. Check for $410, payable to "US Department of Homeland Security" 
-- [ ] 5. Proof of H4 status (any one of the following)
+- [ ] 7. Two identical 2x2-inch color passport-style photo
+- [ ] 5. Proof of H4 status 
     - A copy of I-94, [obtained at the port of entry](https://i94.cbp.dhs.gov/I94/#/recent-search) as H4 nonimmigrant
     - A copy of approved Form I-797 for H4 visa
-- [ ] 7. Two identical 2x2-inch color passport-style photo
-- [ ] 2. Completed [Form I-765](http://www.uscis.gov/i-765)           
-- [ ] 3. Passport A copy of passport including H4 visa stamped page
-- [ ] 4. *Copy* of I-94
-    - Either 
-    - The one obtained during H-4 extension
-
-- [ ] 6. *Copy* of Marriage certificate
-
+- [ ] 5. Identification document with photo 
+    - A copy of recent EAD (If available)
+    - A copy of passport with biometric information (example: first and last page) and the visa page (if present)
+    - A copy of birth certificate with photo ID
+    - A copy of national photo ID
+- [ ] 6. A copy of marriage certificate 
+- [ ] 2. Completed [Form I-765](http://www.uscis.gov/i-765) 
+    - Write (c)(26) for eligibility critieria
 
 ##### Documents from primary H1 visa holder     
 
