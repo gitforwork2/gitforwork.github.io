@@ -34,8 +34,8 @@ Make a cashier's check or personal check payable to "US Department of Homeland S
 
 ##### Documents from H4 visa holder
 
-1.   [ ] Check for $410, payable to "US Department of Homeland Security" 
-2.   Completed form I-765 
+1. [] Check for $410, payable to "US Department of Homeland Security" 
+2. [] Completed form I-765 
        - Question 9:  Fill your SSN, if you don't have it fill "N/A"
        - Question 16: Enter (c)(26) for question 16
 3.  [ ] A copy of passport including H4 visa stamped page
