@@ -50,12 +50,16 @@ Make a cashier's check or personal check payable to "US Department of Homeland S
 
 ##### Documents from primary H1 visa holder     
 
-- [ ] 7.  *Copy* of Approved I-140 (Request from your Employer)
+- [ ] 7. A Copy of an approved I-140 (Request from your Employer)
 - [ ] 8.  *Copy* of Approved H1B ( I-797 )
 - [ ] 9.  *Copy* of recent I-94
 - [ ] 10. *Copy* of passport (first and last page)
 - [ ] 11. *Copy* of last 3 paystubs      
 - [ ] 12. Employment verification letter from Employer
+
+##### E-notification
+
+
 
 == use this as an internal link anchor text sample i-765 for h4 ead ==
 ## H4 EAD filing address
