@@ -31,6 +31,9 @@ $410 as of January 2017. Check the latest [USCIS filing fees](https://www.uscis.
 Make a cashier's check or personal check payable to "US Department of Homeland Security". No online payments are available at this point
 
 ## H4 EAD Documents checklist
+You would have to fill the [form I-765](http://www.uscis.gov/i-765) for requesting EAD. Make sure all the information are clear and correct. Importantly, the applicant should sign the form. It's a good idea to keep a copy of the completed form for own records. 
+
+USCIS also offers a service to notify you electronically (email, text), when your form I-765 is accepted at their facility. This is an optional service. But if you want to use it then you would have to include the completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf). 
 
 ##### Documents from H4 visa holder
 
@@ -50,18 +53,11 @@ Make a cashier's check or personal check payable to "US Department of Homeland S
 
 ##### Documents from primary H1 visa holder     
 
-- [ ] 7. A Copy of an approved I-140 (Request from your Employer)
-- [ ] 8.  *Copy* of Approved H1B ( I-797 )
-- [ ] 9.  *Copy* of recent I-94
-- [ ] 10. *Copy* of passport (first and last page)
-- [ ] 11. *Copy* of last 3 paystubs      
-- [ ] 12. Employment verification letter from Employer
+- [ ] 7. A Copy of form I-797 approval notice for form I-140 (Request from your Employer or file a FOIA)
 
-##### E-notification
+##### E-notification (optional)
+- [ ] 7. Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
 
-
-
-== use this as an internal link anchor text sample i-765 for h4 ead ==
 ## H4 EAD filing address
 ## H4 EAD approval times
 ## H4 EAD status
