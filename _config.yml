@@ -11,7 +11,7 @@ permalink:        /posts/:title/
 title:            FrontSimple
 tagline:          ""
 description:      'Personal blog'
-url:              http://frontsimple.com/
+url:              https://frontsimple.com/
 baseurl:          '/'
 paginate:         3
 excerpt_separator: "<br>"
@@ -23,7 +23,7 @@ gems:
 
 author:
   name:           'FrontSimple'
-  url:            http://frontsimple.com/
+  url:            https://frontsimple.com/
 
 # Custom vars
 version:          1.0
