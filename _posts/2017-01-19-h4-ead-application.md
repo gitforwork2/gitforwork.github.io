@@ -31,14 +31,22 @@ $410 as of January 2017. Check the latest filing fee https://www.uscis.gov/forms
 Make a cashier's check or personal check payable to "US Department of Homeland Security". No online payments are available at this point
 
 ## H4 EAD Documents checklist
-
-1. [ ] Check for $410, payable to "US Department of Homeland Security"
-2. [ ] Completed form I-765
+##### Documents from H4 visa holder
+1.  [ ] Check for $410, payable to "US Department of Homeland Security"
+2.  [ ] Completed form I-765
        - Question 9:  Fill your SSN, if you don't have it fill "N/A"
        - Question 16: Enter (c)(26) for question 16
-3. [ ] 
-      
-      
+3.  [ ] A copy of passport including H4 visa stamped page
+4.  [ ] H4 I-94 issued at port of entry ([lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search))
+5.  [ ] *Copy* of H4 approval (I-797)
+6.  [ ] *Copy* of Marriage certificate
+##### Documents from primary H1 visa holder     
+7.  [ ] *Copy* of Approved I-140 (Request from your Employer)
+8.  [ ] *Copy* of Approved H1B ( I-797 )
+9.  [ ] *Copy* of recent I-94
+10. [ ] *Copy* of passport (first and last page)
+11. [ ] *Copy* of last 3 paystubs      
+12. [ ] Employment verification letter from Employer
 
 == use this as an internal link anchor text sample i-765 for h4 ead ==
 ## H4 EAD filing address
@@ -46,34 +54,3 @@ Make a cashier's check or personal check payable to "US Department of Homeland S
 ## H4 EAD status
 ## H4 EAD FAQ
 
-
-USCIS has allowed certain H4 dependents employment authorization cards (EAD) to start their work. It's a fairly straight forward
-process. Here is the checklist of documents required as anyone is preparing for applying their H4 EAD
-
-##### Documents from H4 visa holder
-
-- A payment for $380 (check USCIS site for latest fee) either money order or check (personal checks are ok) payable to U.S. Department of Homeland Security
-
-- Completed and signed I-765 Form
-
-- A copy of passport including H4 visa stamped page
-
-- H4 I-94 issued at port of entry ([lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search))
-
-- A copy of H4 approval (I-797) including I-94 in it
-
-- Marriage certificate
-
-##### Documents from primary H1 visa holder
-
-- Approved I-140 copy
-
-- A copy of H1B petition ( I-797 )
-
-- A copy of I-94
-
-- A copy of passport (first and last page)
-
-- Last 2 paystubs of H1b
-
-- Employment verification letter from Employer
