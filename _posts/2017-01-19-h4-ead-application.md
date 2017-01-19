@@ -32,15 +32,17 @@ Make a cashier's check or personal check payable to "US Department of Homeland S
 
 ## H4 EAD Documents checklist
 ##### Documents from H4 visa holder
-1.  [ ] Check for $410, payable to "US Department of Homeland Security"
-2.  [ ] Completed form I-765
+[ ] 1. Check for $410, payable to "US Department of Homeland Security"
+[ ] 2. Completed form I-765
        - Question 9:  Fill your SSN, if you don't have it fill "N/A"
        - Question 16: Enter (c)(26) for question 16
 3.  [ ] A copy of passport including H4 visa stamped page
 4.  [ ] H4 I-94 issued at port of entry ([lookup on DHS site](https://i94.cbp.dhs.gov/I94/#/recent-search))
 5.  [ ] *Copy* of H4 approval (I-797)
 6.  [ ] *Copy* of Marriage certificate
+
 ##### Documents from primary H1 visa holder     
+
 7.  [ ] *Copy* of Approved I-140 (Request from your Employer)
 8.  [ ] *Copy* of Approved H1B ( I-797 )
 9.  [ ] *Copy* of recent I-94
