@@ -59,6 +59,47 @@ USCIS also offers a service to notify you electronically (email, text), when you
 - [ ] 7. Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
 
 ## H4 EAD filing address
+Physical filing address varies according to the H1b principal's I-797 approval notice. Also, the address given here are only for making a stand alone EAD card. If your making an EAD application in addition to a primary purpose like H4 extension or chage of status then you would send everything to the appropriate address for the primary application. 
+
+If the receipt number begins with **EAC** or **LIN**, then you would apply to USCIS Dallas lockbox.
+For U.S. Postal Service (USPS) First-Class and Priority Mail Express deliveries:
+
+*
+USCIS
+Attn: H4
+P.O. Box 660921
+Dallas, TX 75266
+*
+
+For overnight/courier deliveries (non-USPS):
+*
+USCIS
+Attn: H4
+2501 S. State Hwy. 121 Business
+Suite 400
+Lewisville, TX 75067
+*
+
+If the receipt number begins with **WAC**, then you would apply to USCIS Phoenix  lockbox.
+For U.S. Postal Service (USPS) First-Class and Priority Mail Express deliveries:
+
+*
+USCIS
+Attn: H4
+P.O. Box 20400
+Phoenix, AZ 85036
+*
+
+For overnight/courier deliveries (non-USPS):
+
+*
+USCIS
+Attn: H4
+1820 E. Skyharbor Circle S
+Suite 100
+Phoenix, AZ 85034
+*
+
 ## H4 EAD approval times
 ## H4 EAD status
 ## H4 EAD FAQ
