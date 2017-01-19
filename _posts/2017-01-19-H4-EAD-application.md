@@ -1,11 +1,22 @@
 ---
 layout: post
-title: Complete guide to H4 EAD application process and documents required
+title: Complete guide to H4 EAD application process and documents
 date: 2017-01-19
 tags: H4 EAD
 comments: true
 description: H4 Visa EAD application process and documents. EAD for H4
 ---
+overview
+eligibility
+application
+process
+fee
+filing address
+approval time
+status
+sample i-765 for h4 ead
+faq
+
 USCIS has allowed certain H4 dependents employment authorization cards (EAD) to start their work. It's a fairly straight forward
 process. Here is the checklist of documents required as anyone is preparing for applying their H4 EAD
 
