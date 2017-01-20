@@ -14,10 +14,12 @@ Heads up, keep your immigration documents, checkbooks ready. You may also have t
 With that, let's proceed to the actual steps,
 
 #### Table of Contents
- - [H4 EAD Eligibility](#h4-ead-eligibility)
- - [H4 EAD Application fee](#h4-ead-application-fee)
- - [H4 EAD Documents checklist](#h4-ead-documents-checklist)
- - [H4 EAD filing address](#h4-ead-filing-address)
+ - [H4 EAD eligibility](#h4-ead-eligibility)
+ - [H4 EAD premium processing](#h4-ead-premium-processing)
+ - [H4 EAD application fee](#h4-ead-application-fee)
+ - [H4 EAD form I-765](#h4-ead-form-I-765)
+ - [H4 EAD documents checklist](#h4-ead-documents-checklist)
+ - [H4 EAD ailing address](#h4-ead-filing-address)
  - [H4 EAD approval times](#h4-ead-approval-times)
  - [H4 EAD status](#h4-ead-status)
 
@@ -34,11 +36,12 @@ H4 EAD application doesn't have premium processing on it's own. But, if your pri
 $410 as of January 2017. Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
 Make a cashier's check or personal check payable to "US Department of Homeland Security". No online payments are available at this point
 
-## H4 EAD Documents checklist
+## H4 EAD Form I-765
 You would have to fill the [form I-765](http://www.uscis.gov/i-765) for requesting EAD. Make sure all the information are clear and correct. Importantly, the applicant should sign the form. It's a good idea to keep a copy of the completed form for own records. 
 
-USCIS also offers a service to notify you electronically (email, text), when your form I-765 is accepted at their facility. This is an optional service. But if you want to use it then you would have to include the completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf). 
+USCIS also offers a service to notify you electronically (email, text), when your form I-765 is accepted at their facility. This is an optional service. But if you want to use it then you would have to include the completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf).
 
+## H4 EAD Documents checklist
 ##### Documents from H4 visa holder
 
 - [ ] 1. Check for $410, payable to "US Department of Homeland Security" 
