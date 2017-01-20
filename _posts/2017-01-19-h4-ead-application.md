@@ -36,7 +36,7 @@ H4 EAD application doesn't have premium processing on it's own. But, if your pri
 $410 as of January 2017. Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
 Make a cashier's check or personal check payable to "US Department of Homeland Security". No online payments are available at this point
 
-## H4 EAD Form I-765
+## H4 EAD form I-765
 You would have to fill the [form I-765](http://www.uscis.gov/i-765) for requesting EAD. Make sure all the information are clear and correct. Importantly, the applicant should sign the form. It's a good idea to keep a copy of the completed form for own records. 
 
 USCIS also offers a service to notify you electronically (email, text), when your form I-765 is accepted at their facility. This is an optional service. But if you want to use it then you would have to include the completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf).
