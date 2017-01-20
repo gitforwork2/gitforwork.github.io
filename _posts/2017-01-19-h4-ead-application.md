@@ -17,7 +17,7 @@ With that, let's proceed to the actual steps,
  - [H4 EAD eligibility](#h4-ead-eligibility)
  - [H4 EAD premium processing](#h4-ead-premium-processing)
  - [H4 EAD application fee](#h4-ead-application-fee)
- - [H4 EAD form I-765](#h4-ead-form-I-765)
+ - [H4 EAD form I-765](#h4-ead-form-i-765)
  - [H4 EAD documents checklist](#h4-ead-documents-checklist)
  - [H4 EAD ailing address](#h4-ead-filing-address)
  - [H4 EAD approval times](#h4-ead-approval-times)
