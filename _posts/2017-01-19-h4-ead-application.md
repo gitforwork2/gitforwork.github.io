@@ -18,7 +18,6 @@ Heads up, keep your immigration documents, checkbooks ready. You may also have t
  - [H4 EAD filing address](#h4-ead-filing-address)
  - [H4 EAD approval times](#h4-ead-approval-times)
  - [H4 EAD status](#h4-ead-status)
- - [H4 EAD FAQ](#h4-ead-faq)
 
 ## H4 EAD Eligibility
 
