@@ -37,17 +37,17 @@ USCIS also offers a service to notify you electronically (email, text), when you
 ##### Documents from H4 visa holder
 
 - [ ] 1. Check for $410, payable to "US Department of Homeland Security" 
-- [ ] 7. Two identical 2x2-inch color passport-style photo
-- [ ] 5. Proof of H4 status 
+- [ ] 2. Two identical 2x2-inch color passport-style photo
+- [ ] 3. Proof of H4 status 
     - A copy of I-94, [obtained at the port of entry](https://i94.cbp.dhs.gov/I94/#/recent-search) as H4 nonimmigrant
     - A copy of approved Form I-797 for H4 visa
-- [ ] 5. Identification document with photo 
+- [ ] 4. Identification document with photo 
     - A copy of recent EAD (If available)
     - A copy of passport with biometric information (example: first and last page) and the visa page (if present)
     - A copy of birth certificate with photo ID
     - A copy of national photo ID
-- [ ] 6. A copy of marriage certificate 
-- [ ] 2. Completed [Form I-765](http://www.uscis.gov/i-765) 
+- [ ] 5. A copy of marriage certificate 
+- [ ] 6. Completed [Form I-765](http://www.uscis.gov/i-765) 
     - Write (c)(26) for eligibility critieria
 
 ##### Documents from primary H1 visa holder     
@@ -55,7 +55,7 @@ USCIS also offers a service to notify you electronically (email, text), when you
 - [ ] 7. A Copy of form I-797 approval notice for form I-140 (Request from your Employer or file a FOIA)
 
 ##### E-notification (optional)
-- [ ] 7. Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
+- [ ] 8. Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
 
 ## H4 EAD filing address
 Physical filing address varies according to the H1b principal's I-797 approval notice. Also, the address given here are only for making a stand alone EAD card. If your making an EAD application in addition to a primary purpose like H4 extension or chage of status then you would send everything to the appropriate address for the primary application. 
