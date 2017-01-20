@@ -9,7 +9,9 @@ description: H4 Visa EAD documents and application. EAD for H4 - Complete guide
 If you are looking for H4 EAD application process, you have come to the right place.
 = image goes here = 
 
-Heads up, keep your immigration documents, checkbooks ready. You may also have to print/copy/fill certain documents and also you will need two passport sized photographs. With that, let's proceed to the actual steps,
+Heads up, keep your immigration documents, checkbooks ready. You may also have to print/copy/fill certain documents and also you will need two passport sized photographs. H4 EAD application doesn't have premium processing. But if your primary H1b spouse is due for H1b extension, then H4 EAD can also be applied with that application. If H1b extension is upgraded to premium then as a courtesy USCIS also approves EAD within the premium time frame. Also note that spouses in other visas like F1/H1b can apply for H4 change of status (COS) and EAD concurrently.
+
+With that, let's proceed to the actual steps,
 
 #### Table of Contents
  - [H4 EAD Eligibility](#h4-ead-eligibility)
@@ -22,8 +24,6 @@ Heads up, keep your immigration documents, checkbooks ready. You may also have t
 ## H4 EAD Eligibility
 
 Principal H1b nonimmigrant should be a primary beneficiary of an approved Form I-140 Immigration petition. H4 dependent spouses of such individuals are eligible to apply for EAD. 
-
-Also note that spouses in other visas like F1/H1b can apply for H4 change of status (COS) and EAD concurrently.
 
 ## H4 EAD Application fee
 $410 as of January 2017. Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
