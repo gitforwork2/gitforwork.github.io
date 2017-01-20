@@ -96,8 +96,9 @@ For overnight/courier deliveries (non-USPS):
 ## H4 EAD approval times
 If you have asked for e-Notification of H4 EAD application, then you would get a receipt number in a message like below (just a sample)
 
-``` "On November 27, 2016, we received your Form I-765, Application for Employment Authorization , Receipt Number EACXXXXXXXXX, and sent you the receipt notice that describes how we will process your case. Please follow the instructions in the notice. If you do not receive your receipt notice by December 26, 2016, please call Customer Service at 1-800-375-5283"
-```
+``` "On November 27, 2016, we received your Form I-765, Application for Employment Authorization , Receipt Number EACXXXXXXXXX, and sent you the receipt notice that describes how we will process your case. Please follow the instructions in the notice. If you do not receive your receipt notice by December 26, 2016, please call Customer Service at 1-800-375-5283" 
+ ```
+
 Once you get the receipt number, H4 EAD status can be [checked on USCIS site](https://egov.uscis.gov/casestatus/landing.do).
 
 Approval times vary depending on the work load received by USCIS. USCIS is required to make a decision of the application within 90 days. Depending on which center you apply, you can check [USCIS current processing times] USCIS(https://egov.uscis.gov/cris/processTimesDisplayInit.do). In addition USCIS allows to request SR once 75 days have elapsed on the application. 
