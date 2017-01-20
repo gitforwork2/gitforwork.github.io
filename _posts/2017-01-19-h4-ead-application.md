@@ -97,8 +97,6 @@ For overnight/courier deliveries (non-USPS):
 
 Approval times vary depending on the work load received by USCIS. USCIS is required to make a decision of the application within 90 days. Depending on which center you apply, you can check [USCIS current processing times] (https://egov.uscis.gov/cris/processTimesDisplayInit.do). In addition, USCIS allows to request SR once 75 days have elapsed on the application. 
 
-Once you get the receipt number, H4 EAD status can be [checked on USCIS site](https://egov.uscis.gov/casestatus/landing.do).
-
 If you have asked for e-Notification of H4 EAD application, then you would get a receipt number in a message like below (just a sample)
 
 ``` 
@@ -110,5 +108,7 @@ If you do not receive your receipt notice by December 26, 2016, please call Cust
 ```  
 
 ## H4 EAD status
-Pending H4 EAD application don't give any valid status for employment purposes. You are authorized to work only after the application is approved and only through the expiry date. Usually the EAD expiry date is tied to the H4 visa expiry. Renewals of H4 EAD can be done 120 days prior to expiry.
+Once you get the receipt number, H4 EAD status can be [checked on USCIS site](https://egov.uscis.gov/casestatus/landing.do).
+
+Pending H4 EAD application don't give any valid status for employment purposes. You are authorized to work only after the application is approved and only through the expiry date. Usually the EAD expiry date is tied to the H4 visa expiry.  H4 EAD renewal can be started no sooner than 120 days prior to expiry.
 
