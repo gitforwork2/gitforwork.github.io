@@ -26,7 +26,7 @@ This is the document checklist for [H4 EAD application process](/posts/h4-ead-ap
 6. <input type="checkbox"/> Completed [Form I-765](http://www.uscis.gov/i-765) 
     - Write (c)(26) for eligibility criteria
 
-##### Documents from primary H1 visa holder     
+Documents from primary H1 visa holder     
 
 7. <input type="checkbox"/> A Copy of form I-797 approval notice for form I-140 (Request from your Employer or file a FOIA)
 
