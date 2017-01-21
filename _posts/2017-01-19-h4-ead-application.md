@@ -6,7 +6,7 @@ tags: H4 EAD
 comments: true
 description: H4 Visa EAD documents and application. EAD for H4 - Complete guide
 ---
-If you are looking for H4 EAD application process, you have come to the right place.
+If you are looking for H4 EAD application work permit process and documentation, you have come to the right place.
 = image goes here = 
 
 Heads up, keep your immigration documents, checkbooks ready. You may also have to print/copy/fill certain documents and also you will need two passport sized photographs. 
@@ -27,14 +27,14 @@ With that, let's proceed to the actual steps,
 
 Principal H1b non-immigrant should be a primary beneficiary of an approved Form I-140 Immigration petition. H4 dependent spouses of such individuals are eligible to apply for EAD. 
 
-Even if you are currently not on H4 visa, but planning to change status from other visa types you may be eligible. For example, H1 to H4 EAD applications can be concurrently applied. USCIS also allows concurrent filing of F1 to H4 EAD change of status. 
+Even if you are currently not on H4 visa, but planning to change status from other visa types you may be eligible. For example, H1 to H4 EAD applications can be concurrently applied. Similarly, USCIS also allows concurrent filing of F1 to H4 EAD change of status. 
 
 ## H4 EAD premium processing
 H4 EAD application doesn't have premium processing on it's own. But, if your primary H1b spouse is due for H1b extension, then H4 EAD can also be included with that application. If such H1b extension petitions are upgraded to premium processing, then as a courtesy USCIS also approves EAD within the premium time frame. 
 
 ## H4 EAD Application fee
-$410 as of January 2017. Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
-Make a cashier's check or personal check payable to "US Department of Homeland Security". No online payments are available at this point
+$410 as of January 2017 (It used to be $380 earlier). Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
+Make a cashier's check or personal check, payable to "US Department of Homeland Security". No online payments are available at this point.
 
 ## H4 EAD form I-765
 You would have to fill the [form I-765](http://www.uscis.gov/i-765) for requesting EAD. Make sure all the information are clear and correct. Importantly, the applicant should sign the form. It's a good idea to keep a copy of the completed form for own records. 
