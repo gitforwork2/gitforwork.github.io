@@ -105,7 +105,7 @@ For overnight/courier deliveries (non-USPS):
 
 Upon receiving the form, USCIS checks the form for completeness and accompanied evidences. The application will be rejected for any deficiency. Until USCIS accepts the application, the form is not considered properly filed. 
 
-Approval times vary depending on the work load received by USCIS. USCIS is required to make a decision of the application within 90 days. Depending on which center you apply, you can check [USCIS current processing times] (https://egov.uscis.gov/cris/processTimesDisplayInit.do). In addition, USCIS allows to request SR once the application is pending for 75 days or more.
+Approval times vary depending on the work load received by USCIS. USCIS is required to make a decision of the application within 90 days. Depending on which center you apply, you can check [USCIS current processing times](https://egov.uscis.gov/cris/processTimesDisplayInit.do). In addition, USCIS allows to request SR once the application is pending for 75 days or more.
 
 If you have asked for e-Notification of H4 EAD application, then you would get a receipt number in a message like below (just a sample)
 
