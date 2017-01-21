@@ -126,4 +126,4 @@ Once you get the receipt number, H4 EAD status can be [checked on USCIS site](ht
 
 Pending H4 EAD application don't give any valid status for employment purposes. You are authorized to work only after the application is approved and only through the expiry date. Usually the EAD expiry date is tied to the H4 visa expiry.  H4 EAD renewal can be started no sooner than 120 days prior to expiry.
 
-H4 applicant also need to [apply for Social Security Number (SSN)](/posts/h4-ead-ssn-application-faq/) for getting back to work. SSN can be applied only after receiving the EAD card. And approval notices cannot be used to for apply SSN. 
+H4 applicant also need to [apply for Social Security Number (SSN)](/posts/h4-ead-ssn-application-faq/) for getting back to work. SSN can be applied only after receiving the EAD card. And EAD approval notices cannot be used to apply SSN. 
