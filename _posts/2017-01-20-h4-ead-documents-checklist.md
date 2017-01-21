@@ -11,8 +11,8 @@ This is the document checklist for [H4 EAD application process](/posts/h4-ead-ap
 ## H4 EAD Documents checklist
 ##### Documents from H4 visa holder
 
-- [ ] 1. Check for $410, payable to "US Department of Homeland Security" 
-- [ ] 2. Two identical 2x2-inch color passport-style photo
+1. <input type="checkbox"/> Check for $410, payable to "US Department of Homeland Security" 
+2. <input type="checkbox"/> Two identical 2x2-inch color passport-style photo
 - [ ] 3. Proof of H4 status 
     - A copy of I-94, [obtained at the port of entry](https://i94.cbp.dhs.gov/I94/#/recent-search) as H4 
     - A copy of approved Form I-797 for H4 visa
