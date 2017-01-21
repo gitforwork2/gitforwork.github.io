@@ -7,7 +7,7 @@ comments: true
 description: H4 Visa EAD documents and application. EAD for H4 - Complete guide
 ---
 If you are looking for H4 EAD application process and documentation, you have come to the right place. Applying for EAD and Social Security Number (SSN) can be a long a process. This guide is to cover the steps for obtaining EAD work permit. 
-= image goes here = 
+![H4-EAD-sample](/assets/images/posts/h4-ead-sample.jpg)
 
 Heads up, keep your immigration documents, checkbooks ready. You may also have to print/copy/fill certain documents and also you will need two passport sized photographs. 
 
