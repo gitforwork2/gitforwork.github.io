@@ -25,5 +25,5 @@ This is the document checklist for [H4 EAD application process](/posts/h4-ead-ap
 5. <input type="checkbox"/> A copy of marriage certificate 
 6. <input type="checkbox"/> Completed [Form I-765](http://www.uscis.gov/i-765) 
     - Write (c)(26) for eligibility criteria
-7. <input type="checkbox"/> Primary H1 visa holder document: A Copy of form I-797 approval notice for form I-140 (Request from your Employer or file a FOIA)
-8. <input type="checkbox"/> E-notification (optional): Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
+7. <input type="checkbox"/> **Primary H1 visa holder document:** A Copy of form I-797 approval notice for form I-140 (Request from your Employer or file a FOIA)
+8. <input type="checkbox"/> **E-notification (optional):** Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
