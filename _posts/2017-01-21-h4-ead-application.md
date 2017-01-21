@@ -1,7 +1,7 @@
 ---
 layout: post
 title: H4 EAD application process and documents - Complete guide 
-date: 2017-01-19
+date: 2017-01-21
 tags: H4 EAD
 comments: true
 description: H4 Visa EAD documents and application. EAD for H4 - Complete guide
