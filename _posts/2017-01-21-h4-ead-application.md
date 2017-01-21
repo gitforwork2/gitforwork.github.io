@@ -45,6 +45,7 @@ USCIS also offers a service to notify you electronically (email, text), when you
 To avoid unnecessary delays, make sure the form is signed. And it should also be accompanied by the correct fee. USCIS will reject the application in either case. And you will have to refile with the issues fixed.
 
 ## H4 EAD Documents checklist
+Find printer friendly [H4 EAD documents checklist](/posts/h4-ead-documents-checklist/)
 ##### Documents from H4 visa holder
 
 - [ ] 1. Check for $410, payable to "US Department of Homeland Security" 
