@@ -46,6 +46,7 @@ To avoid unnecessary delays, make sure the form is signed. And it should also be
 
 ## H4 EAD Documents checklist
 Find printer friendly [H4 EAD documents checklist](/posts/h4-ead-documents-checklist/)
+
 ##### Documents from H4 visa holder
 
 - [ ] 1. Check for $410, payable to "US Department of Homeland Security" 
