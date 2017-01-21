@@ -6,7 +6,7 @@ tags: H4 EAD
 comments: true
 description: H4 Visa EAD documents and application. EAD for H4 - Complete guide
 ---
-If you are looking for H4 EAD application work permit process and documentation, you have come to the right place.
+If you are looking for H4 EAD application process and documentation, you have come to the right place. Applying for EAD and Social Security Number (SSN) can be a long a process. This guide is to cover the steps for obtaining EAD work permit. 
 = image goes here = 
 
 Heads up, keep your immigration documents, checkbooks ready. You may also have to print/copy/fill certain documents and also you will need two passport sized photographs. 
@@ -27,7 +27,7 @@ With that, let's proceed to the actual steps,
 
 Principal H1b non-immigrant should be a primary beneficiary of an approved Form I-140 Immigration petition. H4 dependent spouses of such individuals are eligible to apply for EAD. 
 
-Even if you are currently not on H4 visa, but planning to change status from other visa types you may be eligible. For example, H1 to H4 EAD applications can be concurrently applied. Similarly, USCIS also allows concurrent filing of F1 to H4 EAD change of status. 
+Even if you are currently not on H4 visa, but planning to change the status from other visa types you may be eligible. For example, H1 to H4 EAD applications can be concurrently applied. Similarly, USCIS also allows concurrent filing of F1 to H4 EAD change of status. 
 
 ## H4 EAD premium processing
 H4 EAD application doesn't have premium processing on it's own. But, if your primary H1b spouse is due for H1b extension, then H4 EAD can also be included with that application. If such H1b extension petitions are upgraded to premium processing, then as a courtesy USCIS also approves EAD within the premium time frame. 
@@ -37,7 +37,7 @@ $410 as of January 2017 (It used to be $380 earlier). Check the latest [USCIS fi
 Make a cashier's check or personal check, payable to "US Department of Homeland Security". No online payments are available at this point.
 
 ## H4 EAD form I-765
-You would have to fill the [form I-765](http://www.uscis.gov/i-765) for requesting EAD. Make sure all the information are clear and correct. Importantly, the applicant should sign the form. It's a good idea to keep a copy of the completed form for own records. 
+You would have to fill the [form I-765](http://www.uscis.gov/i-765) for requesting EAD. Make sure all the information are clear and correct. Importantly, the H4 applicant should sign the form. It's a good idea to keep a copy of the completed form for own records. 
 
 USCIS also offers a service to notify you electronically (email, text), when your form I-765 is accepted at their facility. This is an optional service. But if you want to use it then you would have to include the completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf).
 
@@ -108,7 +108,7 @@ For overnight/courier deliveries (non-USPS):
 
 Upon receiving the form, USCIS checks the form for completeness and accompanied evidences. The application will be rejected for any deficiency. Until USCIS accepts the application, the form is not considered properly filed. 
 
-Approval times vary depending on the work load received by USCIS. USCIS is required to make a decision of the application within 90 days. Depending on which center you apply, you can check [USCIS current processing times] (https://egov.uscis.gov/cris/processTimesDisplayInit.do). In addition, USCIS allows to request SR once 75 days have elapsed on the application. 
+Approval times vary depending on the work load received by USCIS. USCIS is required to make a decision of the application within 90 days. Depending on which center you apply, you can check [USCIS current processing times] (https://egov.uscis.gov/cris/processTimesDisplayInit.do). In addition, USCIS allows to request SR once the application is pending for 75 days or more.
 
 If you have asked for e-Notification of H4 EAD application, then you would get a receipt number in a message like below (just a sample)
 
@@ -119,13 +119,10 @@ and sent you the receipt notice that describes how we will process your case. Pl
 If you do not receive your receipt notice by December 26, 2016, please call Customer Service at 1-800-375-5283"     
 
 ```  
-An application or petition is not considered
-properly filed until accepted by USCIS.
-Initial processing. Once Form I-765 has been accepted, it will be checked for completeness, including submission of the
-required initial evidence. If you do not completely fill out the form, or file it without required initial evidence, you will
-not establish a basis for eligibility, and we may deny your Form I-765
 
 ## H4 EAD status
 Once you get the receipt number, H4 EAD status can be [checked on USCIS site](https://egov.uscis.gov/casestatus/landing.do).
 
 Pending H4 EAD application don't give any valid status for employment purposes. You are authorized to work only after the application is approved and only through the expiry date. Usually the EAD expiry date is tied to the H4 visa expiry.  H4 EAD renewal can be started no sooner than 120 days prior to expiry.
+
+H4 applicant also need to [apply for Social Security Number (SSN)](/posts/h4-ead-ssn-application-faq/) for getting back to work. SSN can be applied only after receiving the EAD card. And approval notices cannot be used to for apply SSN. 
