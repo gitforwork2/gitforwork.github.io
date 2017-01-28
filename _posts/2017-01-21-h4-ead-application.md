@@ -126,17 +126,18 @@ Pending H4 EAD application don't give any valid status for employment purposes. 
 H4 applicant also need to [apply for Social Security Number (SSN)](/posts/h4-ead-ssn-application-faq/) for getting back to work. SSN can be applied only after receiving the EAD card. And EAD approval notices cannot be used to apply SSN. 
 
 ## H4 EAD faq
+
 #### Is there a minimum salary required for H4 EAD job?
 No. H4 EAD doesn't pronounce any minimum salary requirements.
 
 #### Can form I 765 be filed electronically?
-No electronic option available at this time
+No electronic option available at this time.
 
 #### Can I start working when my I 765 is pending?
-No, you will have to wait until you receive the EAD card
+No, you will have to wait until you receive the EAD card.
 
 #### Is a copy of ITIN required for the application?
-ITIN is not needed to apply for EAD. However, you would have to [apply for SSN](/posts/h4-ead-ssn-application-faq/) and rescind the ITIN
+ITIN is not needed to apply for EAD. However, you would have to [apply for SSN](/posts/h4-ead-ssn-application-faq/) and rescind the ITIN you may already have
 
 #### If I loose my job while in H4 EAD, do I loose status?
-There is no need to work while having a EAD caed. So, if you happen to loose a job, you don't loose any status. Your status is determined by the H4 visa and not by the EAD.
+There is no need to work while holding a EAD card. So, if you happen to loose a job, you don't loose any visa status. Your status is determined by the H4 visa and not by the EAD.
