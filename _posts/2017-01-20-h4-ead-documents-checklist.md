@@ -1,12 +1,13 @@
 ---
 layout: post
 title: H4 EAD documents - complete checklist
-date: 2017-01-20
+date: 2017-01-28
 tags: H4 EAD
 comments: true
 description: H4 Visa EAD complete documents list. EAD for H4 guide
+canonical: posts/h4-ead-application/
 ---
-This is the document checklist for [H4 EAD application process](/posts/h4-ead-application/)
+This is the printable document checklist for [H4 EAD application process](/posts/h4-ead-application/)
 
 ## H4 EAD Documents checklist
 
