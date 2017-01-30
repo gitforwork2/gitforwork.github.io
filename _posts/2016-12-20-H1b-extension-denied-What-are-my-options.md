@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 options after H1b extension denial. 
+title: 4 options after H1b visa extension denial 
 date: 2017-1-29
 tags: H1b visa
 comments: true
