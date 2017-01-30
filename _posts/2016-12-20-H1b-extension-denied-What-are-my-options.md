@@ -1,18 +1,16 @@
 ---
 layout: post
-title: H1b extension denied. What are my options
-date: 2016-12-20
+title: 4 options after H1b extension denial. 
+date: 2017-1-29
 tags: H1b visa
 comments: true
 description: What are the options one has after H1b extension petition is denied
 ---
-Recently, my friend got into an unfortunate situation where his H1b extension petition was denied after it went to a RFE.
-It was denied because of not able to adequately establish the project details at the third party client location at which he was placed by his employer. Initially, it went into RFE which was replied to. However, USCIS was not satisfied with the response and denied the extension.
+Recently, my friend got into an unfortunate situation where his H1b extension petition was denied. It first went into rfe, and subsequently denied. It was denied because USCIS was not satisfied with the project details attached by his employer. His employer had placed him at a third party client site for the project. The initial RFE was was replied to. However, USCIS was not satisfied with the response and denied the extension.
 
 Naturally, he had lots of questions like
 - What are the next options available to him in terms of his visa? 
-- Does he have to leave the country?
-- If yes how soon does he have to leave the country?
+- How long can he stay in the US?
 
 He eventually found the answers for his questions and this post is a guide to people who get into this unfortunate situation. 
 
@@ -51,7 +49,7 @@ Basically, you would just start anew with a new employer and position. It may be
 
 If your spouse has a valid non-dependent visa, you can apply for a change of status to become a dependent. For example, if your spouse is on H1b, then you could apply for H4. So, that at least you have some breathing space. Though you cannot work, you will have time to figure out your situation.
 
-#### What happens to my status? Should I leave the country?
+#### What happens to my status? How long can I stay or Should I leave the country immediately?
 Your are technically out of status as soon as you or your employer receives the hard copy of the denial notice. 
 Most likely, the notice might ask you to leave too. Though you are out of status, you are going to need some time to wind up your activities and plan for leaving. But remember you would be accruing unlawful stay, so plan to leave in a reasonable time frame. In my friend's case he immediately stopped working and made arrangements for travel and left the country in 2 weeks.
 
