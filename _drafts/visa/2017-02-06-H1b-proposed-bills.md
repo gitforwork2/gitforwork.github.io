@@ -29,9 +29,9 @@ description: New H1b bills proposed so far in Congress
 - Eliminate country cap: Employment based immigrant visas should be allocated to the more skilled worker regardless of country of origin. This ensures fairness to H1b worker by enabling them to change jobs and negotiate salary etc. Thus preventing any artificial wage depression caused in the market
 - Remove visa hurdles for US educated foregin students to apply for permanent residency
 
-#### HR370 - 
-- Eliminates country quota, to end decade long wait for getting a green card.
-- Long wait times for green card makes the employee dependent on the employer, giving the employer more leverage
+#### Fairness for High-Skilled Immigrants Act of 2017
+- Eliminates the country cap for the employment based immigrant visas. This stops the H1b worker's dependency on the employer, there by ensuring easy job mobility and balanced job market. 
+- Employees from a single country cannot exceed 85% of total visas issued in a year
 
 #### Trump executive order
 
