@@ -6,8 +6,6 @@ tags: H1b
 comments: true
 description: New H1b bills proposed so far in Congress
 ---
-1) Double the pay to 130K
-2) Minimum pay to 100K
 3) Stop outsourcing by state
 4) Trump's executive order
 
@@ -35,5 +33,5 @@ description: New H1b bills proposed so far in Congress
 - Eliminates country quota, to end decade long wait for getting a green card.
 - Long wait times for green card makes the employee dependent on the employer, giving the employer more leverage
 
-#### HR370 - Trump executive order
+#### Trump executive order
 
