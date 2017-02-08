@@ -25,7 +25,14 @@ Bumps the minimum salary for H1b to $100K a year. Eliminates Master's degree exe
 #### High-Skilled Integrity and Fairness Act of 2017 - California Congressman Zoe Lofgren
 - 20% visas for startups with less than 50 employees
 - Minimum pay to $130K for dependent employees
-- 
+
+#### HR370 - 
+- Eliminates country quota, to end decade long wait for getting a green card.
+- Long wait times for green card makes the employee dependent on the employer, giving the employer more leverage
+
+#### HR370 - Trump executive order
+
+#### New Kid working on a bill
 
 
 
