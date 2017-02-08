@@ -10,9 +10,6 @@ description: New H1b bills proposed so far in Congress
 2) Minimum pay to 100K
 3) Stop outsourcing by state
 4) Trump's executive order
-5) http://www.zdnet.com/article/three-bills-and-a-trump-executive-order-train-their-gun-sights-on-the-h1b-visa/
-http://economictimes.indiatimes.com/nri/visa-and-immigration/wont-prejudge-outcome-of-3-private-bills-india-on-h1b-visas/articleshow/56939695.cms
-http://redbus2us.com/h1b-visa-bills-latest-news-updates-reforms-passed-status-2017-tracker/
 
 #### Protect and Grow American Jobs Act (HR 170) - Darrel Issa - California
 - H1b dependent employers (15% or more employees are H1b) have to pay atleast $100K a year for hiring a new H1b employee
@@ -20,7 +17,7 @@ http://redbus2us.com/h1b-visa-bills-latest-news-updates-reforms-passed-status-20
 
 #### H-1B and L-1 Visa Reform Act - Republican Chuck Grassley (Iowa) and Democrat Richard Durbin (Illinois)
 - Employers with 50% or more employees on H1b or L1 visa are not allowed to hire additional H1b workers
-- Small companies with under 50 employees are exempted from the above rule
+- Small employers with under 50 employees are exempted from the above rule
 - Placing a H1b worker at a worksite should not replace or adversely affect a similiarly employed American worker at the site. This includes workers placed through other employers too
 - Increase law enforcement mechanisms for the Department of Labor
 - Eliminates the current practise of random lottery when allocating new H1b. Replace it with merit based preference system. Such a system prefers foreign students educated in the US, advanced degree holders, those with high salary and those with high skills
@@ -28,17 +25,15 @@ http://redbus2us.com/h1b-visa-bills-latest-news-updates-reforms-passed-status-20
 - Redefine the critieria for issuing a L1 visa to allow only truly key employees
 
 #### High-Skilled Integrity and Fairness Act of 2017 - Zoe Lofgren - California
-- 20% visas for startups with less than 50 employees
-- Minimum pay to $130K for dependent employees
+- H1b dependent employers (15% or more employees are H1b) have to pay atleast $130K a year for hiring a new H1b employee
+- 20% H1b visas reserved for small startup employers with less than 50 employees
+- Replace the current H1b random lottery and award based on the order of salaries, starting from the highest. 
+- Eliminate country cap: Employment based immigrant visas should be allocated to the more skilled worker regardless of country of origin. This ensures fairness to H1b worker by enabling them to change jobs and negotiate salary etc. Thus preventing any artificial wage depression caused in the market
+- Remove visa hurdles for US educated foregin students to apply for permanent residency
 
 #### HR370 - 
 - Eliminates country quota, to end decade long wait for getting a green card.
 - Long wait times for green card makes the employee dependent on the employer, giving the employer more leverage
 
 #### HR370 - Trump executive order
-
-#### New Kid working on a bill
-
-
-
 
