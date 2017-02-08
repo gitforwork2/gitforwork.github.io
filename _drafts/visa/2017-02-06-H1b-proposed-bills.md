@@ -27,7 +27,7 @@ http://redbus2us.com/h1b-visa-bills-latest-news-updates-reforms-passed-status-20
 - Introduce a minimum salary requirement for L1 visa employees
 - Redefine the critieria for issuing a L1 visa to allow only truly key employees
 
-#### High-Skilled Integrity and Fairness Act of 2017 - California Congressman Zoe Lofgren
+#### High-Skilled Integrity and Fairness Act of 2017 - Zoe Lofgren - California
 - 20% visas for startups with less than 50 employees
 - Minimum pay to $130K for dependent employees
 
