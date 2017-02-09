@@ -22,30 +22,30 @@ A quick primer on the bill process in congress. Introduction of the bill is just
 #### H1b $100K bill by Darrel Issa
 More formally: Protect and Grow American Jobs Act (HR 170) - Darrel Issa - California
 
-- H1b dependent employers (15% or more employees are H1b) have to pay atleast $100K a year for hiring a new H1b employee
-- Current law stipulates that Employers must pay atleast $60K a year, when hiring a master's degree employee. Eliminates this exemption
+- H1b dependent employers (15% or more employees are H1b) have to pay atleast $100K a year for hiring a new H1b employee  
+- Current law stipulates that Employers must pay atleast $60K a year, when hiring a master's degree employee. Eliminates this exemption  
 
 #### H1b & L1 visa refrom bill by Chuck Grassley
 More formally: H-1B and L-1 Visa Reform Act - Republican Chuck Grassley (Iowa) and Democrat Richard Durbin (Illinois)
-- Employers with 50% or more employees on H1b or L1 visa are not allowed to hire additional H1b workers
-- Small employers with under 50 employees are exempted from the above rule
-- Placing a H1b worker at a worksite should not replace or adversely affect a similarly employed American worker at the site. This includes workers placed through other employers too
-- Increase law enforcement mechanisms for the Department of Labor
-- Eliminates the current practice of random lottery when allocating new H1b. Replace it with merit based preference system. Such a system prefers foreign students educated in the US, advanced degree holders, those with high salary and those with high skills
-- Introduce a minimum salary requirement for L1 visa employees
-- Redefine the criteria for issuing a L1 visa to allow only truly key employees
+- Employers with 50% or more employees on H1b or L1 visa are not allowed to hire additional H1b workers 
+- Small employers with under 50 employees are exempted from the above rule 
+- Placing a H1b worker at a worksite should not replace or adversely affect a similarly employed American worker at the site. This includes workers placed through other employers too 
+- Increase law enforcement mechanisms for the Department of Labor 
+- Eliminates the current practice of random lottery when allocating new H1b. Replace it with merit based preference system. Such a system prefers foreign students educated in the US, advanced degree holders, those with high salary and those with high skills 
+- Introduce a minimum salary requirement for L1 visa employees 
+- Redefine the criteria for issuing a L1 visa to allow only truly key employees 
 
 #### H1b $130K bill by Zoe Lofgren
 More formally: High-Skilled Integrity and Fairness Act of 2017 - Zoe Lofgren - California
-- H1b dependent employers (15% or more employees are H1b) have to pay atleast $130K a year for hiring a new H1b employee
-- 20% H1b visas reserved for small startup employers with less than 50 employees
-- Replace the current H1b random lottery and award based on the order of salaries, starting from the highest. 
-- Eliminate country cap: Employment based immigrant visas should be allocated to the more skilled worker regardless of country of origin. This ensures fairness to H1b worker by enabling them to change jobs and negotiate salary etc. Thus preventing any artificial wage depression caused in the market
-- Remove visa hurdles for US educated foreign students to apply for permanent residency
+- H1b dependent employers (15% or more employees are H1b) have to pay atleast $130K a year for hiring a new H1b employee 
+- 20% H1b visas reserved for small startup employers with less than 50 employees 
+- Replace the current H1b random lottery and award based on the order of salaries, starting from the highest.  
+- Eliminate country cap: Employment based immigrant visas should be allocated to the more skilled worker regardless of country of origin. This ensures fairness to H1b worker by enabling them to change jobs and negotiate salary etc. Thus preventing any artificial wage depression caused in the market  
+- Remove visa hurdles for US educated foreign students to apply for permanent residency  
 
 #### Fairness for High-Skilled Immigrants Act of 2017 - Jason Chaffetz - Utah
-- Eliminates the country cap for the employment based immigrant visas. This stops the H1b worker's dependency on the employer, there by ensuring easy job mobility and balanced job market. 
-- Employees from a single country cannot exceed 85% of total visas issued in a year
+- Eliminates the country cap for the employment based immigrant visas. This stops the H1b worker's dependency on the employer, there by ensuring easy job mobility and balanced job market.  
+- Employees from a single country cannot exceed 85% of total visas issued in a year 
 
 #### Trump H1b visa executive order
 And then finally there was the leaked draft executive order by the president Donald Trump. Most of the details of the draft order are vague. And this is still an unconfirmed and unsigned executive order. Here are the top highlights from the draft document. 
