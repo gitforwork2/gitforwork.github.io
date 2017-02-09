@@ -19,7 +19,7 @@ A quick primer on the bill process in congress. Introduction of the bill is just
  - [Trump H1b visa executive order](#trump-h1b-visa-executive-order)
  
  
-#### H1b $100K Darrel Issa bill
+#### H1b $100K bill by Darrel-Issa
 More formally: Protect and Grow American Jobs Act (HR 170) - Darrel Issa - California
 
 - H1b dependent employers (15% or more employees are H1b) have to pay atleast $100K a year for hiring a new H1b employee
