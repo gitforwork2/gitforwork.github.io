@@ -13,7 +13,7 @@ There was the executive order and then new bills are being proposed to the congr
 A quick primer on the bill process in congress. Introduction of the bill is just the first step. It has to go through multiple and lengthier steps before it becomes a law. So, here are the bills introduced so far,
 
 #### Table of Contents
- - [H1b $100K bill by Darrel-Issa](#h1b-$100K-bill-by-darrel-issa)
+ - [H1b $100K bill by Darrel-Issa](#h1b-100K-bill-by-darrel-issa)
  - [H1b & L1 visa refrom bill by Chuck Grassley](#h1b--l1-visa-refrom-bill-by-chuck-grassley)
  - [H1b $130K bill by Zoe Lofgren](#h1b-$130k-bill-by-zoe-lofgren)
  - [Trump H1b visa executive order](#trump-h1b-visa-executive-order)
