@@ -12,11 +12,21 @@ There was the executive order and then new bills are being proposed to the congr
 
 A quick primer on the bill process in congress. Introduction of the bill is just the first step. It has to go through multiple and lengthier steps before it becomes a law. So, here are the bills introduced so far,
 
-#### Protect and Grow American Jobs Act (HR 170) - Darrel Issa - California
+#### Table of Contents
+ - [H1b $100K bill by Darrel-Issa](#h1b-$100K-bill-by-darrel-issa)
+ - [H1b & L1 visa refrom bill by Chuck Grassley](#h1b-&-l1-visa-refrom-bill-by-chuck-grassley)
+ - [H1b $130K bill by Zoe Lofgren](#h1b-$130k-bill-by-zoe-lofgren)
+ - [Trump H1b visa executive order](#trump-h1b-visa-executive-order)
+ 
+ 
+#### H1b $100K Darrel Issa bill
+More formally: Protect and Grow American Jobs Act (HR 170) - Darrel Issa - California
+
 - H1b dependent employers (15% or more employees are H1b) have to pay atleast $100K a year for hiring a new H1b employee
 - Current law stipulates that Employers must pay atleast $60K a year, when hiring a master's degree employee. Eliminates this exemption
 
-#### H-1B and L-1 Visa Reform Act - Republican Chuck Grassley (Iowa) and Democrat Richard Durbin (Illinois)
+#### H1b & L1 visa refrom bill by Chuck Grassley
+More formally: H-1B and L-1 Visa Reform Act - Republican Chuck Grassley (Iowa) and Democrat Richard Durbin (Illinois)
 - Employers with 50% or more employees on H1b or L1 visa are not allowed to hire additional H1b workers
 - Small employers with under 50 employees are exempted from the above rule
 - Placing a H1b worker at a worksite should not replace or adversely affect a similarly employed American worker at the site. This includes workers placed through other employers too
@@ -25,7 +35,8 @@ A quick primer on the bill process in congress. Introduction of the bill is just
 - Introduce a minimum salary requirement for L1 visa employees
 - Redefine the criteria for issuing a L1 visa to allow only truly key employees
 
-#### High-Skilled Integrity and Fairness Act of 2017 - Zoe Lofgren - California
+#### H1b $130K bill by Zoe Lofgren
+More formally: High-Skilled Integrity and Fairness Act of 2017 - Zoe Lofgren - California
 - H1b dependent employers (15% or more employees are H1b) have to pay atleast $130K a year for hiring a new H1b employee
 - 20% H1b visas reserved for small startup employers with less than 50 employees
 - Replace the current H1b random lottery and award based on the order of salaries, starting from the highest. 
