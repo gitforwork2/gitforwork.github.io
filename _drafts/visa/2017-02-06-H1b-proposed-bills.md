@@ -6,8 +6,13 @@ tags: H1b
 comments: true
 description: New H1b bills proposed so far in Congress
 ---
-3) Stop outsourcing by state
+
 4) Trump's executive order
+
+Since the recent presedential elections, immigration issues including the H1b visa program have come under scrutiny. 
+There was the executive order and then new bills are being proposed to the congress. It's in a transient state, and this page is to track all the latest developments around the H1b visa program.  This page will also track employment based legal immigration bills that affects H1b employees.
+
+ A quick primer on the bill process in congress. Introduction of the bill is just the first step. It has to go through multiple and lengthier steps before it becomes a law. So, here are the bills introduced so far,
 
 #### Protect and Grow American Jobs Act (HR 170) - Darrel Issa - California
 - H1b dependent employers (15% or more employees are H1b) have to pay atleast $100K a year for hiring a new H1b employee
