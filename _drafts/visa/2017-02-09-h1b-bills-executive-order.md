@@ -1,10 +1,10 @@
 ---
 layout: post
-title: H1b reform bills introduced and leaked Trump executive order - H1b news
-date: 2017-02-08
+title: H1b reform bills introduced and leaked Trump executive order - H1b visa news
+date: 2017-02-09
 tags: H1b 
 comments: true
-description: Details about H1b reform bills introduced and leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details along with leaked executive order
+description: Details about H1b reform bills introduced. Also about leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details
 ---
 
 Since the recent presidential elections, immigration issues including the H1b visa program have come under scrutiny. 
@@ -36,7 +36,13 @@ A quick primer on the bill process in congress. Introduction of the bill is just
 - Eliminates the country cap for the employment based immigrant visas. This stops the H1b worker's dependency on the employer, there by ensuring easy job mobility and balanced job market. 
 - Employees from a single country cannot exceed 85% of total visas issued in a year
 
-#### Trump H1b executive order
-And then there is the leaked Trump executive order. The leaked order is looking to curb H4 EAD and OPT EADs.
-
-
+#### Trump H1b visa executive order
+And then finally there was the leaked draft executive order by the president Donald Trump. Most of the details of the draft order are vague. And this is still an unconfirmed and unsigned executive order. Here are the top highlights from the draft document. 
+ 
+ "restore the integrity of employment-based nonimmigrant worker programs and better protect U.S. and foreign workers affected by those programs"
+ 
+ "make the process for allocating H1B visas more efficient and ensure that beneficiaries of the program are the best and the brightest”
+ 
+ "recommend changes to the immigrations [sic] laws to move towards a merit-based system”
+ 
+ So, the statements in the document seems to be more broad policy direction and doesn't get into the details of how it would be achieved. So how and when it would impact the current visa programs is just speculation. If at all this order comes through in the same format, it would still take a long time to know what this all means. But one thing that seems to be certain is some kind of merit based system around immigration seems to be the way forward. 
