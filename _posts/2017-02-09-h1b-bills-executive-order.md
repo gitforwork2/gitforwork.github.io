@@ -2,7 +2,7 @@
 layout: post
 title: H1b reform bills introduced and leaked Trump executive order - H1b visa news
 date: 2017-02-09
-tags: H1b executive order L1
+tags: H1b executive-order L1
 comments: true
 description: Details about H1b reform bills introduced. Also about leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details
 ---
