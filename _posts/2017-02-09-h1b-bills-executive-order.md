@@ -8,9 +8,11 @@ description: Details about H1b reform bills introduced. Also about leaked Trump 
 ---
 
 Since the recent presidential elections, immigration issues including the H1b visa program have come under scrutiny. 
-There was the executive order and then new bills are being proposed to the congress. It's in a transient state, and this page is to track all the latest developments around the H1b visa program.  This page will also track employment based legal immigration bills that affects H1b employees.
+Several reform bills are being introduced and then there was the rumoured executive order. Here is the summary of new bills,
 
-![New H1b bills](/assets/images/posts/h1b-new-bills-v1.0.PNG)
+![New H1b bills](/assets/images/posts/h1b-new-bills-v1.1.PNG)
+
+This page is to track all the latest developments around the H1b visa program.  This page will also track employment based legal immigration bills that affects H1b employees.
 
 A quick primer on the bill process in congress. Introduction of the bill is just the first step. It has to go through multiple and lengthier steps before it becomes a law. So, here are the bills introduced so far,
 
