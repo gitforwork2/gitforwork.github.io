@@ -1,6 +1,6 @@
 ---
 layout: post
-title: H1b reform bills introduced and leaked Trump executive order - H1b visa news
+title: H1b reform bills introduced and rumoured Trump executive order - H1b visa news
 date: 2017-02-11
 tags: H1b executive-order L1 infrographic
 comments: true
