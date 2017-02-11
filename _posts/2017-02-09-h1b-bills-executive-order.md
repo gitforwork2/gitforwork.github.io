@@ -8,7 +8,7 @@ description: Details about H1b reform bills introduced. Also about leaked Trump 
 ---
 
 Since the recent presidential elections, immigration issues including the H1b visa program have come under scrutiny. 
-Several reform bills are being introduced and then there was the rumoured executive order. Here is the summary of new bills,
+Several reform bills are being introduced and then there was the rumoured executive order. Here is the summary of 4 new bills and the rumoured executive order,
 
 ![New H1b bills](/assets/images/posts/h1b-new-bills-v1.1.PNG)
 
