@@ -7,7 +7,7 @@ comments: true
 description: Details about H1b reform bills introduced. Also about leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details
 ---
 
-Since the recent presidential elections, H1b visa program has become a hot topic. Several new reform bills are being introduced in the congress. And there was also a rumoured executive order. Here is the highlights of the 4 new bills and the rumoured executive order,
+Since the recent presidential elections, H1b visa program has become a hot topic. Several new reform bills are being introduced in the congress. And there was also a rumoured executive order. Here is the highlight of the 4 new bills and the rumoured executive order,
 
 ![New H1b bills](/assets/images/posts/h1b-new-bills-v1.1.PNG)
 
