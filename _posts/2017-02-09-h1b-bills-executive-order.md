@@ -1,7 +1,7 @@
 ---
 layout: post
 title: H1b reform bills introduced and leaked Trump executive order - H1b visa news
-date: 2017-02-09
+date: 2017-02-11
 tags: H1b executive-order L1
 comments: true
 description: Details about H1b reform bills introduced. Also about leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details
@@ -10,12 +10,15 @@ description: Details about H1b reform bills introduced. Also about leaked Trump 
 Since the recent presidential elections, immigration issues including the H1b visa program have come under scrutiny. 
 There was the executive order and then new bills are being proposed to the congress. It's in a transient state, and this page is to track all the latest developments around the H1b visa program.  This page will also track employment based legal immigration bills that affects H1b employees.
 
+![New H1b bills](/assets/images/posts/h1b-new-bills-v1.0.PNG)
+
 A quick primer on the bill process in congress. Introduction of the bill is just the first step. It has to go through multiple and lengthier steps before it becomes a law. So, here are the bills introduced so far,
 
 #### Table of Contents
  - [H1b $100K bill by Darrel Issa](#h1b-100k-bill-by-darrel-issa)
  - [H1b & L1 visa refrom bill by Chuck Grassley](#h1b--l1-visa-refrom-bill-by-chuck-grassley)
  - [H1b $130K bill by Zoe Lofgren](#h1b-130k-bill-by-zoe-lofgren)
+ - [Fairness bill by Jason Chaffetz](#fairness-bill-by-jason-chaffetz)
  - [Trump H1b visa executive order](#trump-h1b-visa-executive-order)
  
  
@@ -45,7 +48,9 @@ More formally: High-Skilled Integrity and Fairness Act of 2017 - Zoe Lofgren - C
  - Eliminate country cap: Employment based immigrant visas should be allocated to the more skilled worker regardless of country of origin. This ensures fairness to H1b worker by enabling them to change jobs and negotiate salary etc. Thus preventing any artificial wage depression caused in the market  
  - Remove visa hurdles for US educated foreign students to apply for permanent residency  
 
-#### Fairness for High-Skilled Immigrants Act of 2017 - Jason Chaffetz - Utah
+#### Fairness bill by Jason Chaffetz
+More formally: Fairness for High-Skilled Immigrants Act of 2017 - Jason Chaffetz - Utah
+
  - Eliminates the country cap for the employment based immigrant visas. This stops the H1b worker's dependency on the employer, there by ensuring easy job mobility and balanced job market.  
  - Employees from a single country cannot exceed 85% of total visas issued in a year 
 
