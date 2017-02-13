@@ -1,10 +1,10 @@
 ---
 layout: post
-title: H1b reform bills introduced and rumoured Trump executive order - H1b visa news
-date: 2017-02-11
+title: New H1b reform bills introduced so far and rumoured Trump executive order
+date: 2017-02-12
 tags: H1b executive-order L1 infrographic
 comments: true
-description: Details about H1b reform bills introduced. Also about leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details
+description: Details about new H1b reform bills introduced. Also about leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details
 ---
 
 Since the recent presidential elections, H1b visa program has become a hot topic. Several new reform bills are being introduced in the congress. And there was also a rumoured executive order. Here is the highlight of the 4 new bills and the rumoured executive order,
