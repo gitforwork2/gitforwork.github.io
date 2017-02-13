@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New H1b reform bills introduced so far and rumoured Trump executive order
+title: 4 new H1b bills in congress that are trying to make H1b great again
 date: 2017-02-12
 tags: H1b executive-order L1 infrographic
 comments: true
