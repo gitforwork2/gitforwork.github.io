@@ -43,7 +43,7 @@ More formally: H-1B and L-1 Visa Reform Act - Republican Chuck Grassley (Iowa) a
 #### H1b $130K bill by Zoe Lofgren
 More formally: High-Skilled Integrity and Fairness Act of 2017 - Zoe Lofgren - California
 
- - H1b dependent employers (15% or more employees are H1b) have to pay atleast $130K a year for hiring a new H1b employee 
+ - H1b dependent employers (15% or more employees are H1b) have to pay atleast $130K a year for hiring a new H1b employee (Exceptions allowed with supporting data)
  - 20% H1b visas reserved for small startup employers with less than 50 employees 
  - Replace the current H1b random lottery and award based on the order of salaries, starting from the highest.  
  - Eliminate country cap: Employment based immigrant visas should be allocated to the more skilled worker regardless of country of origin. This ensures fairness to H1b worker by enabling them to change jobs and negotiate salary etc. Thus preventing any artificial wage depression caused in the market  
