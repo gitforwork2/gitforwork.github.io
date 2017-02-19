@@ -23,6 +23,7 @@ Part-1
 Prevailing wage determination| Sponsoring Employer should get approval from Dept. of Labor (DOL) on the salary to be paid to the foreign national. DOL verifies that the foreign worker wage and working conditions are similiar to comparably employed U.S. workers    |Waived
 Hire a U.S. worker: Advertisements| The employer is required to advertise the job on it's own website, newspaper ads and DOL's job bank | Waived
 Hire a U.S. worker: Quiet period| The employer should try to recruit a U.S. worker for the advertised position atleast for 60 days. The resumes received, interviews conduted should be clearly documented| Waived
+Job duties and requirements market standardization | There are specific regulations governing the content of the job description, as well as the job requirements or qualifications| Waived
 Minimum wage|Must pay at least the minimum prevailing wage in the market|No minimum
 Education| US bachelors or equivalent matching the area of work|No minimum education required, as long as the worker has certain special skills
 Dependents work permit | Not allowed | Spouses are allowed to work from day one
