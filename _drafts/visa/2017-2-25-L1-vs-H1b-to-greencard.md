@@ -24,4 +24,8 @@ Hire a U.S. worker: Quiet period| The employer should try to recruit a U.S. work
 U.S. market standardization of qualifications| Market labor test ensures job descriptions, qualifications and salary are normalized to US market. USCIS regulations also govern the job description and qualifications.| Employer primarily defines the qualifications for the employee. Comparison to U.S. market standards doesn't happen because there is no labor market test. 
 Wait times|10+ years for employees born in countries like India and China. Immediate for other countries|Immediate for everyone including Indians. 
 
+##### References
+Eb1C data obtained from [USCIS](https://travel.state.gov/content/visas/en/law-and-policy/statistics/annual-reports.html)
+
+
 
