@@ -8,7 +8,8 @@ description: L1 vs H1b - path to green card. L1A advantages over H1b
 ---
 This is part 2 of our H1b vs L1 visa comparison. [H1b vs L1](/posts/H1b-vs-L1-infographic/) part 1 for more details.
 
-Both H1b and L1 visa are temporary non-immigrant visas. But people entering the U.S. can then apply for permanent residency (green card). However, H1b to green card can be very different from L1 to green card.
+Both H1b and L1 visa are temporary non-immigrant visas. But people entering the U.S. can then apply for permanent residency (green card). However, H1b to green card can be very different from L1 to green card. Typically, H1b workers obtain green card through visa categories called Eb2/3. And L1a typically obtain green card through Eb1c. Eb2/3 and Eb1c process are vastly different. Here is a summary.
+
 ![L1 vs H1b to green card](/assets/images/posts/L1vsH1b-to-greencard-v1.01.png)
 
 L1 visa holders and H1b visa holders have a couple of options to acquiring a permanent residency (green card) through their employers.
