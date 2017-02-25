@@ -8,9 +8,11 @@ description: L1 vs H1b - path to green card. L1A advantages over H1b
 ---
 This is part 2 of our H1b vs L1 visa comparison. [H1b vs L1](/posts/H1b-vs-L1-infographic/) part 1 for more details.
 
-Both H1b and L1 visas are temporary non-immigrant visas. But people entering the U.S. can then apply for permanent residency (green card). However, H1b to green card can be very different from L1 to green card. Typically, H1b workers obtain green card through permanent visa categories called Eb2/3. And some L1 visa workers follow the same path as H1b workers. But there is a sub category of L1 visa called L1a. These workers typically obtain green card through a category for international managers called Eb1c. Eb2/3 and Eb1c process are vastly different. Eb1c also takes the shortest time to obtain. No wonder the demand is becoming high. 
+In this post, we are comparing the path to permanent residency (green card) of H1b worker compared to L1 worker.
 
-![L1 vs H1b to green card](/assets/images/posts/L1vsH1b-to-greencard-v1.01.png)
+ ![L1 vs H1b to green card](/assets/images/posts/L1vsH1b-to-greencard-v1.01.png)
+
+Both H1b and L1 visas are temporary non-immigrant visas. But people entering the U.S. can then apply for permanent residency (green card). However, H1b to green card can be very different from L1 to green card. Typically, H1b workers obtain green card through permanent visa categories called Eb2/3. And some L1 visa workers follow the same path as H1b workers. But there is a sub category of L1 visa called L1a. These workers typically obtain green card through a category for international managers called Eb1c. Eb2/3 and Eb1c process are vastly different. Eb1c also takes the shortest time to obtain. No wonder the demand is becoming high. 
 
 L1 visa internally have 2 sub-categories L1A and L1B. L1B typically follow the same options as H1b visa holders. i.e., applying through the employers for Eb2 or Eb3. And L1A in some cases apply for Eb2 and Eb3. But in some cases their employers apply for them in Employment category 1, commonly referred to as Eb1C. People who qualify as "international managers" typically go through Eb1C. So, the primary path is Eb2/Eb3 or Eb1C. There are other Eb1 categories, but the qualification for those positions are very high and few people actually qualify.
 
