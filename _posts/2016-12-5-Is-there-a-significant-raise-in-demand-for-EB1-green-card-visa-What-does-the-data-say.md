@@ -53,6 +53,8 @@ believe that demand from other counties is cooling off.
 So, overall data doesn't seem to support recent demand "going through the roof". Visa numbers seems to be inline with historical 
 numbers over the last few years. If we get hold of country/company specific numbers may be things will change. 
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/13MwM9hmZoe7SOPsfaLmqp41Sem3BuZKCMnY8aP2Qv_g/pubchart?oid=2131404468&amp;format=interactive"></iframe>
+
 
 
 
