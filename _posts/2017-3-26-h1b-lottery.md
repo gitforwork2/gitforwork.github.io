@@ -1,13 +1,12 @@
 ---
 layout: post
-title: H1b lottery FY 2018 - 3 out of 5 petitions will be rejected
+title: H1b lottery - 3 out of 5 petitions will be rejected
 date: 2017-3-26
 tags: H1b lottery
 comments: true
 description: H1b lottery FY 2018 cap lottery prediction. 
 ---
-USCIS is going to start accepting brand new H1b visa applications in a week. Labor Condition Approval (LCA) is a prerequisite for 
-applying H1b visa. LCA data indicates robust demand for this year. We estimate that, 
+USCIS is going to start accepting new H1b visa applications for fiscal 2018 in a week. Labor Condition Approval (LCA) is a prerequisite for applying H1b visa. LCA data indicates robust demand for this year. We estimate that, 
 
 > 3 out of 5 new H1b petition will be rejected in the lottery.
 
