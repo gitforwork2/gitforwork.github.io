@@ -16,7 +16,7 @@ Nebraska | LIN-XX-XXX-XXXXX | October 2, 2016 |
 
 Note that the data published by USCIS can be delayed as much as 75 days. So, realistic current processing times is likey advanced by 
 approximately 30 days. So to arrive at the current processing dates add a month to the dates above. And this doesn't include the 
-premium processing times. Premium processing continues to take 15 days. But USCIS is suspending all H1b premium processing starting 
+premium processing times. H1b extension premium processing times continues to take roughly upto 15 days. But USCIS is suspending all H1b premium processing starting 
 April 3rd 2017. This can last upto 6 months.
 
 Following is the historical H1b extension processing times,
