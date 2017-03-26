@@ -17,8 +17,7 @@ Here is the data that we publish by tracking LCA data published by DOL.
 
 ![H1b-lottery-prediction](/assets/images/posts/h1b-lottery-prediction.png)
 
-The above data is frequently updated. Hence, the estimation might vary as we get closer to the lottery. H1b visa became an election issue in the last year's presidential election.
-So far in 2017 there has been several H1b bills introduced in congress. And more are being announced every passing week. Since it takes a while for a bill to be passed into a law, there is not sufficient time left to
+The above data is frequently updated. Hence, the estimation might vary as we get closer to the lottery. H1b visa became an election issue in the last year's presidential election. So far in 2017 there has been several [H1b bills introduced in congress](/posts/h1b-bills-executive-order/). And more are being announced every passing week. Since it takes a while for a bill to be passed into a law, there is not sufficient time left to
 make changes for this years quota. Though legally there are no changes, employers who depend on H1b already are making adjustments. 
 For example, 
 
