@@ -8,8 +8,7 @@ description: H1b lottery FY 2018 cap lottery prediction.
 ---
 What is EB-5 visa?
 
-EB-5 visa is a visa category which allows foreign nationals obtain permanent residency (green card) by making investments in a US business. 
-EB-5 visa recipients (foreign nationals and their families) can permanently live and work in the U.S, with a path to U.S. citizenship. 
+EB-5 visa is a visa category which allows foreign nationals obtain permanent residency (green card) by making investments in a US business. EB-5 visa recipients (foreign nationals and their families) can permanently live and work in the U.S, with a path to U.S. citizenship. 
 The program administered by the United States Citizenship and Immigration Services (USCIS), was primarily created to create jobs through capital investment from foreign investors. 
 <image>
 
@@ -31,13 +30,13 @@ Currently USCIS takes about 1-2 years to process an EB-5 petition. EB-5 processi
 10,000 EB-5 visas are available every year for foreign investors. While the demand for EB-5 investors was low in the last 2 decades, it has been increasing since the turn of the decade.
 The demand is driven by Asian businessmen looking to immigrate to the U.S. The local industry is also helping the growth by creating projects in the regional centers to attract overseas investments. 
 
---
+---
 
 National Origin of EB-5 Visa Recipients, [2016 data](https://travel.state.gov/content/dam/visas/Statistics/AnnualReports/FY2016AnnualReport/FY16AnnualReport-TableVI-PartIV.pdf)
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1oVFMB5-QszwOnKqJlAwxRz9YE2zaoK-9ziLL-O7OHPA/pubchart?oid=894968891&amp;format=interactive"></iframe>
 
---
+---
 
 EB-5 Regional Center projects
 
