@@ -44,6 +44,15 @@ But the EB-5 petitioners through new commercial enterprise can only count the di
 Currently there are over 1000 approved regional centers spread across various states. 
 <USCIS link to the location>
 
+Eb-5 regional centers which are also in designated TEA areas are the most popular option.
+
+EB-5 visa  economic vehicle | # of approvals 
+---------- | ------ 
+Commercial Enterprise|  103
+Commercial Enterprise in a TEA area|  350
+Regional Center|  9
+Regional Center in a TEA area|  8,043
+
 
 keywords:
 eb5 regional center
