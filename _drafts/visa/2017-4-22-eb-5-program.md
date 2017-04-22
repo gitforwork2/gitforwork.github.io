@@ -30,8 +30,14 @@ Currently USCIS takes about 1-2 years to process an EB-5 petition. EB-5 processi
 
 10,000 EB-5 visas are available every year for foreign investors. While the demand for EB-5 investors was low in the last 2 decades, it has been increasing since the turn of the decade.
 The demand is driven by Asian businessmen looking to immigrate to the U.S. The local industry is also helping the growth by creating projects in the regional centers to attract overseas investments. 
-<which country gets the most GCs on eb5>
 
+---
+
+National Origin of EB-5 Visa Recipients, [2016 data](https://travel.state.gov/content/dam/visas/Statistics/AnnualReports/FY2016AnnualReport/FY16AnnualReport-TableVI-PartIV.pdf)
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1oVFMB5-QszwOnKqJlAwxRz9YE2zaoK-9ziLL-O7OHPA/pubchart?oid=894968891&amp;format=image"></iframe>
+
+---
 
 EB-5 Regional Center projects
 
@@ -45,7 +51,9 @@ Currently there are over 1000 approved regional centers spread across various st
 <USCIS link to the location>
 
 Eb-5 regional centers which are also in designated TEA areas are the most popular option by a large margin.
-Following is the 2016 EB-5 data [published](https://travel.state.gov/content/dam/visas/Statistics/AnnualReports/FY2016AnnualReport/FY16AnnualReport-TableVI-PartIV.pdf) by the government. 
+
+---
+Economic Vehicle of EB-5 Visa Recipients, [2016 data](https://travel.state.gov/content/dam/visas/Statistics/AnnualReports/FY2016AnnualReport/FY16AnnualReport-TableVI-PartIV.pdf)
 
 EB-5 visa  economic vehicle | # of approvals 
 ---------- | ------ 
@@ -53,6 +61,8 @@ Commercial Enterprise|  103
 Commercial Enterprise in a TEA area|  350
 Regional Center|  9
 Regional Center in a TEA area|  8,043
+
+---
 
 keywords:
 eb5 regional center
