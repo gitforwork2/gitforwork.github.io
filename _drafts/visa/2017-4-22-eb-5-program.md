@@ -46,6 +46,7 @@ Currently there are over 1000 approved regional centers spread across various st
 
 Eb-5 regional centers which are also in designated TEA areas are the most popular option by a large margin.
 Following is the 2016 EB-5 data [published](https://travel.state.gov/content/dam/visas/Statistics/AnnualReports/FY2016AnnualReport/FY16AnnualReport-TableVI-PartIV.pdf) by the government. 
+
 EB-5 visa  economic vehicle | # of approvals 
 ---------- | ------ 
 Commercial Enterprise|  103
