@@ -7,7 +7,7 @@ comments: true
 description: H4 EAD documents complete list. Printable checklist for H4 EAD application process.
 canonical: posts/h4-ead-application/
 ---
-This is the printable document checklist for [H4 EAD application process](/posts/h4-ead-application/)
+This is the printable document checklist for [H4 EAD application]({{ site.url }}posts/h4-ead-application/)
 
 ## H4 EAD Documents checklist
 
