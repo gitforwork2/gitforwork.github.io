@@ -1,13 +1,13 @@
 ---
 layout: post
-title: H4 EAD application process and documents - 2017 Guide
+title: H4 EAD application process - 2017 Guide + FAQ
 date: 2017-04-29
 tags: H4 EAD
 comments: true
 description: H4 EAD application process. Comprehensive guide for 2017 covering eligibility, fees, address, faq etc.
 ---
 If you are looking for H4 EAD application process and documentation, you have come to the right place. Applying for EAD and Social Security Number (SSN) can be a long a process. This guide is to cover the steps for obtaining EAD work permit.
-![H4-EAD-sample](/assets/images/posts/h4-ead-sample.jpg)
+![H4-EAD-sample]({{ site.url }}assets/images/posts/h4-ead-sample.jpg)
 
 Heads up, keep your immigration documents, checkbooks ready. You may also have to print/copy/fill certain documents and also you will need two passport sized photographs.
 
@@ -46,7 +46,7 @@ USCIS also offers a service to notify you electronically (email, text), when you
 To avoid unnecessary delays, make sure the form is signed. And it should also be accompanied by the correct fee. USCIS will reject the application in either case. And you will have to refile with the issues fixed.
 
 ## H4 EAD Documents checklist
-Find printer friendly [H4 EAD documents checklist]({{ site.url }}posts/h4-ead-documents-checklist/)
+Find printer friendly [H4 EAD documents]({{ site.url }}posts/h4-ead-documents-checklist/) checklist
 
 ##### Documents from H4 visa holder
 

@@ -10,7 +10,7 @@ This is part 2 of our H1b vs L1 visa comparison. [H1b vs L1]({{ site.url }}posts
 
 In this post, we are comparing the path to permanent residency (green card) of H1b worker compared to L1 worker.
 
- ![L1 vs H1b to green card](/assets/images/posts/L1vsH1b-to-greencard-v1.01.png)
+ ![L1 vs H1b to green card]({{ site.url }}assets/images/posts/L1vsH1b-to-greencard-v1.01.png)
 
 Both H1b and L1 visas are temporary non-immigrant visas. But people entering the U.S. can then apply for permanent residency (green card). However, H1b to green card can be very different from L1 to green card. Typically, H1b workers obtain green card through permanent visa categories called Eb2/3. And some L1 visa workers follow the same path as H1b workers. But there is a sub category of L1 visa called L1a. These workers typically obtain green card through a category for international managers called Eb1c. Eb2/3 and Eb1c process are vastly different. Eb1c also takes the shortest time to obtain. No wonder the demand is becoming high.
 

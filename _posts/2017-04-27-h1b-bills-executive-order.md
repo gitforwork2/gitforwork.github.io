@@ -9,7 +9,7 @@ description: Details about new H1b reform bills introduced. Also about leaked Tr
 
 Since the recent presidential elections, H1b visa program has become a hot topic. Several new reform bills are being introduced in the congress. In fact, H1b and [EB-5 visa]({{ site.url }}posts/eb-5/) are the two legal immigration programs law makers are trying to reform lately. And there was also the executive order for the H1b. Here is the highlight of the 4 new H1b bills and the rumoured executive order,
 
-![New H1b bills](/assets/images/posts/h1b-new-bills-v1.1.PNG)
+![New H1b bills]({{ site.url }}assets/images/posts/h1b-new-bills-v1.1.PNG)
 
 This page will also track employment based legal immigration bills that affects H1b employees.
 

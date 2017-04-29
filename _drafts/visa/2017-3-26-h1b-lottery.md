@@ -16,7 +16,7 @@ Every year USCIS starts accepting new H1b visas starting in April. Before applyi
 Despite H1b becoming an election issue, no law changes happened for this year's quota. So our estimate for this year is 230,000 (+- 10%) petitions for the available quota of 85,000 visas. That roughly means 3 out every 5 new H1b visas would be rejected.
 Here is the data that we publish by tracking LCA data published by DOL.
 
-![H1b-lottery-prediction](/assets/images/posts/h1b-lottery-prediction.png)
+![H1b-lottery-prediction]({{ site.url }}assets/images/posts/h1b-lottery-prediction.png)
 
 The above data is frequently updated. Hence, the estimation might vary as we get closer to the lottery. H1b visa became an election issue in the last year's presidential election.
 So far in 2017 there has been several H1b bills introduced in congress. And more are being announced every passing week. Since it takes a while for a bill to be passed into a law, there is not sufficient time left to
@@ -30,7 +30,7 @@ But not all of the employers may react the same way. It's certain that some new 
 as many H1b visas as possible. How all of this shake out can be known in 2 weeks. But to some extent we can estimate by tracking LCA.
 Demand has been strong for the last 3 years. With economy doing well it may be the case this year too. Here are the historical trends about the H1b lottery.
 
-![H1b-lottery](/assets/images/posts/h1b-lottery-v1.0.png)
+![H1b-lottery]({{ site.url }}assets/images/posts/h1b-lottery-v1.0.png)
 
 LCA data indicates robust demand. In fact, the last update indicates some uptick in LCAs comparable to last 2 years at this time.  Whether this is just random or becomes a trend we will see in the coming days.
 You can follow us on [H1b 2018]({{ site.url }}posts/h1b-2018-lottery/) trends.
