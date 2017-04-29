@@ -47,7 +47,7 @@ make it easy to identify the information you are requesting.
 
 ### Step 2: Fill Form G 639
 USCIS prefers the form G-639 to be used for FOIA.
-[Get an overview of the form](/posts/i140-foia-form-g-639-instruction/)
+[Get an overview of the form]({{ site.url }}posts/i140-foia-form-g-639-instruction/)
 
 ### Step 3: Send the form
 Sign the form under perjury (Summary: You agree to face consequences under US laws, if the application contains wrong information. [Formal explanation](https://www.uscis.gov/tools/glossary/declaration-under-penalty-perjury))
@@ -112,4 +112,4 @@ Thus, it may be possible to obtain copies your own records, but not the records 
 
 ### OK I am ready to file. What are the steps to request the I140 information?
  You will have to fill the latest [G639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf) form.
- [Check g 639 instructions](/posts/i140-foia-form-g-639-instruction/) of this blog has more information.
+ [Check g 639 instructions]({{ site.url }}posts/i140-foia-form-g-639-instruction/) of this blog has more information.
