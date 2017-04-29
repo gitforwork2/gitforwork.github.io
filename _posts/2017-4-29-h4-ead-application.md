@@ -1,7 +1,7 @@
 ---
 layout: post
 title: H4 EAD application process - 2017 Guide + FAQ
-date: 2017-04-29
+date: 2017-4-29
 tags: H4 EAD
 comments: true
 description: H4 EAD application process. Comprehensive guide for 2017 covering eligibility, fees, address, faq etc.

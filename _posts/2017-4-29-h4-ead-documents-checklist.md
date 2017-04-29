@@ -1,7 +1,7 @@
 ---
 layout: post
 title: H4 EAD documents - popular checklist. Print, follow and avoid mistakes!
-date: 2017-04-29
+date: 2017-4-29
 tags: H4 EAD
 comments: true
 description: H4 EAD documents complete list for H4 EAD application. Photos, check, e-notification, immigration

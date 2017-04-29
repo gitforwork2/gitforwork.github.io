@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 new H1b bills in congress that are trying to make H1b great again
-date: 2017-04-27
+date: 2017-4-27
 tags: H1b executive-order L1 infographic
 comments: true
 description: Details about new H1b reform bills introduced. Also about leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details
