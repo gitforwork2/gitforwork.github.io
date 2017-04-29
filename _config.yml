@@ -10,7 +10,7 @@ permalink:        /posts/:title/
 # Setup
 title:            FrontSimple
 tagline:          ""
-description:      'Personal blog'
+description:      'Be an informed immigrant'
 url:              https://frontsimple.com/
 baseurl:          '/'
 paginate:         3

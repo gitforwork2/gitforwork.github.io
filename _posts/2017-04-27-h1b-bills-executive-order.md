@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 4 new H1b bills in congress that are trying to make H1b great again
-date: 2017-02-12
+date: 2017-04-27
 tags: H1b executive-order L1 infographic
 comments: true
 description: Details about new H1b reform bills introduced. Also about leaked Trump executive order. Zoe Lofgren and Chuck Grassley bill details
 ---
 
-Since the recent presidential elections, H1b visa program has become a hot topic. Several new reform bills are being introduced in the congress. And there was also a rumoured executive order. Here is the highlight of the 4 new bills and the rumoured executive order,
+Since the recent presidential elections, H1b visa program has become a hot topic. Several new reform bills are being introduced in the congress. In fact, H1b and [EB-5 visa](/posts/eb-5/) are the two legal immigration programs law makers are trying to reform lately. And there was also the executive order for the H1b. Here is the highlight of the 4 new H1b bills and the rumoured executive order,
 
 ![New H1b bills](/assets/images/posts/h1b-new-bills-v1.1.PNG)
 

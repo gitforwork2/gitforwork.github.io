@@ -1,7 +1,7 @@
 ---
 layout: post
 title: H4 EAD application process and documents - 2017 Guide 
-date: 2017-02-19
+date: 2017-03-13
 tags: H4 EAD
 comments: true
 description: H4 Visa EAD documents and application. EAD for H4 - Complete guide. 2017 Guide
@@ -19,7 +19,7 @@ With that, let's proceed to the actual steps,
  - [H4 EAD application fee](#h4-ead-application-fee)
  - [Form I-765](#form-i-765)
  - [H4 EAD documents checklist](#h4-ead-documents-checklist)
- - [H4 EAD ailing address](#h4-ead-filing-address)
+ - [H4 EAD filing address](#h4-ead-filing-address)
  - [H4 EAD approval times](#h4-ead-approval-times)
  - [H4 EAD status](#h4-ead-status)
  - [H4 EAD faq](#h4-ead-faq)
@@ -121,7 +121,7 @@ If you do not receive your receipt notice by December 26, 2016, please call Cust
 ## H4 EAD status
 Once you get the receipt number, H4 EAD status can be [checked on USCIS site](https://egov.uscis.gov/casestatus/landing.do).
 
-Pending H4 EAD application don't give any valid status for employment purposes. You are authorized to work only after the application is approved and only through the expiry date. Usually the EAD expiry date is tied to the H4 visa expiry.  H4 EAD renewal can be started no sooner than 120 days prior to expiry.
+Pending H4 EAD application don't give any valid status for employment purposes. You are authorized to work only after the application is approved and only through the expiry date. Usually the EAD expiry date is tied to the H4 visa expiry.  H4 EAD renewal can be started no sooner than 180 days prior to expiry.
 
 H4 applicant also need to [apply for Social Security Number (SSN)](/posts/h4-ead-ssn-application-faq/) for getting back to work. SSN can be applied only after receiving the EAD card. And EAD approval notices cannot be used to apply SSN. 
 
