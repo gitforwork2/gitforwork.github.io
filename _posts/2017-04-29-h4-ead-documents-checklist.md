@@ -1,6 +1,6 @@
 ---
 layout: post
-title: H4 EAD documents - Most popular checklist. Avoid mistakes - easy follow and printable.
+title: H4 EAD documents - popular checklist. Print and avoid mistakes
 date: 2017-04-29
 tags: H4 EAD
 comments: true
