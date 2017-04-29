@@ -1,10 +1,10 @@
 ---
 layout: post
 title: H4 EAD application process and documents - 2017 Guide
-date: 2017-03-13
+date: 2017-04-29
 tags: H4 EAD
 comments: true
-description: H4 Visa EAD documents and application. EAD for H4 - Complete guide. 2017 Guide
+description: H4 EAD application process. Comprehensive guide for 2017 covering eligibility, fees, address, faq etc.
 ---
 If you are looking for H4 EAD application process and documentation, you have come to the right place. Applying for EAD and Social Security Number (SSN) can be a long a process. This guide is to cover the steps for obtaining EAD work permit.
 ![H4-EAD-sample](/assets/images/posts/h4-ead-sample.jpg)
