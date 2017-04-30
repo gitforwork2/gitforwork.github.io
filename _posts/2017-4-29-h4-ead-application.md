@@ -1,6 +1,6 @@
 ---
 layout: post
-title: H4 EAD application process - 2017 Updated guide + FAQ
+title: H4 EAD application process and documents - 2017 Updated guide + FAQ
 date: 2017-4-29
 tags: H4 EAD
 comments: true
