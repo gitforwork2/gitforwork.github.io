@@ -9,8 +9,8 @@ permalink:        /posts/:title/
 
 # Setup
 title:            FrontSimple
-tagline:          "Be an informed immigrant"
-description:      'frontsimple.com - Comprehensive information on immigrantion visas including H1b, H4 EAD, EB-5 visas and more'
+tagline:          "For the informed immigrant"
+description:      'Comprehensive immigrantion information including H1b visa, H4 EAD, EB-5 visa and other visas'
 url:              https://frontsimple.com/
 baseurl:          '/'
 paginate:         3
