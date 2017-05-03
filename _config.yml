@@ -10,7 +10,7 @@ permalink:        /posts/:title/
 # Setup
 title:            FrontSimple
 tagline:          ""
-description:      'Comprehensive immigration visa information including H1b, H4 EAD, EB-5 and other visas'
+description:      'For the informed immigrant. H1b, H4-EAD, EB-5 visas'
 url:              https://frontsimple.com/
 baseurl:          '/'
 paginate:         3
