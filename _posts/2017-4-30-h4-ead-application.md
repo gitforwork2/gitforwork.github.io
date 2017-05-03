@@ -23,13 +23,13 @@ With that, let's proceed to the actual steps,
  - [H4 EAD status](#h4-ead-status)
  - [H4 EAD faq](#h4-ead-faq)
 
-![H4-EAD-sample]({{ site.url }}assets/images/posts/h4-ead-sample.jpg)
-
 ## H4 EAD Eligibility
 
 Principal H1b non-immigrant should be a primary beneficiary of an approved Form I-140 Immigration petition. H4 dependent spouses of such individuals are eligible to apply for EAD.
 
 Even if you are currently not on H4 visa, but planning to change the status from other visa types you may be eligible. For example, H1 to H4 EAD applications can be concurrently applied. Similarly, USCIS also allows concurrent filing of F1 to H4 EAD change of status.
+
+![H4-EAD-sample]({{ site.url }}assets/images/posts/h4-ead-sample.jpg)
 
 ## H4 EAD premium processing
 Even though H4 EAD application cannot be applied in premium processing, it can take advantage of the H1b premium processing in certain scenarios. H4 EAD application can be bundled with the spouse's H1b extension package. And when such primary H1b application is applied through premium processing, USCIS applies the premium processing to H4 EAD too. So, you can get results within 15 days along with H1b results. If you plan ahead, you can take advantage of this feature. You just have to work with the H1b employer's attorneys to include the EAD application.  
