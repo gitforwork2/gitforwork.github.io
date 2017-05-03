@@ -4,7 +4,7 @@ title: H4 EAD application, documents, premium processing in 2017 - Complete guid
 date: 2017-5-3
 tags: H4-EAD
 comments: true
-description: Is your H4 EAD application accurate? Used by 1000s of successful H4 EAD applicants. Avoid errors & unnecessary job delays, with this easy-follow guide.  
+description: Is your H4 EAD application right? Avoid errors and expensive($$$) job delays. Join 1000s of successful applicants who used this H4 EAD application guide!
 ---
 H4 EAD application should be accurate to avoid unnecessary job delays and job interruptions. This detailed guide will help you gather the correct H4 EAD documents, fill the forms and beyond. 
 
