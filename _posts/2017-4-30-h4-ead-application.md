@@ -1,12 +1,12 @@
 ---
 layout: post
-title: H4 EAD application, documents, premium processing in 2017 - Accurate guide
-date: 2017-5-4
+title: H4 EAD application, documents, premium processing in 2017 - Complete guide
+date: 2017-5-3
 tags: H4-EAD
 comments: true
-description: Is your H4 EAD application correct? Follow this accurate and printable checklist to avoid mistakes and job interruptions.Trusted and used by 1000s of people. 
+description: Is your H4 EAD application accurate? Used by 1000s of successful H4 EAD applicants. Avoid errors & unnecessary job delays, with this easy-follow guide.  
 ---
-If you are looking for H4 EAD application process and documentation, you have come to the right place. Applying for EAD and Social Security Number (SSN) can be a long a process. This guide is to cover the steps for obtaining EAD work permit.
+H4 EAD application should be accurate to avoid unnecessary job delays and job interruptions. This detailed guide will help you gather the correct H4 EAD documents, fill the forms and beyond. 
 
 Heads up, keep your immigration documents, checkbooks ready. You may also have to print/copy/fill certain documents and also you will need two passport sized photographs.
 
@@ -32,7 +32,7 @@ Principal H1b non-immigrant should be a primary beneficiary of an approved Form 
 Even if you are currently not on H4 visa, but planning to change the status from other visa types you may be eligible. For example, H1 to H4 EAD applications can be concurrently applied. Similarly, USCIS also allows concurrent filing of F1 to H4 EAD change of status.
 
 ## H4 EAD premium processing
-H4 EAD application doesn't have premium processing on it's own. However, if your primary H1b spouse is due for a H1b extension, then H4 EAD can also be included with that application. If such H1b extension petitions are upgraded to premium processing, then as a courtesy USCIS also approves EAD within the premium time frame.
+Even though H4 EAD application cannot be applied in premium processing, it can take advantage of the H1b premium processing in certain scenarios. H4 EAD application can be bundled with the spouse's H1b extension package. And when such primary H1b application is applied through premium processing, USCIS applies the premium processing to H4 EAD too. So, you can get results within 15 days along with H1b results. If you plan ahead, you can take advantage of this feature. You just have to work with the H1b employer's attorneys to include the EAD application.  
 
 ## H4 EAD Application fee
 $410 as of January 2017 (It used to be $380 earlier). Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
@@ -51,21 +51,23 @@ Find printer friendly [H4 EAD documents]({{ site.url }}posts/h4-ead-documents-ch
 
 ##### Documents from H4 visa holder
 
-1. <input type="checkbox"/> Check for $410, payable to "US Department of Homeland Security"
-2. <input type="checkbox"/> Two identical 2x2-inch color passport-style photo
-3. <input type="checkbox"/> Proof of H4 status
+* Check for $410, payable to "US Department of Homeland Security"
+* Two identical 2x2-inch color passport-style photo
+* Proof of H4 status
     - A copy of I-94, [obtained at the port of entry](https://i94.cbp.dhs.gov/I94/#/recent-search) as H4
     - A copy of approved Form I-797 for H4 visa
-4. <input type="checkbox"/> Identification document with photo
+* Identification document with photo
     - A copy of recent EAD (If available)
     - A copy of passport with biometric information (example: first and last page) and the visa page (if present)
     - A copy of birth certificate with photo ID
     - A copy of national photo ID
-5. <input type="checkbox"/> A copy of marriage certificate
-6. <input type="checkbox"/> Completed [Form I-765](http://www.uscis.gov/i-765)
+* A copy of marriage certificate
+* Completed [Form I-765](http://www.uscis.gov/i-765)
     - Write (c)(26) for eligibility criteria
-7. <input type="checkbox"/> **Primary H1 visa holder document:** A copy of approved I-140 (I-797 approval notice). Request from your Employer or [file a FOIA]({{ site.url }}posts/how-to-request-FOIA-from-USCIS/) if not available
-8. <input type="checkbox"/> **E-notification (optional):** Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
+* **Primary H1 visa holder document:** 
+    - A copy of approved I-140 (I-797 approval notice). Request from your Employer or [file a FOIA]({{ site.url }}posts/how-to-request-  FOIA-from-USCIS/) if not available
+* **E-notification (optional):** 
+    Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
 
 ## H4 EAD filing address
 Physical filing address varies according to the H1b principal's I-797 approval notice. Also, the address given here are only for making a stand alone EAD card. If your making an EAD application in addition to a primary purpose like H4 extension or chage of status then you would send everything to the appropriate address for the primary application.
