@@ -4,7 +4,7 @@ title: H4 EAD application, documents, premium processing in 2017 - Complete guid
 date: 2017-5-3
 tags: H4-EAD
 comments: true
-description: Is your H4 EAD application right? Avoid errors and expensive($$$) job delays. Join 1000s of successful applicants who used this H4 EAD application guide!
+description: Is your H4 EAD application right? Avoid errors and expensive($$$) job delays. Join 1000s of successful applicants who used this 100% accurate guide!
 ---
 H4 EAD application should be accurate to avoid unnecessary job delays and job interruptions. This detailed guide will help you gather the correct H4 EAD documents, fill the forms and beyond. 
 
@@ -23,7 +23,7 @@ With that, let's proceed to the actual steps,
  - [H4 EAD status](#h4-ead-status)
  - [H4 EAD faq](#h4-ead-faq)
 
-### H4 EAD Eligibility
+## H4 EAD Eligibility
 
 Principal H1b non-immigrant should be a primary beneficiary of an approved Form I-140 Immigration petition. H4 dependent spouses of such individuals are eligible to apply for EAD.
 
@@ -31,21 +31,21 @@ Even if you are currently not on H4 visa, but planning to change the status from
 
 ![H4-EAD-sample]({{ site.url }}assets/images/posts/h4-ead-sample.jpg)
 
-### H4 EAD premium processing
+## H4 EAD premium processing
 Even though H4 EAD application cannot be applied in premium processing, it can take advantage of the H1b premium processing in certain scenarios. H4 EAD application can be bundled with the spouse's H1b extension package. And when such primary H1b application is applied through premium processing, USCIS applies the premium processing to H4 EAD too. So, you can get results within 15 days along with H1b results. If you plan ahead, you can take advantage of this feature. You just have to work with the H1b employer's attorneys to include the EAD application.  
 
-### H4 EAD Application fee
+## H4 EAD Application fee
 $410 as of January 2017 (It used to be $380 earlier). Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
 Make a cashier's check or personal check, payable to "US Department of Homeland Security". No online payments are available at this point.
 
-### Form I-765
+## Form I-765
 You would have to fill the [form I-765](http://www.uscis.gov/i-765) for requesting EAD. Make sure all the information are clear and correct. Importantly, the H4 applicant should sign the form. It's a good idea to keep a copy of the completed form for own records.
 
 USCIS also offers a service to notify you electronically (email, text), when your form I-765 is accepted at their facility. This is an optional service. But if you want to use it then you would have to include the completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf).
 
 > To avoid unnecessary delays, make sure the form is signed. And it should also be accompanied by the correct fee. USCIS will reject the > application in either case. And you will have to refile with the issues fixed.
 
-### H4 EAD Documents checklist
+## H4 EAD Documents checklist
 Find printer friendly [H4 EAD documents]({{ site.url }}posts/h4-ead-documents-checklist/) checklist
 
 ##### Documents from H4 visa holder
@@ -68,7 +68,7 @@ Find printer friendly [H4 EAD documents]({{ site.url }}posts/h4-ead-documents-ch
 * **E-notification (optional):** 
     Completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf)
 
-### H4 EAD filing address
+## H4 EAD filing address
 Physical filing address varies according to the H1b principal's I-797 approval notice. Also, the address given here are only for making a stand alone EAD card. If your making an EAD application in addition to a primary purpose like H4 extension or chage of status then you would send everything to the appropriate address for the primary application.
 
 If the receipt number begins with **EAC** or **LIN**, then you would apply to USCIS Dallas lockbox.
@@ -104,7 +104,7 @@ For overnight/courier deliveries (non-USPS):
 > Suite 100   
 > Phoenix, AZ 85034   
 
-### H4 EAD approval times
+## H4 EAD approval times
 
 Upon receiving the form, USCIS checks the form for completeness and accompanied evidences. The application will be rejected for any deficiency. Until USCIS accepts the application, the form is not considered properly filed.
 
@@ -120,14 +120,14 @@ If you do not receive your receipt notice by December 26, 2016, please call Cust
 
 ```
 
-### H4 EAD status
+## H4 EAD status
 Once you get the receipt number, H4 EAD status can be [checked on USCIS site](https://egov.uscis.gov/casestatus/landing.do).
 
 Pending H4 EAD application don't give any valid status for employment purposes. You are authorized to work only after the application is approved and only through the expiry date. Usually the EAD expiry date is tied to the H4 visa expiry.  H4 EAD renewal can be started no sooner than 180 days prior to expiry.
 
 H4 applicant also need to [apply for Social Security Number (SSN)]({{ site.url }}posts/h4-ead-ssn-application-faq/) for getting back to work. SSN can be applied only after receiving the EAD card. And EAD approval notices cannot be used to apply SSN.
 
-### H4 EAD faq
+## H4 EAD faq
 
 #### Is there a minimum salary required for H4 EAD job?
 No. H4 EAD doesn't pronounce any minimum salary requirements.
