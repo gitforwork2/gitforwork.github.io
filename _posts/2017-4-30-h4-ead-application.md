@@ -4,7 +4,7 @@ title: H4 EAD application, documents, premium processing in 2017 - Accurate guid
 date: 2017-5-4
 tags: H4-EAD
 comments: true
-description: Are you preparing your H4 EAD application and documents correctly? Follow this popular guide and printable checklist to avoid mistakes and job interruptions.
+description: Is your H4 EAD application correct? Follow this accurate and printable checklist to avoid mistakes and job interruptions.Trusted and used by 1000s of people. 
 ---
 If you are looking for H4 EAD application process and documentation, you have come to the right place. Applying for EAD and Social Security Number (SSN) can be a long a process. This guide is to cover the steps for obtaining EAD work permit.
 
