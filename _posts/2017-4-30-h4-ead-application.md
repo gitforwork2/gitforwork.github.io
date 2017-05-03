@@ -74,35 +74,35 @@ Physical filing address varies according to the H1b principal's I-797 approval n
 If the receipt number begins with **EAC** or **LIN**, then you would apply to USCIS Dallas lockbox.
 For U.S. Postal Service (USPS) First-Class and Priority Mail Express deliveries:
 
-> USCIS
-> Attn: H4
-> P.O. Box 660921
-> Dallas, TX 75266
+> USCIS 
+> Attn: H4 
+> P.O. Box 660921 
+> Dallas, TX 75266 
 
 For overnight/courier deliveries (non-USPS):
 
-> USCIS
-> Attn: H4
-> 2501 S. State Hwy. 121 Business
-> Suite 400
-> Lewisville, TX 75067
+> USCIS 
+> Attn: H4 
+> 2501 S. State Hwy. 121 Business 
+> Suite 400 
+> Lewisville, TX 75067 
 
 
 If the receipt number begins with **WAC**, then you would apply to USCIS Phoenix  lockbox.
 For U.S. Postal Service (USPS) First-Class and Priority Mail Express deliveries:
 
-> USCIS
-> Attn: H4
-> P.O. Box 20400
-> Phoenix, AZ 85036
+> USCIS 
+> Attn: H4  
+> P.O. Box 20400  
+> Phoenix, AZ 85036  
 
 For overnight/courier deliveries (non-USPS):
 
-> USCIS
-> Attn: H4
-> 1820 E. Skyharbor Circle S
-> Suite 100
-> Phoenix, AZ 85034
+> USCIS 
+> Attn: H4 
+> 1820 E. Skyharbor Circle S 
+> Suite 100  
+> Phoenix, AZ 85034  
 
 ### H4 EAD approval times
 
