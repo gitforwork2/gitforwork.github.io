@@ -1,13 +1,12 @@
 ---
 layout: post
-title: H4 EAD application process and documents 2017 - Popular and accurate guide
-date: 2017-4-30
+title: H4 EAD application, documents, premium processing in 2017 - Accurate guide
+date: 2017-5-4
 tags: H4-EAD
 comments: true
-description: Are you preparing your H4 EAD application and documents correctly? Follow this popular guide and printable checklist to avoid mistakes and job interruptions. 
+description: Are you preparing your H4 EAD application and documents correctly? Follow this popular guide and printable checklist to avoid mistakes and job interruptions.
 ---
 If you are looking for H4 EAD application process and documentation, you have come to the right place. Applying for EAD and Social Security Number (SSN) can be a long a process. This guide is to cover the steps for obtaining EAD work permit.
-![H4-EAD-sample]({{ site.url }}assets/images/posts/h4-ead-sample.jpg)
 
 Heads up, keep your immigration documents, checkbooks ready. You may also have to print/copy/fill certain documents and also you will need two passport sized photographs.
 
@@ -24,6 +23,8 @@ With that, let's proceed to the actual steps,
  - [H4 EAD status](#h4-ead-status)
  - [H4 EAD faq](#h4-ead-faq)
 
+![H4-EAD-sample]({{ site.url }}assets/images/posts/h4-ead-sample.jpg)
+
 ## H4 EAD Eligibility
 
 Principal H1b non-immigrant should be a primary beneficiary of an approved Form I-140 Immigration petition. H4 dependent spouses of such individuals are eligible to apply for EAD.
@@ -31,7 +32,7 @@ Principal H1b non-immigrant should be a primary beneficiary of an approved Form 
 Even if you are currently not on H4 visa, but planning to change the status from other visa types you may be eligible. For example, H1 to H4 EAD applications can be concurrently applied. Similarly, USCIS also allows concurrent filing of F1 to H4 EAD change of status.
 
 ## H4 EAD premium processing
-H4 EAD application doesn't have premium processing on it's own. But, if your primary H1b spouse is due for H1b extension, then H4 EAD can also be included with that application. If such H1b extension petitions are upgraded to premium processing, then as a courtesy USCIS also approves EAD within the premium time frame.
+H4 EAD application doesn't have premium processing on it's own. However, if your primary H1b spouse is due for a H1b extension, then H4 EAD can also be included with that application. If such H1b extension petitions are upgraded to premium processing, then as a courtesy USCIS also approves EAD within the premium time frame.
 
 ## H4 EAD Application fee
 $410 as of January 2017 (It used to be $380 earlier). Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
