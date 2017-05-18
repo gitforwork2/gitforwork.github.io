@@ -11,14 +11,12 @@ description: 1300+ USCIS regional centers and how to pick the best regional cent
 
 In the early 90s, the EB-5 program was amdended to create the EB-5 Regional Center Program.  An EB-5 Regional Center is a commercial 
 enterprise which can pool money from the foreign immigrants and make capital investment projects. Regional Centers are designated as
-such by United States Citizenship and Immigration Services (USCIS) to promote economic growth and job creation. Regional center
-investment is not a mandatory for the Eb-5 visa, investors can also make direct investments. However, the primary advantage of the 
-regional center is that the foreign immigrant can meet the visa requirements by counting the indirect jobs projected to be created 
-through the center. In contrast, the direct investment Eb-5 applicants can meet the requirements only through the jobs directly created. Regional centers helps the foreign investors who are more interested in obtaining legal permanent residency (LPR) than directly investing or operating a business in the United States (U.S).
+such by United States Citizenship and Immigration Services (USCIS) to promote economic growth and job creation. 
+
+Regional center investment is not a mandatory for the Eb-5 visa, investors can also make direct investments. However, the primary advantage of the regional center is that the foreign immigrant can meet the visa requirements by counting the indirect jobs projected to be created through the center. In contrast, the direct investment Eb-5 applicants can meet the requirements only through the jobs directly created. Regional centers helps the foreign investors who are more interested in obtaining legal permanent residency (LPR) than directly investing or operating a business in the United States (U.S).
 
 The EB-5 Regional Center (RC) is a for profit enterprise which connects the foreign investor to the developers of projects in need of capital. The regional centers typically create an investment fund pooled from foreign investors and sponsors one or more commercial businesses. Real estate is the most common investment avenue of the regional centers. Regional centers 
 sponsors projects like construction of luxury hotels, office spaces, apartment complexes, warehouses etc. While most regional centers are private enterprises, there are a few of govt created public entities too. The primary motive behind the regional center program is to increase economic growth, productivity, job creation. Congress initially created the regional center program for a period of 5 years. Since, then it has been extended to subsquent 5 year periods for the last 25 years. Recently the program was extended until the <date>
-
 
 ## Eb-5 program requirement
 
@@ -51,7 +49,7 @@ We analyzed over 1000 USCIS designated regional centers and here is what we foun
 Number of regional centers by territory,
 
 
-# of regional centers | State/Territory 
+No. of regional centers | State/Territory 
 ------------------- | --------------
 13	| Alabama
 1	| Alaska
