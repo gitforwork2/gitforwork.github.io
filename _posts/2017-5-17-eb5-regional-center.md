@@ -162,12 +162,5 @@ cross verify building permits, property tax assements in the area the project is
 
 If the Eb-5 investment entity end up being fradulaent, you risk of not only failing to obtain LPR, but you might also loose the money. Hence, be extremely cautious and careful about your investment. If you suspect anything after the investment was made report to USCIS and SEC. 
 
-https://www.federalregister.gov/documents/2017/01/11/2017-00441/eb-5-immigrant-investor-regional-center-program
-http://www.natlawreview.com/article/uscis-announces-launch-eb-5-regional-center-compliance-audit-program
-https://en.wikipedia.org/wiki/EB-5_visa#EB-5_Regional_Centers
-https://www.sec.gov/oiea/investor-alerts-bulletins/investor-alerts-ia_immigranthtm.html
-http://www.eb5investors.com/eb5-basics/eb-5-regional-center
-https://www.uscis.gov/sites/default/files/USCIS/Working%20in%20the%20US/alert2017_march.pdf
-
 Add more real examples of eb-5 projects completed through regional-centers (atleast 2 paragraphs)
 expand reals examples of the risky cases reported. 
