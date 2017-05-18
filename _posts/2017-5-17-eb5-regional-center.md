@@ -107,13 +107,13 @@ No. of regional centers | State/Territory
 20	| Wisconsin
 1	| Wyoming
 
-#### What are the types of common commercial activity undertaken by the regional centers approved by USCIS?
+### What are the types of common commercial activity undertaken by the regional centers approved by USCIS?
 - Various types of Wholesale trading business
 - Nonresidential Building Construction
 - Traveler Accommodation
 - Architectural, Engineering, and Related Services
 
-#### Number of terminated regional centers
+### Number of terminated regional centers
 
 - 98 regional centers have been terminated by USCIS so far.
 
