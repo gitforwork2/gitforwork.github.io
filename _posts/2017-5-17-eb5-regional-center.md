@@ -48,7 +48,6 @@ it's detailed business plan and details of employment generated.
 We analyzed over 1000 USCIS designated regional centers and here is what we found,
 Number of regional centers by territory,
 
-
 No. of regional centers | State/Territory 
 ------------------- | --------------
 13	| Alabama
@@ -108,9 +107,14 @@ No. of regional centers | State/Territory
 20	| Wisconsin
 1	| Wyoming
 
+#### What are the types of common commercial activity undertaken by the regional centers approved by USCIS?
+- Various types of Wholesale trading business
+- Nonresidential Building Construction
+- Traveler Accommodation
+- Architectural, Engineering, and Related Services
 
-Top types of business.
 Number of terminated regional centers
+
 Where do the receipts go
 
 
