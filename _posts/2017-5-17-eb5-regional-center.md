@@ -113,10 +113,9 @@ No. of regional centers | State/Territory
 - Traveler Accommodation
 - Architectural, Engineering, and Related Services
 
-Number of terminated regional centers
+#### Number of terminated regional centers
 
-Where do the receipts go
-
+- 98 regional centers have been terminated by USCIS so far.
 
 ## Regional center terminations
 
