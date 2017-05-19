@@ -1,13 +1,13 @@
 ---
 layout: post
-title: EB5 regional center - We analyzed 1300+ regional centers and this what we found
-date: 2017-5-16
+title: EB5 regional center - Data analysis on 1300+ centers
+date: 2017-5-18
 tags: Eb5 regional-center
 comments: true
 description: 1300+ USCIS regional centers and how to pick the best regional center
 ---
 
-## What is a EB-5 Regional Center 
+## What is a EB-5 regional center?
 
 In the early 90s, the EB-5 program was amdended to create the EB-5 Regional Center Program.  An EB-5 Regional Center is a commercial 
 enterprise which can pool money from the foreign immigrants and make capital investment projects. Regional Centers are designated as
@@ -17,6 +17,9 @@ Regional center investment is not a mandatory for the Eb-5 visa, investors can a
 
 The EB-5 Regional Center (RC) is a for profit enterprise which connects the foreign investor to the developers of projects in need of capital. The regional centers typically create an investment fund pooled from foreign investors and sponsors one or more commercial businesses. Real estate is the most common investment avenue of the regional centers. Regional centers 
 sponsors projects like construction of luxury hotels, office spaces, apartment complexes, warehouses etc. While most regional centers are private enterprises, there are a few of govt created public entities too. The primary motive behind the regional center program is to increase economic growth, productivity, job creation. Congress initially created the regional center program for a period of 5 years. Since, then it has been extended to subsquent 5 year periods for the last 25 years. Recently the program was extended until the <date>
+
+## Eb-5 visa 
+test
 
 ## Eb-5 program requirement
 
@@ -44,7 +47,7 @@ actual projects or hypothetical projects. Hypothetical project application shoul
 creation of the proposed regional center. The application for an actual project requires a description of the nature of the business,
 it's detailed business plan and details of employment generated.
 
-## Stats
+## EB-5 regional center statistics
 We analyzed over 1000 USCIS designated regional centers and here is what we found,
 Number of regional centers by territory,
 
