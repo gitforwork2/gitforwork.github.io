@@ -10,6 +10,17 @@ description: 1300+ USCIS regional center projects and how to pick the best regio
 ## What is a regional center?
 United Statest Citizenship and Immigration Services (USCIS) designates certain businesses as regional centers through which foreign investors can invest money to obtain legal permanent residency(LPR) commonly referred to as green card. These green cards or visas are granted through the employment based 5th category [eb 5 investor visa](/posts/eb-5/).
 
+## Table Of Contents
+- [EB-5 visa program and regional centers](#eb-5-visa-program-and-regional centers)
+- [EB-5 regional center program extension](#eb-5-regional-center-program-extension)
+- [Eb-5 investor visa requirement](#eb-5-investor-visa-requirement)
+- [EB-5 Regional center application and designation](#eb-5-regional-center-application-and-designation)
+- [EB-5 Regional centers statistics](#eb-5-regional-centers-statistics)
+- [EB-5 Regional center terminations](#regional-center-terminations)
+- [Regional center risks](#regional-center-risks)
+- [Create your regional center rankings](#create-your-regional-center-rankings)
+
+
 ## EB-5 visa program and regional centers
 
 In the early 90s, the EB-5 visa program was amended to create the EB-5 regional center program.  An EB-5 Regional Center is a commercial 
@@ -138,7 +149,7 @@ USCIS gives the regional center 30 days to furnish sufficient information and av
 
 USCIS also provides avenues for the terminated regional centers to appeal and get re approved for a Eb-5 regional center designation. 
 
-## EB-5 Scams:
+## Regional center risks
 
 It's important to note that even though USCIS designates a regional center, it does not gaurantee or endorse the activities of the center. It's also important to note that USCIS or any other government agency does not evaluate the quality of the projects. The resnposibility for due diligence of the regional center lies with the immigrant investor.
 Securities Exchange Commission (SEC) has in recent times expanded the monitoring the EB-5 program and they issued an active fraud alert warning to the investors. 
@@ -151,7 +162,10 @@ In another similiar case, the SEC alleged that another regional center falsely c
 In another case, SEC sued lawyers for taking a transaction based fee for promoting certain regional centers. 
 
 Any investment has risks and Eb-5 is no different. In Eb-5 program it's more complicated because the investors are primarily looking to obtain U.S green card in addition to a return on investment. Also, most times the investors are located in a foreign country and have to depend on agents that makes them vulnerable to scams.
-Nevertheless, the investors can take the following precautions while evaluating a regional center. 
+
+## Create your regional center rankings
+
+With recent explosion of regional centers, investors should be cautious about getting involved in bad regional centers. Investors can follow the SEC guidelines and create their own risk based regional center project rankings. Incorporate the following guidelines while evaluating the regional centers. rank and pick the best among them.
 
 * Verify that the regional center is not listed by USCIS in the terminated list. 
 * Verify that the regional center is in the USCIS eb-5 regional center list. Even if the regional center is listed remember that USCIS doesn't gaurantee the quality of investments
@@ -161,8 +175,7 @@ Nevertheless, the investors can take the following precautions while evaluating 
 * Check the track record of previous EB-5 approvals of the regional center if it exists. 
 * Ask if the consultants, attorneys and other service agencies get paid for promoting or recommending certain regional center. Ask them in writing. Individuals and entities who get paid for selling an investment may have to be registered with SEC. Ask for SEC registration details. 
 
-* Cross verify the information that you gather from the developers, consultants and lawyers and make sure they are consistnet. Verify any claims made by any of these parties. For example,
-cross verify building permits, property tax assements in the area the project is located. Compare similiar projects in the area to make sure nothing that is being offered in out of the line. 
+* Cross verify the information that you gather from the developers, consultants and lawyers and make sure they are consistnet. Verify any claims made by any of these parties. For example, cross verify building permits, property tax assements in the area the project is located. Compare similiar projects in the area to make sure nothing that is being offered in out of the line. 
 
 * Examine the balance sheet of the regional center, the budget of the projects, assets, the amount of debt, due dates etc.
 
@@ -170,7 +183,7 @@ cross verify building permits, property tax assements in the area the project is
 
 * Watch out for overtly out of the line promises/promotions like risk free returns, gauranteed permanent status, high return on investments etc. 
 
-If the Eb-5 investment entity end up being fradulaent, you risk of not only failing to obtain LPR, but you might also loose the money. Hence, be extremely cautious and careful about your investment. If you suspect anything after the investment was made report to USCIS and SEC. 
+If the Eb-5 investment entity end up being fradulant, you risk of not only failing to obtain LPR, but you might also loose the money. Hence, be extremely cautious and careful about your investment. If you suspect anything after the investment was made report to USCIS and SEC. 
 
 Add more real examples of eb-5 projects completed through regional-centers (atleast 2 paragraphs)
 expand reals examples of the risky cases reported. 
