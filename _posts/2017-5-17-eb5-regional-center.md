@@ -1,16 +1,18 @@
 ---
 layout: post
-title: EB5 regional center - 1300+ centers data analytics & statistics
+title: EB5 regional center - 1300+ centers data driven statistics
 date: 2017-5-18
 tags: Eb5 regional-center
 comments: true
-description: 1300+ USCIS regional center projects and how to pick the best regional center
+description: 9000+ visas awarded annually to regional center EB-5 investors. Over $5 billion invested through the regional centers
+to generate over 150K full time jobs yearly. Top 5 states pull in 65% of the total investments.
 ---
 
 ## What is a regional center?
-United Statest Citizenship and Immigration Services (USCIS) designates certain businesses as regional centers through which foreign investors can invest money to obtain legal permanent residency(LPR) commonly referred to as green card. These green cards or visas are granted through the employment based 5th category [eb 5 investor visa](/posts/eb-5/).
+United Statest Citizenship and Immigration Services (USCIS) designates certain businesses as regional centers through which foreign investors can invest money to obtain legal permanent residency(LPR) commonly referred to as green card. These green cards or visas are granted through the employment based 5th category [EB-5 investor visa](/posts/eb-5/).
 
 ## Table Of Contents
+
 - [EB-5 visa program and regional centers](#eb-5-visa-program-and-regional centers)
 - [EB-5 regional center program extension](#eb-5-regional-center-program-extension)
 - [Eb-5 investor visa requirement](#eb-5-investor-visa-requirement)
@@ -73,17 +75,19 @@ Following are the interesting statistics from the regional centers,
 - Architectural, Engineering, and Related Service
 
 ### EB-5 recipients by regional origin,
-### What are the types of common commercial activity undertaken by the regional centers approved by USCIS?
-- Various types of Wholesale trading business
-- Nonresidential Building Construction
-- Traveler Accommodation
-- Architectural, Engineering, and Related Service
+![EB-5 investors]({{ site.url }}assets/images/posts/eb5-country-demand.png)
 
-### Number of EB-5 visa recipients by territory,
+### Highlights from the recently released analysis of the program by the U.S. Department of Commerce. Data were used from FY2012-2013.
 
-![EB-5 investor-origin]({{ site.url }}assets/images/posts/eb5-country-demand.png)
+Data pulled from the [report](http://www.esa.doc.gov/sites/default/files/estimating-the-investment-and-job-creation-impact-of-the-eb-5-program_0.pdf)
 
-### Spread of regional center projects,
+- $5.6 billion dollas invested through the EB-5 investor program in a year. 
+- 35% of investments for the regional center project funding were contributed by foreign investors
+- Around 170,000 estimated jobs were created through regional centers in a year
+- California is the top destination for US investor visa program
+- New York, Florida, Texas and Alabama are the top attractive destinations
+
+### Spread of regional center projects as of now,
 
 No. of regional centers | State/Territory 
 ------------------- | --------------
