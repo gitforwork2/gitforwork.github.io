@@ -65,7 +65,25 @@ it's detailed business plan and details of employment generated.
 ## EB-5 regional centers statistics
 Following are the interesting statistics from the regional centers,
 
-Number of regional centers by territory,
+### Types of common commercial activity undertaken by the regional center projects
+
+- Various types of Wholesale trading business
+- Nonresidential Building Construction
+- Traveler Accommodation
+- Architectural, Engineering, and Related Service
+
+### EB-5 recipients by regional origin,
+### What are the types of common commercial activity undertaken by the regional centers approved by USCIS?
+- Various types of Wholesale trading business
+- Nonresidential Building Construction
+- Traveler Accommodation
+- Architectural, Engineering, and Related Service
+
+### Number of EB-5 visa recipients by territory,
+
+![EB-5 investor-origin]({{ site.url }}assets/images/posts/eb5-country-demand.png)
+
+### Spread of regional center projects,
 
 No. of regional centers | State/Territory 
 ------------------- | --------------
@@ -127,12 +145,6 @@ No. of regional centers | State/Territory
 1	| Wyoming
 
 USCIS, EB5 approved projects can be found on their [website ](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/immigrant-investor-regional-centers)
-
-### What are the types of common commercial activity undertaken by the regional centers approved by USCIS?
-- Various types of Wholesale trading business
-- Nonresidential Building Construction
-- Traveler Accommodation
-- Architectural, Engineering, and Related Service
 
 ### Number of terminated regional centers
 
