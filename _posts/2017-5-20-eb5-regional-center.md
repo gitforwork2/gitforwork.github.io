@@ -12,8 +12,7 @@ United States Citizenship and Immigration Services (USCIS) designates certain bu
 
 ## Table Of Contents
 
-
-- [EB-5 visa program and regional centers](#eb-5-visa-program-and-regional centers)
+- [EB-5 visa program and regional centers](#eb-5-visa-program-and-regional-centers)
 - [EB-5 regional center program extension](#eb-5-regional-center-program-extension)
 - [Eb-5 investor visa requirement](#eb-5-investor-visa-requirement)
 - [EB-5 Regional center application and designation](#eb-5-regional-center-application-and-designation)
@@ -21,7 +20,6 @@ United States Citizenship and Immigration Services (USCIS) designates certain bu
 - [EB-5 Regional center terminations](#regional-center-terminations)
 - [Regional center risks](#regional-center-risks)
 - [Create your regional center rankings](#create-your-regional-center-rankings)
-
 
 ## EB-5 visa program and regional centers
 
