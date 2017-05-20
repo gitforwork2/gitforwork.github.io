@@ -1,25 +1,27 @@
 ---
 layout: post
-title: EB5 regional center - Data analysis on 1300+ centers
+title: EB5 regional center - 1300+ centers data analytics & statistics
 date: 2017-5-18
 tags: Eb5 regional-center
 comments: true
-description: 1300+ USCIS regional centers and how to pick the best regional center
+description: 1300+ USCIS regional center projects and how to pick the best regional center
 ---
 
-## What is a EB-5 regional center?
+## What is a regional center?
+United Statest Citizenship and Immigration Services (USCIS) designates certain businesses as regional centers through which foreign investors can invest money to obtain legal permanent residency(LPR) commonly referred to as green card. These green cards or visas are granted through the employment based 5th category [Eb-5 visa](/posts/eb-5/).  
 
-In the early 90s, the EB-5 program was amdended to create the EB-5 Regional Center Program.  An EB-5 Regional Center is a commercial 
+In the early 90s, the EB-5 program was amended to create the EB-5 regional center program.  An EB-5 Regional Center is a commercial 
 enterprise which can pool money from the foreign immigrants and make capital investment projects. Regional Centers are designated as
-such by United States Citizenship and Immigration Services (USCIS) to promote economic growth and job creation. 
+such by USCIS to promote economic growth and job creation. 
 
 Regional center investment is not a mandatory for the Eb-5 visa, investors can also make direct investments. However, the primary advantage of the regional center is that the foreign immigrant can meet the visa requirements by counting the indirect jobs projected to be created through the center. In contrast, the direct investment Eb-5 applicants can meet the requirements only through the jobs directly created. Regional centers helps the foreign investors who are more interested in obtaining legal permanent residency (LPR) than directly investing or operating a business in the United States (U.S).
 
 The EB-5 Regional Center (RC) is a for profit enterprise which connects the foreign investor to the developers of projects in need of capital. The regional centers typically create an investment fund pooled from foreign investors and sponsors one or more commercial businesses. Real estate is the most common investment avenue of the regional centers. Regional centers 
-sponsors projects like construction of luxury hotels, office spaces, apartment complexes, warehouses etc. While most regional centers are private enterprises, there are a few of govt created public entities too. The primary motive behind the regional center program is to increase economic growth, productivity, job creation. Congress initially created the regional center program for a period of 5 years. Since, then it has been extended to subsquent 5 year periods for the last 25 years. Recently the program was extended until the <date>
+sponsors projects like construction of luxury hotels, office spaces, apartment complexes, warehouses etc. While most regional centers are private enterprises, there are a few of govt created public entities too. The primary motive behind the regional center program is to increase economic growth, productivity, job creation. 
 
-## Eb-5 visa 
-test
+## EB-5 regional center program extension
+
+Congress initially created the regional center program for a period of 5 years. Since then it has been extended to subsquent 5 year periods for the last 25 years. Current approval of the regional center program runs until September 2017. 
 
 ## Eb-5 program requirement
 
@@ -39,7 +41,7 @@ EB-5 investor can live, study or work anywhere in the U.S. None of the activity 
 Eb-5 applicants need not have to be actively managing the projects through which they are seeking a green card. However, applicants seeking green card through direct investments typically 
 actively are involved in the operations of the enterprise.
 
-## Regional Center Designation
+## EB-5 Regional center application and designation
 
 Developers makes an application to USCIS through form I-924 to designate a project as an EB-5 regional center. The application includes
 information about the geographical area and the types of businesses the regional center plans to invest. The application can include 
@@ -109,6 +111,8 @@ No. of regional centers | State/Territory
 11	| West Virginia
 20	| Wisconsin
 1	| Wyoming
+
+USCIS, EB5 approved projects can be found on their [website ](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/immigrant-investor-regional-centers)
 
 ### What are the types of common commercial activity undertaken by the regional centers approved by USCIS?
 - Various types of Wholesale trading business
