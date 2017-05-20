@@ -8,9 +8,11 @@ description: 1300+ USCIS regional center projects and how to pick the best regio
 ---
 
 ## What is a regional center?
-United Statest Citizenship and Immigration Services (USCIS) designates certain businesses as regional centers through which foreign investors can invest money to obtain legal permanent residency(LPR) commonly referred to as green card. These green cards or visas are granted through the employment based 5th category [Eb-5 visa](/posts/eb-5/).  
+United Statest Citizenship and Immigration Services (USCIS) designates certain businesses as regional centers through which foreign investors can invest money to obtain legal permanent residency(LPR) commonly referred to as green card. These green cards or visas are granted through the employment based 5th category [eb 5 investor visa](/posts/eb-5/).
 
-In the early 90s, the EB-5 program was amended to create the EB-5 regional center program.  An EB-5 Regional Center is a commercial 
+## EB-5 visa program and regional centers
+
+In the early 90s, the EB-5 visa program was amended to create the EB-5 regional center program.  An EB-5 Regional Center is a commercial 
 enterprise which can pool money from the foreign immigrants and make capital investment projects. Regional Centers are designated as
 such by USCIS to promote economic growth and job creation. 
 
@@ -23,7 +25,7 @@ sponsors projects like construction of luxury hotels, office spaces, apartment c
 
 Congress initially created the regional center program for a period of 5 years. Since then it has been extended to subsquent 5 year periods for the last 25 years. Current approval of the regional center program runs until September 2017. 
 
-## Eb-5 program requirement
+## Eb-5 investor visa requirement
 
 The Eb-5 visa program in essense has 2 requirements, invesments and job creation. 
 The foreign investor has to invest $1 million dollars in a regional center. The amount is reduced to half a million dollars if the regional center is located in areas of high unemployment and not within urban centers.  
@@ -49,8 +51,9 @@ actual projects or hypothetical projects. Hypothetical project application shoul
 creation of the proposed regional center. The application for an actual project requires a description of the nature of the business,
 it's detailed business plan and details of employment generated.
 
-## EB-5 regional center statistics
-We analyzed over 1000 USCIS designated regional centers and here is what we found,
+## EB-5 regional centers statistics
+Following are the interesting statistics from the regional centers,
+
 Number of regional centers by territory,
 
 No. of regional centers | State/Territory 
@@ -118,11 +121,11 @@ USCIS, EB5 approved projects can be found on their [website ](https://www.uscis.
 - Various types of Wholesale trading business
 - Nonresidential Building Construction
 - Traveler Accommodation
-- Architectural, Engineering, and Related Services
+- Architectural, Engineering, and Related Service
 
 ### Number of terminated regional centers
 
-- 98 regional centers have been terminated by USCIS so far.
+- 98 regional centers have been [terminated](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process/regional-center-terminations) by USCIS so far.
 
 ## Regional center terminations
 
