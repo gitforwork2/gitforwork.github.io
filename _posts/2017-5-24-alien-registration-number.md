@@ -14,7 +14,7 @@ It is also assigned if you apply for an employment authorization document (such 
 
 ## How do I find my alien registration number?
 
-related searches:
+alien registration number green card
 
 ## Alien registration number H1b
 
@@ -25,8 +25,6 @@ alien registration number when the H1b recipient's I-140 is approved for green c
 
 F1 visa, like the H1b is not a permanent residency visa. Hence, there are no alien registration number assigned to a student. However,
 a A# is assigned when the student applies for OPT EAD. The number is printed on the EAD card.
-
-alien registration number green card
 
 ## Does alien registration number appear in I-94?
 No I-94 is not printed on the I-94. Not all immigrants have a A#. And even for the ones that have one, it's not printed on the I-94.
