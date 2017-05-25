@@ -6,12 +6,10 @@ tags: USCIS
 comments: true
 description: Alien registration number is an important immigration information to know. Look up your A-number from your USCIS documents or 
 obtain it from your local USCIS office for FREE!
- ---
+---
 
 Alien registration number is a unique number assigned by USCIS to permanent immigrants of the U.S. Alien registration number is a 7-9 
-digit number and also commonly referred as "A-number" (A#) or USCIS number. Typically, USCIS assigns a A-number for immigrants applying for permanent residency or green card. It is also assigned in some other situations like at the time of applying for employment authorization document (EAD). The alien registration number is unique to an individual and doesn't change once assigned. Hence, it's almost like the social security number of immigration. USCIS stores all the immigration documents identified by the A-number and the same can be obtained by filing a USCIS FOIA through the A-number.
-
-It is also assigned if you apply for an employment authorization document (such as an F-1 OPT), a V visa, find yourself in deportation proceedings, and in a number of other situations.
+digit number and also commonly referred as "A-number" (A#) or USCIS number. Typically, USCIS assigns a A-number for immigrants applying for permanent residency or green card. It is also assigned in number of other situations like at the time of applying for employment authorization document (EAD). The alien registration number is unique to an individual and doesn't change once assigned. Hence, it's almost like the social security number of immigration. USCIS stores all the immigration documents identified by the A-number and the same can be obtained by filing a USCIS FOIA through the A-number.
 
 ## How do I find my alien registration number?
 
