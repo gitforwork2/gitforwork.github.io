@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alien registration number - Your Social Security # of immigration
+title: Alien registration number - Your Social Security # for immigration
 date: 2017-5-24
 tags: USCIS
 comments: true
@@ -8,14 +8,9 @@ description: Alien registration number
 ---
 
 Alien registration number is a unique number assigned by USCIS to permanent immigrants of the U.S. Alien registration number is a 7-9 
-characters long and also commonly referred as "A-number" (A#). Typically, USCIS assigns a A-number for immigrants applying for permanent 
-residency or green card. The alien registration number is unique to an individual and doesn't change once assigned. Hence, it's almost like the social 
-security number of immigration. USCIS stores all the immigration documents identified by the A-number and the same can be obtained by filing 
-a USCIS FOIA through the A-number.
+digit number and also commonly referred as "A-number" (A#) or USCIS number. Typically, USCIS assigns a A-number for immigrants applying for permanent residency or green card. It is also assigned in some other situations like at the time of applying for employment authorization document (EAD). The alien registration number is unique to an individual and doesn't change once assigned. Hence, it's almost like the social security number of immigration. USCIS stores all the immigration documents identified by the A-number and the same can be obtained by filing a USCIS FOIA through the A-number.
 
-Your A# is a personal identifier assigned by the USCIS if you apply for an adjustment of status, for employment authorization, 
-for a V visa and in certain other cases. The agency uses it to verify your identity in its internal processing systems. 
-It is not used to identify individual petitions or filings.
+It is also assigned if you apply for an employment authorization document (such as an F-1 OPT), a V visa, find yourself in deportation proceedings, and in a number of other situations.
 
 ## How do I find my alien registration number?
 
@@ -24,15 +19,13 @@ related searches:
 ## Alien registration number H1b
 
 H1b visa is a non-immigrant visa, hence a H1b applicant doesn't typically have a alien registration number. However, USCIS assigns an
-alien registration number when the H1b recipient's I-140 is approved for green card. A# is typically printed on any H1b approvals notices
-(Form I-797) subsequent to the I140 approval. 
+alien registration number when the H1b recipient's I-140 is approved for green card. A# is typically printed on any H1b approvals notices (Form I-797) subsequent to the I140 approval. 
 
-alien registration number i-94
+alien registration number I-94
 
-## Alien registration number F1
+## Alien registration number F1 visa
 
-alien registration number lookup
-form i-94 number
+F1 visa, like the H1b is not a permanent residency visa. Hence, there are no alien registration number assigned to a student. However,
+a A# is assigned when the student applies for OPT EAD. The number is printed on the EAD card.
+
 alien registration number green card
-alien number lookup
-alien registration number f1 visa
