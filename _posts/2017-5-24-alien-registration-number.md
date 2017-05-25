@@ -4,8 +4,7 @@ title: Alien registration number - Your Social Security # for immigration
 date: 2017-5-24
 tags: USCIS
 comments: true
-description: Alien registration number is an important immigration information to know. Look up your A-number from your USCIS documents or 
-obtain it from your local USCIS office for FREE!
+description: Alien registration number is an important immigration information to know. Look up your A-number from your USCIS documents or obtain it from your local USCIS office for FREE!
 ---
 
 Alien registration number is a unique number assigned by USCIS to permanent immigrants of the U.S. Alien registration number is a 7-9 
