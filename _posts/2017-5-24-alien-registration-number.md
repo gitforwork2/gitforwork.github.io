@@ -21,11 +21,12 @@ related searches:
 H1b visa is a non-immigrant visa, hence a H1b applicant doesn't typically have a alien registration number. However, USCIS assigns an
 alien registration number when the H1b recipient's I-140 is approved for green card. A# is typically printed on any H1b approvals notices (Form I-797) subsequent to the I140 approval. 
 
-alien registration number I-94
-
 ## Alien registration number F1 visa
 
 F1 visa, like the H1b is not a permanent residency visa. Hence, there are no alien registration number assigned to a student. However,
 a A# is assigned when the student applies for OPT EAD. The number is printed on the EAD card.
 
 alien registration number green card
+
+## Does alien registration number appear in I-94?
+No I-94 is not printed on the I-94. Not all immigrants have a A#. And even for the ones that have one, it's not printed on the I-94.
