@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alien registration number - Your Social Security # for immigration
+title: Alien registration number - 3 ways to get yours
 date: 2017-5-24
 tags: USCIS
 comments: true
@@ -12,7 +12,11 @@ Typically, USCIS assigns a A-number for immigrants applying for permanent reside
 
 ## How do I find my alien registration number?
 
-alien registration number green card
+There are a few ways to get your alien registration number. 
+
+### USCIS Infopass appointment
+
+If you are not able to find your A# in your existing immigration documents, you can get it directly from USCIS through their [infopass appointment](https://my.uscis.gov/appointment). Since alien registration number is personal and confidential information, USCIS does not share it over phone. So schedule an infopass appointment and be prepared to present your ID proof. Upon verification, USCIS will give your A-number.
 
 ## Alien registration number H1b
 
