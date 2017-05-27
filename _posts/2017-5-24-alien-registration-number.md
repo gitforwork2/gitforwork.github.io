@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alien registration number - 3 ways to get yours
+title: Alien registration number - 3 ways to get your social security number of immigration
 date: 2017-5-24
 tags: USCIS
 comments: true
@@ -12,15 +12,23 @@ Alien registration number is an unique 7-9 digit unique number assigned by USCIS
 Example A-numbers look like, 
 0X0-0X0-0X0
 
-Typically, USCIS assigns a A-number for immigrants applying for permanent residency or green card. It is also assigned in number of other situations like at the time of applying for employment authorization document (EAD). The alien registration number is unique to an individual and doesn't change once assigned. Hence, it's almost like a social security number of immigration. USCIS stores all the immigration documents identified by the A-number and the same can be obtained by filing a USCIS FOIA through the A-number.
+Typically, USCIS assigns a A-number for immigrants applying for permanent residency or green card. It is also assigned in other situations like at the time of applying for employment authorization document (EAD). The alien registration number is unique to an individual and assigned A# is carried all throughout the lifetime and beyond of the immigrant. Hence, it's almost like a social security number for immigration. USCIS archives all the immigration documents identified by the A-number and the same can be obtained by filing a USCIS FOIA through the A-number. 
 
 ## How do I find my alien registration number?
 
 There are a few ways to get your alien registration number. 
 
+### EAD 
+If you have a Employment Authorization Document (EAD), your A-number would be printed on the card. It may be called USCIS # on the card.
+Typically, for students who are on F1 visa and who have obtained OPT work permit, this is a easy way to get to the alien registration number.
+
+### I797 Approval documents
+
+In many cases USCIS prints the A# on the I797 approval notices. For example, USCIS assigns a A# for an immigrant whose form I140 is approved for employment based permanent residency. Such immigrant's H1b application I797 approval notices contain their A-number.
+
 ### USCIS Infopass appointment
 
-If you are not able to find your A# in your existing immigration documents, you can get it directly from USCIS through their [infopass appointment](https://my.uscis.gov/appointment). Since alien registration number is personal and confidential information, USCIS does not share it over phone. So schedule an infopass appointment and be prepared to present your ID proof. Upon verification, USCIS will give your A-number.
+If you are not able to find your A# in your existing immigration documents, you can get it directly from USCIS through their [infopass appointment](https://my.uscis.gov/appointment). Since the alien registration number is personal and confidential information, USCIS does not share it over phone. So schedule an infopass appointment and be prepared to present your ID proof. Upon verification, USCIS will give your alie registration number.
 
 ## Alien registration number H1b
 
