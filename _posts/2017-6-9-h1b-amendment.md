@@ -31,7 +31,7 @@ No. MSAs are not bound by state, city boundries they can transcend them. For exa
 You are over complicating things I believe. A move within the same MSA (same client or otherwise), assuming there aren't any 'other' material changes like job duties, roles and responsibilities does not warrant an amendment. An LCA is needed and has to be posted (even if one already exists for that location). 
 
 ###
-I heard this has to be done before you start working at new client, is this true?
+I heard this has to be done before you start working at new client, is this true? 
 
 ###
 Does anyone know how much time is it taking for h1 amendment approval under normal process? It's been 4 months since my employer filed my h1 amendment no updates yet. I'm planning to convert it into PP, IS it gud idea to do so? Plz share your experience.
