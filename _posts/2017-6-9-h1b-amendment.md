@@ -15,30 +15,29 @@ When a H1b employee's job with the same employer undergoes changes like location
 It depends. If your new work location falls under the same Metropolitan Statistical Area (MSA) then you won't need to do an amendment. But if they are different then you would need one. 
 
 ## What is a Metropolitan Statistical Area (MSA)?
-A Metropolitan Statistical Area (MSA)[https://en.wikipedia.org/wiki/Metropolitan_statistical_area] is a geographical region defined by population and economic activities. MSAs are designated as such by the Office of Management and Budget (OMB), a federal govt agency.
+A Metropolitan Statistical Area [MSA](https://en.wikipedia.org/wiki/Metropolitan_statistical_area) is a geographical region defined by population and economic activities. MSAs are designated as such by the Office of Management and Budget (OMB), a federal govt agency.
 
 ## I am with the same Employer and same client, but work location at client is changing. Do I need to file an amendment?
 If the move is permanent and the new location is in a different MSA, then you would need to file an amendment. If the move is temporary,
 depending on certain criteria, you won't need an amendment.
 
 ## I am with the same employer, but joining a new client in the same area. Do I need to file an amendment?
-If the location is within the same MSA and there is no change in roles, responsibilites etc, you won't need one.
+If the location is within the same MSA and there is no change in job duties, roles, responsibilites etc, you won't need one.
 
 ## Are MSAs confined to a state?
-No. MSAs are not bound by state, city boundries they can transcend them. For example, certain areas in New York and New Jersey states fall under the same MSA. The tristate area you are talking about is a perfect example. http://en.wikipedia.org/wiki/New_York_metropoli... The link above lists the counties in NJ and in NY (And even one in PA) that falls under the MSA for NYC.
+No. MSAs are not bound by state or city boundries. In fact  they can transcend them. For example, New York MSA comprises of regions from 4 different [states](https://en.wikipedia.org/wiki/New_York_metropolitan_area). The tristate area you are talking about is a perfect example. ... The link above lists the counties in NJ and in NY (And even one in PA) that falls under the MSA for NYC.
 
-###
-You are over complicating things I believe. A move within the same MSA (same client or otherwise), assuming there aren't any 'other' material changes like job duties, roles and responsibilities does not warrant an amendment. An LCA is needed and has to be posted (even if one already exists for that location). 
+## Can I start working at the new location and apply for amendment?
+No. Your employer has to apply for the H1b amedment and upon receiving the recipt, one can start working in the new location. 
 
-###
-I heard this has to be done before you start working at new client, is this true? 
+## Can an amendment and visa extension filed together? 
+Yes, they can be applied together provided other criteria for the extension is met. 
 
-###
-Does anyone know how much time is it taking for h1 amendment approval under normal process? It's been 4 months since my employer filed my h1 amendment no updates yet. I'm planning to convert it into PP, IS it gud idea to do so? Plz share your experience.
+## What is the H1b amendment processing time look like?
+It historically varies depending on USCIS work load. Check with your attorneys.
 
-http://www.trackitt.com/usa-discussion-forums/h1b/1550224181/h1b-amendment-confirmed-new-rules-and-extension/page/3
+## Can a visa amendment applied in premium?
+Generally Yes. But USCIS suspends H1b premium processing occasionally for various reasons. Outside that premium processing is available.
 
 
-### Can amendment applied in premium?
-Yes
 
